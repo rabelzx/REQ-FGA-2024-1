@@ -1,0 +1,49 @@
+site_name: DataDiggers | Construmix
+
+repo_name: "2024.1-CONSTRUMIX"
+repo_url: "https://github.com/mdsreq-fga-unb/2024.1-CONSTRUMIX"
+
+theme:
+  name: material
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+
+  language: pt
+
+  font:
+    text: "Roboto"
+    code: "sans-serif"
+
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: yellow
+
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+      primary: yellow
+
+  logo: images/logo.png
+  favicon: images/logo.png
+
+extra_css:
+  - css/style.css
+
+nav:
+  - Início: index.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
