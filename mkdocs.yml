@@ -43,6 +43,8 @@ extra_css:
 
 nav:
   - Início: index.md
+  - Reuniões:
+    - 25/07: reuniao_25_07.md
 
 markdown_extensions:
   - attr_list
