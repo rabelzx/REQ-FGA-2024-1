@@ -25,7 +25,7 @@ Na reunião, todos os integrantes do grupo participam, sendo então os presentes
 
 Definição de um RichPicture com a visão geral dos possíveis clientes, monetização, possíveis concorrentes e orgarnização da documentação do projeto estruturada no MKDOCS(Git Pages).
 
-## 5. Histórico de Versão
+## 4. Histórico de Versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
 |--------|-----------|-------------|---------|------|

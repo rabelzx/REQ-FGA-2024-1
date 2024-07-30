@@ -32,7 +32,7 @@ Na reunião, nem todos os integrantes estiveram presentes, sendo então os prese
 - Feita a divisão de tarefas, foi discutido qual membro utilizaria a técnica de elicitação de "análise de protocolo" para ser feita durante a reunião. O Danilo se responsabilizou para fazer a análise de protocolo, fornecendo seu dispositivo móvel para gravar o áudio e acessar o aplicativo. A tarefa definida para o Danilo executar foi a de entrar no aplicativo, criar uma conta, selecionar um filme e fazer uma breve análise sobre o mesmo, verbalizando todas as tarefas efetuadas.
 - Por fim, a Sunamita se responsabilizou por fazer outra análise de protocolo agora com a tarefa de entrar no aplicativo, selecionar uma série e fazer uma breve análise sobre a mesma, verbalizando todas as tarefas efetuadas. No caso, essa análise complementará o rich picture feito pelo Paulo Henrique.
 
-## 5. Histórico de Versão
+## 4. Histórico de Versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
 |--------|-----------|-------------|---------|------|

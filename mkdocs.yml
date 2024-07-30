@@ -1,7 +1,16 @@
-site_name: DataDiggers | Construmix
+site_name: TV Time
 
-repo_name: "2024.1-CONSTRUMIX"
+repo_name: "TV Time"
 repo_url: "https://github.com/mdsreq-fga-unb/2024.1-CONSTRUMIX"
+
+nav:
+  - Início: index.md
+  - Rastreabilidade:
+    - Dia 25/07: rastreabilidade/reuniao_25_07.md
+    - Dia 29/07: rastreabilidade/reuniao_29_07.md
+  - RichPicture:
+    - RichPicture: rich_picture/rich_index.md
+    - teste: rich_picture/rich1.md
 
 theme:
   name: material
@@ -41,10 +50,6 @@ theme:
 extra_css:
   - css/style.css
 
-nav:
-  - Início: index.md
-  - Reuniões:
-    - 25/07: reuniao_25_07.md
 
 markdown_extensions:
   - attr_list
