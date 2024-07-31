@@ -7,6 +7,7 @@ nav:
   - Início: index.md
   - Pré-rastreabilidade:
     - RichPicture: Pre-rastreabilidade/richpicture.md
+  - Elicitação: Elicitacao/elicitacao.md
   - Atas: 
     - Dia 23/07: Atas/reuniao_23_07.md
     - Dia 25/07: Atas/reuniao_25_07.md
@@ -48,8 +49,6 @@ theme:
   logo: images/app_logo.png
   favicon: images/app_logo.png
 
-extra_css:
-  - css/style.css
 
 markdown_extensions:
   - attr_list

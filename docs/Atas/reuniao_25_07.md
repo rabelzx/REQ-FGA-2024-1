@@ -15,10 +15,11 @@ As informações sobre data, horário, duração e local estão detalhadas a seg
 ## 2. Participantes
 
 Na reunião, todos os integrantes do grupo participam, sendo então os presentes:
+
 - Danilo Naves do Nascimento
 - Eric Rabelo Borges
 - Paulo Henrique Melo de Souza
-- Wolfgang Friedrich Stein - 231032121
+- Wolfgang Friedrich Stein
 
 
 ## 3. Pontos de Discussão Importantes
