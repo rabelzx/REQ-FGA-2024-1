@@ -14,7 +14,6 @@ As informações sobre data, horário, duração e local estão detalhadas a seg
 
 ## 2. Participantes
 
-Na reunião, nem todos os integrantes estiveram presentes, sendo então os presentes:
 - Danilo Naves do Nascimento
 - Paulo Henrique Melo de Souza
 - Wolfgang Friedrich Stein

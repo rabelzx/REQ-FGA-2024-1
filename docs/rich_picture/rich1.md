@@ -1,1 +1,0 @@
-![blabla](./images/Rich Picture - TV Time - Geral.png)

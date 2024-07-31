@@ -1,16 +1,17 @@
-site_name: TV Time
+site_name: TV Time - Docs
 
 repo_name: "TV Time"
-repo_url: "https://github.com/mdsreq-fga-unb/2024.1-CONSTRUMIX"
+repo_url: "https://github.com/rabelzx/REQ-FGA-2024-1"
 
 nav:
   - Início: index.md
-  - Rastreabilidade:
-    - Dia 25/07: rastreabilidade/reuniao_25_07.md
-    - Dia 29/07: rastreabilidade/reuniao_29_07.md
-  - RichPicture:
-    - RichPicture: rich_picture/rich_index.md
-    - teste: rich_picture/rich1.md
+  - Pré-rastreabilidade:
+    - RichPicture: Pre-rastreabilidade/richpicture.md
+  - Atas: 
+    - Dia 23/07: Atas/reuniao_23_07.md
+    - Dia 25/07: Atas/reuniao_25_07.md
+    - Dia 29/07: Atas/reuniao_29_07.md
+    - Dia 30/07: Atas/reuniao_30_07.md
 
 theme:
   name: material
@@ -33,23 +34,22 @@ theme:
     code: "sans-serif"
 
   palette:
-    - scheme: default
+    - scheme: slate 
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
       primary: yellow
 
-    - scheme: slate
+    - scheme: default
       toggle:
         icon: material/toggle-switch
       primary: yellow
 
-  logo: images/logo.png
-  favicon: images/logo.png
+  logo: images/app_logo.png
+  favicon: images/app_logo.png
 
 extra_css:
   - css/style.css
-
 
 markdown_extensions:
   - attr_list
