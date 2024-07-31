@@ -8,7 +8,7 @@ As informações sobre data, horário, duração e local estão detalhadas a seg
 
 - Horário início: 19:00
 
-- Duração: 1:10 horas
+- Duração: 2 horas e 40 minutos
 
 - Local: Teams
 
