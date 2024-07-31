@@ -3,7 +3,8 @@
 | Data       | Autor         | Descrição                         | Versão  |
 |------------|---------------|-----------------------------------|---------|
 | 30-07-2024 |  Eric Rabelo, Wolfgang Friedrich  | Criação do documento e adição dos RichPictures Geral - Versão 1.0 e Geral - Versão 2.0 | 1.0     |
-| 30-07-2024 |  Danilo Naves, Paulo Henrique Melo | Adicionando rich picture versão 1.0 de Usuários - | 1.1     |
+| 30-07-2024 |  Danilo Naves, Paulo Henrique Melo | Adicionando RichPicture - versão 1.0 de Usuários - | 1.1     |
+| 31-07-2024 |  Paulo Henrique Melo | Adicionando RichPictures Shows - versão 1.0 e versão 2.0 | 1.2     |
 
 
 ## 1 - Introdução
@@ -19,23 +20,35 @@ A finalidade para o uso do RicPicture é fornecer um modelo que auxilia o entend
 
 ### 3.1 - Geral
 
-#### Versão 1.0
-![blabalbal](../images/richpic_geral_v1.png)
+#### Versão 1.0 {#v1geral}
+![RichPicture Geral - v1](../images/richpic_geral_v1.png)
 
 > Autores: Erick, Paulo, Wolfgang. [Referência](../Atas/reuniao_23_07.md)
 
-#### Versão 2.0
-![blabalbal](../images/richpic_geral_v2.png)
+#### Versão 2.0 {#v2geral}
+![RichPicture Geral - v2](../images/richpic_geral_v2.png)
 
 > Autores: Danilo, Erick, Paulo, Sunamita, Wolfgang. [Referência](../Atas/reuniao_25_07.md)
 
-### 3.2 - Usuário
+### 3.2 - Filmes/Séries 
 
-#### Versão 1.0
+#### Versão 1.0 {#v1shows}
+![RichPicture Filmes/Séries - v1](../images/richpic_shows_v1.svg)
+
+> Autor: Paulo. [Referência](../documentacao/observacaoShows.md)
+
+#### Versão 2.0 {#v2shows}
+![RichPicture Filmes/Séries - v2](../images/richpic_shows_v2.svg)
+
+> Autores: Sunamita, Paulo. [Referência](../Atas/reuniao_29_07.md)
+
+### 3.3 - Usuário
+
+#### Versão 1.0 {#v1usuario}
 
 <center>
 
-![blabalbal](../images/richpic_usuario_v1.svg)
+![RichPicture Usuário - v1](../images/richpic_usuario_v1.svg)
 
 </center>
 
