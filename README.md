@@ -56,38 +56,45 @@ Um pouco das coisas que você pode fazer com TV Time
 
 
 ## Contribuidores
-<div style="display: flex; flex-direction: row; gap: 80px; flex-wrap: wrap; justify-content: center;" >
-    <div>
-        <a href="https://github.com/DaniloNavesS">
-                <img style="border-radius: 50%;"         src="https://github.com/DaniloNavesS.png" width="100px;"/>
+
+<center>
+<table style="margin-left: auto; margin-right: auto;">
+    <tr>
+    <td align="center">
+            <a href="https://github.com/DaniloNavesS">
+                <img style="border-radius: 50%;"         src="https://github.com/DaniloNavesS.png" width="150px;"/>
                 <h5 class="text-center">Danilo Naves</h5>
-        </a>
-    </div>
-    <div>
-        <a href="https://github.com/rabelzx">
-                <img style="border-radius: 50%;"         src="https://github.com/rabelzx.png" width="100px;"/>
+            </a>
+        </td>        
+        <td align="center">
+            <a href="https://github.com/rabelzx">
+                <img style="border-radius: 50%;"         src="https://github.com/rabelzx.png" width="150px;"/>
                 <h5 class="text-center">Eric Rabelo</h5>
-        </a>
-    </div>
-    <div>
-        <a href="https://github.com/paulomh">
-                <img style="border-radius: 50%;"   src="https://github.com/paulomh.png" width="100px;"/>
+            </a>
+        </td>            
+         <td align="center">
+            <a href="https://github.com/paulomh">
+                <img style="border-radius: 50%;"   src="https://github.com/paulomh.png" width="150px;"/>
                 <h5 class="text-center">Paulo Henrique</h5>
-        </a>
-    </div>
-      <div>
-        <a href="https://github.com/Sunamit">
-                <img style="border-radius: 50%;"         src="https://github.com/Sunamit.png" width="100px;"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/Sunamit">
+                <img style="border-radius: 50%;"         src="https://github.com/Sunamit.png" width="150px;"/>
                 <h5 class="text-center">Sunamita Vitoria</h5>
-        </a>
-    </div>
-        <div>
-        <a href="https://github.com/WolffStein">
-                <img style="border-radius: 50%;"         src="https://github.com/WolffStein.png" width="100px;"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/WolffStein">
+                <img style="border-radius: 50%;"         src="https://github.com/WolffStein.png" width="150px;"/>
                 <h5 class="text-center">Wolfgang Stein</h5>
         </a>
-    </div>
-</div>
+        </td>
+</table>
+
+
+
+
 
 
 
