@@ -34,7 +34,7 @@
 
 ## Entregas
 
-[Clique aqui](https://rabelzx.github.io/REQ-FGA-2024-1/Entregas/entregas/) para acessar as entregas da disciplinas. 
+[Clique aqui](https://rabelzx.github.io/REQ-FGA-2024-1/Entregas/entregas/) para acessar as entregas da disciplina. 
 
 ## Introdução
 
