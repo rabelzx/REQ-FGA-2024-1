@@ -22,9 +22,19 @@
 
 ## Sumário
 
+- [Documentação](#Documentação)
+- [Entregas](#Entregas)
 - [Introdução](#Introdução)
 - [Features](#Features)
 - [Contribuidores](#Contribuidores)
+
+## 🥗 Documentação
+
+[Clique aqui](https://rabelzx.github.io/REQ-FGA-2024-1/) para acessar a documentação do projeto. 
+
+## Entregas
+
+[Clique aqui](https://rabelzx.github.io/REQ-FGA-2024-1/Entregas/entregas/) para acessar as entregas da disciplinas. 
 
 ## Introdução
 
