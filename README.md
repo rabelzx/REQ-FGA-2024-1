@@ -1,6 +1,3 @@
-# REQ-FGA-2024-1
-TV Time - Docs
-
 <h1 align="center"> TV Time </h1> <br>
 <p align="center">
   <a href="https://gitpoint.co/">
@@ -23,11 +20,11 @@ TV Time - Docs
 </p>
 
 
-## Table of Contents
+## Sumário
 
-- [Introduction](#Introdução)
+- [Introdução](#Introdução)
 - [Features](#Features)
-- [Contributors](#Contribuidores)
+- [Contribuidores](#Contribuidores)
 
 ## Introdução
 
