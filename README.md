@@ -38,6 +38,8 @@
 
 ## Introdução
 
+Com o intuito de fornecer um ambiente de aprendizado prático, este repositório foi desenvolvido para os alunos da disciplina de Requisitos de Software da FGA. Aqui, os estudantes poderão explorar diversos aspectos do processo de levantamento de requisitos, desde a elicitação até a validação, com o objetivo de fortalecer suas competências nessa área fundamental da engenharia de software.
+
 TV Time é uma ferramenta que você precisa para organizar suas séries e filmes que você ama e acompanhar o que você está assistindo
 
 **Disponível para Android e iOS.**
