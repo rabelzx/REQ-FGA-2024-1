@@ -8,7 +8,7 @@ O objetivo deste documento é apresentar as técnicas de elicitação de requisi
 
 ## 3 - Geral
 ---
-Durante as reuniões dos dias 23/07 e 25/07, foi discutido, de modo externo, os possíveis interessados e suas necessidades para qual tenham com o aplicativo. A partir disso, utilizando a técnica de brainstorming, foi possível identificar os possíveis interessados e gerar como artefato o [RichPicture Geral - versão 1.0](../Pre-rastreabilidade/richpicture.md#v1geral) e [RichPicture Geral - versão 2.0](../Pre-rastreabilidade/richpicture.md#v2geral).
+Durante as reuniões dos dias [23/07](../Atas/reuniao_23_07.md) e [25/07](../Atas/reuniao_25_07.md), foi discutido, de modo externo, os possíveis interessados e suas necessidades para qual tenham com o aplicativo. A partir disso, utilizando a técnica de brainstorming, foi possível identificar os possíveis interessados e gerar como artefato o [RichPicture Geral - versão 1.0](../Pre-rastreabilidade/richpicture.md#v1geral) e [RichPicture Geral - versão 2.0](../Pre-rastreabilidade/richpicture.md#v2geral).
 
 ## 4 - Filmes / Séries
 ---

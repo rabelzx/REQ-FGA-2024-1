@@ -23,12 +23,12 @@ A finalidade para o uso do RicPicture é fornecer um modelo que auxilia o entend
 #### Versão 1.0 {#v1geral}
 ![RichPicture Geral - v1](../images/richpic_geral_v1.png)
 
-> Autores: Erick, Paulo, Wolfgang. [Referência](../Atas/reuniao_23_07.md)
+> Autores: Eric, Paulo, Wolfgang, Sunamita. [Referência](../Atas/reuniao_23_07.md)
 
 #### Versão 2.0 {#v2geral}
 ![RichPicture Geral - v2](../images/richpic_geral_v2.png)
 
-> Autores: Danilo, Erick, Paulo, Sunamita, Wolfgang. [Referência](../Atas/reuniao_25_07.md)
+> Autores: Danilo, Eric, Paulo, Sunamita, Wolfgang. [Referência](../Atas/reuniao_25_07.md)
 
 ### 3.2 - Filmes/Séries 
 
