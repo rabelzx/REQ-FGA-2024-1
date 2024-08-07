@@ -5,6 +5,7 @@ repo_url: "https://github.com/rabelzx/REQ-FGA-2024-1"
 
 nav:
   - Início: index.md
+  - Visão do Produto: VisaoProduto/visao_produto.md
   - Pré-rastreabilidade:
     - RichPicture: Pre-rastreabilidade/richpicture.md
   - Elicitação: Elicitacao/elicitacao.md
@@ -14,6 +15,7 @@ nav:
     - Dia 29/07: Atas/reuniao_29_07.md
     - Dia 30/07: Atas/reuniao_30_07.md
     - Dia 31/07: Atas/reuniao_31_07.md
+    - Dia 06/08: Atas/reuniao_06_08.md
   - Entregas: Entregas/entregas.md
 
 theme:
