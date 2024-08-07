@@ -4,6 +4,7 @@
 | Data       | Autor         | Descrição                         | Versão  |
 |------------|---------------|-----------------------------------|---------|
 | 07/08/2024 | Eric Rabelo, Paulo Henrique | Criação do documento | 1.0 |
+| 07/08/2024 | Paulo Henrique | Adição do diagrama de ishikawa e correção da tabela 1 | 1.1 |
 
 ## 1. **Visão do Produto**
 
@@ -11,10 +12,9 @@
 
 Os usuários enfrentam dificuldades em gerenciar e acompanhar suas atividades de assistir filmes e séries de maneira eficaz. Muitos têm problemas para lembrar quais episódios já assistiram, manter-se atualizados com os novos lançamentos e descobrir novos conteúdos que correspondam aos seus interesses. Esses desafios resultam em uma experiência de entretenimento fragmentada e frustrante, onde os usuários perdem tempo tentando lembrar onde pararam ou buscando novos programas que lhes agradem. Além disso, a falta de um sistema centralizado para gerenciar essas atividades pode levar à perda de interesse e ao aproveitamento incompleto das plataformas de streaming disponíveis.
 
-!ADICIONAR DIAGRAMA ABAIXO!
-
-![diagrama de ishikawa](images/diagramaIshikawa.png){width=1000}
-
+<center>
+![diagrama de ishikawa](../images/Ishikawa.svg)
+</center>
 <p align="center"> Imagem 1 - Diagrama de Ishikawa </p>
 
 
@@ -24,16 +24,16 @@ O produto proposto é o TV Time, um aplicativo que visa solucionar os problemas 
 
 A solução proposta busca eliminar a frustração de perder o controle sobre o progresso nas séries, esquecer lançamentos importantes e gastar tempo procurando novos conteúdos. O TV Time oferece funcionalidades para acompanhar episódios e filmes assistidos, verificar o status de séries, planejar o que assistir a seguir e receber recomendações personalizadas. Ao automatizar esses processos, o TV Time economiza tempo e esforço dos usuários, minimizando a frustração e otimizando a experiência de entretenimento.
 
-Tabela 1 - Declaração de Posição do Produto
-
 | |Descrição                                                                                                                                                                    |
 | -------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Para:    | Entusiastas de filmes e séries.                                                                                                                                                      |
 | Quem:          | Equipe TV Time.                                                                                                                                                               |
-| O DataMix:    | É um aplicativo.                                                                                                                                           |
+| O Tv Time:    | É um aplicativo.                                                                                                                                           |
 | Que:           | Gerencia e organiza atividades de assistir filmes e séries.                                                                                                                              |
-| Ao contrário:  | De fazer o controle de estoque através de anotações físicas e planilhas.                                                                                                                     |
+| Ao contrário:  | Procurar por filmes e séries dispersos na internet em diversas plataformas                                                                                                           |
 | Nosso produto: |  Oferece funcionalidades para acompanhar episódios e filmes assistidos, verificar o status de séries, planejar o que assistir a seguir e receber recomendações personalizadas. |
+
+<p align="center">Tabela 1 - Declaração de Posição do Produto</p>
 
 ### 1.3 **Objetivos do Produto**
 
@@ -42,5 +42,6 @@ Facilitar o acompanhamento de filmes e séries, permitindo que os usuários regi
 ### 1.4 **Tecnologias a Serem Utilizadas**
 
 - **GitHub**: Utilizado para gerenciamento de código-fonte, controle de versão e colaboração entre a equipe.
-- **Teams**: Uma plataforma de comunicação e colaboração que auxilia na comunicação da equipe e reuniões virtuais.
+- **Teams**: Plataforma de comunicação e colaboração que auxilia na comunicação da equipe e reuniões virtuais.
 - **WhatsApp**: Plataforma de mensagens utilizada para comunicação diária entre os integrantes da equipe.
+- **Draw.io**: Ferramenta para criação de diagramas e fluxogramas.
