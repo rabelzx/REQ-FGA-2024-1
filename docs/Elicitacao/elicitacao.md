@@ -37,9 +37,19 @@ A partir dessas análises, percebeu-se que a aba de séries e filmes são basica
 
 ## 5 - Usuário
 ---
+### 5.1 - Técnicas
+
+#### 5.1.1 - Brainstorming
 Durante a reunião do dia [30/07](../Atas/reuniao_30_07.md), os membros Paulo Henrique e Danilo Naves fizeram um brainstorming da aba de perfil de usuário do aplicativo com o objetivo de extrair possíveis funcionalidades e necessidades dos usuários. A partir disso, foi gerado o [RichPicture Usuário - versão 1.0](../Pre-rastreabilidade/richpicture.md#v1usuario).
 
+#### 5.1.2 - Análise de Protocolo
+Com o objetivo de reforçar possíveis pontos de melhoria e levantar novos requisitos, foi passada a tarefa de fazer a análise de protocolo na aba de configurações do perfil de usuário. O objetivo da tarefa era acessar as configurações e trocar o tema de claro para escuro, mostrando todos os passos realizados e explicando o que foi feito. A análise foi feita pelo membro Paulo Henrique. Segue abaixo o vídeo da análise de protocolo:
 
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZCHwscVyR6E?si=0Fd2ZefGvImdKBnp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+Feita a análise de protocolo e brainstorming, foi gerada uma nova versão para o rich picture de usuário, chamada: [RichPicture Usuário - versão 2.0](../Pre-rastreabilidade/richpicture.md#v2usuario).
 
 ## 6 - Histórico de Versão
 
@@ -47,3 +57,4 @@ Durante a reunião do dia [30/07](../Atas/reuniao_30_07.md), os membros Paulo He
 |--------|-----------|-------------|---------|------|
 | 1.0 | Criando aba - Elicitação | Danilo Naves do Nascimento, Paulo Henrique Melo de Souza | - | 30/07 |
 | 1.1 | Adição dos tópicos 1 ao 6 | Paulo Henrique Melo de Souza | - | 31/07 |
+| 1.2 | Adição do tópico 5.1.1 e 5.1.2 | Paulo Henrique Melo de Souza | - | 01/08 |
