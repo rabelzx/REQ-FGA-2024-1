@@ -1,3 +1,12 @@
+## Histórico de Revisão
+
+| Versão | Alteração | Responsável | Revisor | Data |
+|--------|-----------|-------------|---------|------|
+| 1.0 | Criando aba - Elicitação | Danilo Naves do Nascimento, Paulo Henrique Melo de Souza | - | 30/07 |
+| 1.1 | Adição dos tópicos 1 ao 6 | Paulo Henrique Melo de Souza | - | 31/07 |
+| 1.2 | Adição do tópico 5.1.1 e 5.1.2 | Paulo Henrique Melo de Souza | - | 01/08 |
+| 2.0 | Adição dos requisitos elicitados | Eric Rabelo Borges | - | 10-08 |
+
 ## 1 - Introdução
 ---
 Elicitação é o processo de coleta de informações sobre o sistema a ser desenvolvido. A elicitação de requisitos é uma das atividades mais importantes do processo de Engenharia de Requisitos, pois é nela que se obtém informações sobre o que o sistema deve fazer, como ele deve se comportar e quais são as restrições que ele deve obedecer.
@@ -51,10 +60,50 @@ Com o objetivo de reforçar possíveis pontos de melhoria e levantar novos requi
 
 Feita a análise de protocolo e brainstorming, foi gerada uma nova versão para o rich picture de usuário, chamada: [RichPicture Usuário - versão 2.0](../Pre-rastreabilidade/richpicture.md#v2usuario).
 
-## 6 - Histórico de Versão
+## 6 - Requisitos Elicitados
 
-| Versão | Alteração | Responsável | Revisor | Data |
-|--------|-----------|-------------|---------|------|
-| 1.0 | Criando aba - Elicitação | Danilo Naves do Nascimento, Paulo Henrique Melo de Souza | - | 30/07 |
-| 1.1 | Adição dos tópicos 1 ao 6 | Paulo Henrique Melo de Souza | - | 31/07 |
-| 1.2 | Adição do tópico 5.1.1 e 5.1.2 | Paulo Henrique Melo de Souza | - | 01/08 |
+| ID   | Descrição                                                                                          | Técnica                 |
+|------|----------------------------------------------------------------------------------------------------|-------------------------|
+| RF01 | O sistema deve permitir que o usuário marque episódios como assistidos.                            | Análise de Protocolo    |
+| RF02 | O sistema deve enviar notificações para o usuário sobre novos episódios de séries que ele segue.   | Análise de Protocolo    |
+| RF03 | O sistema deve permitir que o usuário adicione novas séries à sua lista de favoritos.              | Análise de Protocolo    |
+| RF04 | O sistema deve exibir informações detalhadas sobre cada episódio, incluindo sinopse e elenco.      | Análise de Protocolo    |
+| RF05 | O sistema deve oferecer recomendações de séries com base no histórico de visualização do usuário.  | Análise de Protocolo    |
+| RF06 | O sistema deve permitir que o usuário dê notas para os episódios assistidos.                       | Análise de Protocolo    |
+| RF07 | O sistema deve permitir que o usuário registre o tipo de dispositivo em que assistiu ao conteúdo.  | Análise de Protocolo    |
+| RF08 | O sistema deve permitir que o usuário registre suas reações ao assistir ao conteúdo.               | Análise de Protocolo    |
+| RF09 | O sistema deve permitir que o usuário informe em qual plataforma ou serviço de streaming assistiu ao conteúdo. | Análise de Protocolo    |
+| RF10 | O sistema deve permitir que o usuário compartilhe suas atividades em redes sociais.                | Análise de Protocolo    |
+| RF11 | O sistema deve permitir que o usuário faça login com redes sociais ou e-mail.                      | Brainstorm              |
+| RF12 | O sistema deve oferecer uma seção para comentários e discussões sobre os episódios.                | Análise de Protocolo    |
+| RF13 | O sistema deve sincronizar o progresso do usuário entre diferentes dispositivos.                   | Análise de Protocolo    |
+| RF14 | O usuário deve ser capaz de visualizar seu perfil.                                                 | Brainstorm              |
+| RF15 | O sistema deve permitir a visualização de quem segue o usuário.                                    | Brainstorm              |
+| RF16 | O sistema deve listar todos os comentários do usuário.                                             | Brainstorm              |
+| RF17 | O usuário deve ser capaz de seguir outros usuários.                                                | Brainstorm              |
+| RF18 | O sistema deve permitir a filtragem baseada na ordem de relevância dos comentários do usuário.     | Brainstorm              |
+| RF19 | O usuário poderá excluir um comentário.                                                            | Brainstorm              |
+| RF20 | O usuário deve ser capaz de compartilhar um link do comentário.                                    | Brainstorm              |
+| RF21 | O sistema deve permitir o compartilhamento de comentários para redes sociais vizinhas.             | Brainstorm              |
+| RF22 | O sistema deve permitir que o usuário acesse um único comentário em específico.                    | Brainstorm              |
+| RF23 | O usuário deve ser capaz de adicionar uma foto de perfil.                                          | Brainstorm              |
+| RF24 | O usuário deve ser capaz de adicionar uma foto de capa ao perfil.                                  | Brainstorm              |
+| RF25 | O usuário poderá trocar seu nome de exibição para outros usuários.                                 | Brainstorm              |
+| RF26 | O usuário deve ser capaz de editar suas informações pessoais.                                      | Brainstorm              |
+| RF27 | O sistema deve computar o tempo gasto do usuário assistindo filmes ou séries.                      | Análise de Protocolo    |
+| RF28 | O sistema deve computar a quantidade de episódios vistos pelo usuário.                             | Análise de Protocolo    |
+| RF29 | O sistema deve computar a quantidade de filmes vistos pelo usuário.                                | Análise de Protocolo    |
+| RF30 | O usuário deve ser capaz de criar novas listas.                                                    | Brainstorm              |
+| RF31 | O usuário deve conseguir adicionar um nome e descrição à nova lista.                               | Brainstorm              |
+| RF32 | O sistema deve permitir que o usuário deixe a lista oculta para outros usuários.                   | Brainstorm              |
+| RF33 | O sistema deve permitir que o usuário adicione filmes ou séries à lista.                           | Análise de Protocolo    |
+| RF34 | O sistema deve permitir que o usuário acesse suas listas existentes.                               | Brainstorm              |
+| RF35 | O sistema deve permitir que o usuário atualize uma lista existente.                                | Brainstorm              |
+| RF36 | O sistema deve permitir que o usuário exclua uma lista.                                            | Brainstorm              |
+| RF37 | O usuário deve ser capaz de acessar suas séries/filmes seleccionadas.                              | Análise de Protocolo    |
+| RF38 | O sistema deve permitir que o usuário separe entre séries/filmes vistas e não vistas.              | Análise de Protocolo    |
+| RF39 | O usuário deve ser capaz de filtrar as séries/filmes.                                              | Análise de Protocolo    |
+| RF40 | O usuário deve ser capaz de adicionar ou remover séries/filmes a uma lista de favoritos.           | Análise de Protocolo    |
+| RF41 | O usuário deve ser capaz de compartilhar um link com a lista das séries/filmes favoritos.          | Análise de Protocolo    |
+| RF42 | O sistema deve permitir o compartilhamento da lista de séries/filmes favoritos para redes sociais vizinhas. | Análise de Protocolo    |
+| RF43 | O usuário deve ser capaz de acessar filmes ou séries recomendados através do seu perfil.           | Análise de Protocolo    |
