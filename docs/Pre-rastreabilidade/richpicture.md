@@ -54,3 +54,17 @@ A finalidade para o uso do RicPicture é fornecer um modelo que auxilia o entend
 
 > Autores: Danilo, Paulo. [Referência](../Atas/reuniao_30_07.md)
 
+
+#### Versão 2.0  {#v1usuario}
+
+Gerado Rich Picture: Configurações de perfil de usuário
+
+<center>
+
+![RichPicture Usuário - v1](../images/richpic_usuario_v2.jpg)
+
+
+</center>
+
+> Autores: Danilo, Wolfgang. [Referência](../Atas/reuniao_06_08.md)
+
