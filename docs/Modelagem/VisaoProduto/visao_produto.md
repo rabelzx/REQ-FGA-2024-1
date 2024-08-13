@@ -3,7 +3,7 @@
 ---
 | Data       | Autor         | Descrição                         | Versão  |
 |------------|---------------|-----------------------------------|---------|
-| 07/08/2024 | Eric Rabelo, Paulo Henrique | Criação do documento | 1.0 |
+| 07/08/2024 | Eric Rabelo | Criação do documento | 1.0 |
 | 07/08/2024 | Paulo Henrique | Adição do diagrama de ishikawa e correção da tabela 1 | 1.1 |
 
 ## 1. **Visão do Produto**

@@ -5,12 +5,14 @@ repo_url: "https://github.com/rabelzx/REQ-FGA-2024-1"
 
 nav:
   - Início: index.md
-  - Modelagem:
-    - Visão do Produto: Modelagem/VisaoProduto/visao_produto.md
-    - Cenarios: Modelagem/Cenarios/cenarios.md
+
   - Pré-rastreabilidade:
     - RichPicture: Pre-rastreabilidade/richpicture.md
   - Elicitação: Elicitacao/elicitacao.md
+  - Modelagem:
+    - Visão do Produto: Modelagem/VisaoProduto/visao_produto.md
+    - Cenários: Modelagem/Cenarios/cenarios.md
+    - Léxico: Modelagem/Lexico/lexico.md
   - Atas: 
     - Dia 23/07: Atas/reuniao_23_07.md
     - Dia 25/07: Atas/reuniao_25_07.md
