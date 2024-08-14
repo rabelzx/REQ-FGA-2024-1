@@ -8,7 +8,9 @@ nav:
 
   - Pré-rastreabilidade:
     - RichPicture: Pre-rastreabilidade/richpicture.md
-  - Elicitação: Elicitacao/elicitacao.md
+  - Elicitação:
+    - Documento de Elicitação: Elicitacao/elicitacao.md
+    - Priorização: Elicitacao/priorizacao.md
   - Modelagem:
     - Visão do Produto: Modelagem/VisaoProduto/visao_produto.md
     - Cenários: Modelagem/Cenarios/cenarios.md

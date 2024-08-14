@@ -13,7 +13,7 @@
 Os usuários enfrentam dificuldades em gerenciar e acompanhar suas atividades de assistir filmes e séries de maneira eficaz. Muitos têm problemas para lembrar quais episódios já assistiram, manter-se atualizados com os novos lançamentos e descobrir novos conteúdos que correspondam aos seus interesses. Esses desafios resultam em uma experiência de entretenimento fragmentada e frustrante, onde os usuários perdem tempo tentando lembrar onde pararam ou buscando novos programas que lhes agradem. Além disso, a falta de um sistema centralizado para gerenciar essas atividades pode levar à perda de interesse e ao aproveitamento incompleto das plataformas de streaming disponíveis.
 
 <center>
-![diagrama de ishikawa](../images/Ishikawa.svg)
+![diagrama de ishikawa](../../images/Ishikawa.svg)
 </center>
 <p align="center"> Imagem 1 - Diagrama de Ishikawa </p>
 

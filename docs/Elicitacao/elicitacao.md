@@ -60,14 +60,14 @@ Com o objetivo de reforçar possíveis pontos de melhoria e levantar novos requi
 
 Feita a análise de protocolo e brainstorming, foi gerada uma nova versão para o rich picture de usuário, chamada: [RichPicture Usuário - versão 2.0](../Pre-rastreabilidade/richpicture.md#v2usuario).
 
-## 6 - Requisitos Elicitados
+## 6 - Requisitos Elicitados {#reqElicitados}
 
 A partir das técnicas de elicitação utilizadas, foram elicitados os seguintes requisitos:
 
 | ID   | Descrição                                                                                          | Técnica                 |
 |------|----------------------------------------------------------------------------------------------------|-------------------------|
 | RF01 | O sistema deve permitir que o usuário marque episódios como assistidos.                            | Análise de Protocolo e Observação   |
-| RF02 | O sistema deve enviar notificações para o usuário sobre novos episódios de séries que ele segue.   | Análise de Protocolo e Observação    |
+| RF02 | O sistema deve enviar notificações para o usuário sobre novos episódios de séries que ele segue.   | Análise de Protocolo e Observação   |
 | RF03 | O sistema deve permitir que o usuário adicione novas séries à sua lista de favoritos.              | Análise de Protocolo e Observação   |
 | RF04 | O sistema deve exibir informações detalhadas sobre cada episódio, incluindo sinopse e elenco.      | Análise de Protocolo e Observação   |
 | RF05 | O sistema deve oferecer recomendações de séries com base no histórico de visualização do usuário.  | Análise de Protocolo e Observação   |
@@ -78,7 +78,7 @@ A partir das técnicas de elicitação utilizadas, foram elicitados os seguintes
 | RF10 | O sistema deve permitir que o usuário compartilhe suas atividades em redes sociais.                | Análise de Protocolo    |
 | RF11 | O sistema deve permitir que o usuário faça login com redes sociais ou e-mail.                      | Brainstorm              |
 | RF12 | O sistema deve oferecer uma seção para comentários e discussões sobre os episódios.                | Análise de Protocolo    |
-| RNF13 | O sistema deve sincronizar o progresso do usuário entre diferentes dispositivos.                   | Análise de Protocolo    |
+| RF13 | O sistema deve sincronizar o progresso do usuário entre diferentes dispositivos.                   | Análise de Protocolo    |
 | RF14 | O usuário deve ser capaz de visualizar seu perfil.                                                 | Brainstorm              |
 | RF15 | O sistema deve permitir a visualização de quem segue o usuário.                                    | Brainstorm              |
 | RF16 | O sistema deve listar todos os comentários do usuário.                                             | Brainstorm              |
@@ -97,24 +97,22 @@ A partir das técnicas de elicitação utilizadas, foram elicitados os seguintes
 | RF29 | O usuário deve ser capaz de criar novas listas.                                                    | Brainstorm              |
 | RF30 | O usuário deve conseguir adicionar um nome e descrição à nova lista.                               | Brainstorm              |
 | RF31 | O sistema deve permitir que o usuário deixe a lista oculta para outros usuários.                   | Brainstorm              |
-| RF32 | O sistema deve permitir que o usuário adicione filmes ou séries à lista.                           | Análise de Protocolo    |
+| RF32 | O sistema deve permitir que o usuário adicione filmes ou séries à lista existente.                           | Análise de Protocolo    |
 | RF33 | O sistema deve permitir que o usuário acesse suas listas existentes.                               | Brainstorm              |
 | RF34 | O sistema deve permitir que o usuário atualize uma lista existente.                                | Brainstorm              |
 | RF35 | O sistema deve permitir que o usuário exclua uma lista.                                            | Brainstorm              |
-| RF36 | O usuário deve ser capaz de acessar suas séries/filmes seleccionadas.                              | Análise de Protocolo    |
+| RF36 | O usuário deve ser capaz de acessar suas séries/filmes selecionadas.                              | Análise de Protocolo    |
 | RF37 | O sistema deve permitir que o usuário separe entre séries/filmes vistas e não vistas.              | Análise de Protocolo    |
-| RF38 | O usuário deve ser capaz de filtrar as séries/filmes.                                              | Análise de Protocolo    |
-| RF39 | O usuário deve ser capaz de adicionar ou remover séries/filmes a uma lista de favoritos.           | Análise de Protocolo    |
-| RF40 | O sistema deve permitir o compartilhamento da lista de séries/filmes favoritos para redes sociais vizinhas. | Análise de Protocolo    |
-| RF41 | O usuário deve ser capaz de acessar filmes ou séries recomendados através do seu perfil.           | Análise de Protocolo    |
-| RNF42 | O sistema deve permitir o usuário alterar sua senha de acesso.                                     | Análise de Protocolo    |
-| RF43 | O usuário poderá vincular/desvincular sua conta a outras redes sociais                             | Análise de Protocolo    |
-| RNF44 | O sistema deve permitir que o usuário torne sua conta privada.                                     | Análise de Protocolo    |
-| RNF45 | O sistema deve permitir que o usuário exclua permanentemente sua conta.                            | Análise de Protocolo    |
-| RNF46 | O usuário deve ser capaz de sair de sua conta.                                                     | Análise de Protocolo    |
-| RNF47 | O sistema deve permitir que o usuário escolha o idioma da exibição dos títulos do filmes/séries.   | Análise de Protocolo    |
-| RNF48 | O sistema deve permitir que o usuário escolha o idioma padrão dos comentários.                     | Análise de Protocolo    |
-| RNF49 | O usuário deve ser capaz de escolher entre tema claro ou escuro, com a possibilidade de alternar a qualquer momento. | Análise de Protocolo    |
-| RNF50 | O usuário deve ser capaz de limpar o cache de uso de memória do sistema.                           | Análise de Protocolo    |
-| RNF51 | O sistema deve permitir a filtragem de emissoras.                                                  | Análise de Protocolo    |
-| RF52 | O usuário deve ser capaz de ocultar episódios já assistidos.                                       | Análise de Protocolo    |
+| RF38 | O usuário deve ser capaz de localizar filmes/séries por meio de um filtro.                                              | Análise de Protocolo    |
+| RF39 | O sistema deve permitir o compartilhamento da lista de séries/filmes favoritos para redes sociais vizinhas. | Análise de Protocolo    |
+| RF40 | O sistema deve permitir o usuário alterar sua senha de acesso.                                     | Análise de Protocolo    |
+| RF41 | O usuário poderá vincular/desvincular sua conta a outras redes sociais                             | Análise de Protocolo    |
+| RF42 | O sistema deve permitir que o usuário torne sua conta privada.                                     | Análise de Protocolo    |
+| RNF43 | O sistema deve permitir que o usuário exclua permanentemente sua conta.                            | Análise de Protocolo    |
+| RNF44 | O usuário deve ser capaz de sair de sua conta.                                                     | Análise de Protocolo    |
+| RNF45 | O sistema deve permitir que o usuário escolha o idioma da exibição dos títulos do filmes/séries.   | Análise de Protocolo    |
+| RNF46 | O sistema deve permitir que o usuário selecione o idioma preferencial para exibição dos comentários, exibindo primeiro os comentários no idioma escolhido.                     | Análise de Protocolo    |
+| RNF47 | O usuário deve ser capaz de escolher entre tema claro ou escuro, com a possibilidade de alternar a qualquer momento. | Análise de Protocolo    |
+| RNF48 | O usuário deve ser capaz de limpar o cache de uso de memória do sistema.                           | Análise de Protocolo    |
+| RNF49 | O sistema deve permitir a filtragem de emissoras.                                                  | Análise de Protocolo    |
+| RF50 | O usuário deve ser capaz de ocultar episódios já assistidos.                                       | Análise de Protocolo    |
