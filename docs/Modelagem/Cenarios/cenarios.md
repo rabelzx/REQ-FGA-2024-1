@@ -4,6 +4,7 @@
 |------------|---------------|-----------------------------------|---------|
 | 13/08/2024 |  Eric Rabelo, Paulo Henrique  | Criação do documento e inserção do CEN01 até o CEN14 | 1.0 |
 | 13/08/2024 |  Eric Rabelo  | Linkando léxico do usário nos cenários | 1.1 |
+| 14/08/2024 |  Paulo Henrique  | inserção do CEN15 ao CEN19 | 1.2 |
 
 ## Introdução
 --- 
@@ -33,8 +34,15 @@ O grupo se reuniu para produzir os cenários baseados nos requisitos até então
 - [CEN12 - Editar lista](#cen12)
 - [CEN13 - Excluir lista](#cen13)
 - [CEN14 - Compartilhar lista](#cen14)
+- [CEN15 - Ocultar conteúdo assistido](#cen15)
+- [CEN16 - Localizar conteúdo](#cen16)
+- [CEN17 - Alterar senha](#cen17)
+- [CEN18 - Vincular/Desvincular redes sociais](#cen18)
+- [CEN19 - Privar conta](#cen19)
 
 ---
+
+<a name="cen01"></a>
 
 ### Primeiro acesso
 
@@ -222,3 +230,67 @@ O grupo se reuniu para produzir os cenários baseados nos requisitos até então
 | **Episódios**  | 1. O [usuário](../Lexico/lexico.md#usuario) navega até a aba de perfil.<br>2. O [usuário](../Lexico/lexico.md#usuario) clica em uma lista existente.<br>3. O [usuário](../Lexico/lexico.md#usuario) clica no ícone de três pontos.<br>4. O [usuário](../Lexico/lexico.md#usuario) clica em compartilhar.<br>5. O [usuário](../Lexico/lexico.md#usuario) seleciona uma rede social para compartilhar. |
 |  **Exceções**  | Perda de conexão com a internet.<br>O aplicativo deixa de funcionar.<br>O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução. |
 | **Requisitos** | |
+
+<a name="cen15"></a>
+
+### Ocultar conteúdo assistido 
+|   **Titulo**   | Ocultar conteúdo assistido                             |
+| :------------: | ---------------------------- |
+|  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) ocultar os conteúdos já assistidos.                             |
+|  **Contexto**  | O [usuário](../Lexico/lexico.md#usuario) está logado.                             |
+|   **Atores**   | [Usuário](../Lexico/lexico.md#usuario).                             |
+|  **Recursos**  | Acesso à internet, smartphone.                             |
+| **Episódios**  | 1. O [usuário](../Lexico/lexico.md#usuario) navega até a aba de filmes ou séries. <br> 2. O [usuário](../Lexico/lexico.md#usuario) seleciona sua lista. <br> 3. O [usuário](../Lexico/lexico.md#usuario) clica no ícone de task.                             |
+|  **Exceções**  | Perda de conexão com a internet. <br> Ter filmes/séries na lista geral que já foram vistos. <br> O [usuário](../Lexico/lexico.md#usuario) interromper o fluxo de execução.                             |
+| **Requisitos** |                              |
+
+<a name="cen16"></a>
+
+### Localizar conteúdo 
+|   **Titulo**   | Localizar conteúdo                             |
+| :------------: | ---------------------------- |
+|  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) buscar por um filme ou série.                             |
+|  **Contexto**  | O [usuário](../Lexico/lexico.md#usuario) está logado.                             |
+|   **Atores**   | [Usuário](../Lexico/lexico.md#usuario).                             |
+|  **Recursos**  | Acesso à internet, smartphone.                             |
+| **Episódios**  | 1. O [usuário](../Lexico/lexico.md#usuario) navega até a aba de descobrir. <br> 2. O [usuário](../Lexico/lexico.md#usuario) clica em "Pesquisar séries e filmes". <br> 3. O [usuário](../Lexico/lexico.md#usuario) insere o nome de um filme ou série. <br> 4. O [usuário](../Lexico/lexico.md#usuario) seleciona o filme ou série pesquisado.                             |
+|  **Exceções**  | Perda de conexão com a internet. <br> O [usuário](../Lexico/lexico.md#usuario) interromper o fluxo de execução.     |
+| **Requisitos** |                              |
+
+<a name="cen17"></a>
+
+### Alterar senha
+|   **Titulo**   | Alterar senha                             |
+| :------------: | ---------------------------- |
+|  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) alterar sua senha de acesso.                             |
+|  **Contexto**  | O [usuário](../Lexico/lexico.md#usuario) está logado.                             |
+|   **Atores**   | [Usuário](../Lexico/lexico.md#usuario).                             |
+|  **Recursos**  | Acesso à internet, smartphone.                             |
+| **Episódios**  | 1. O [usuário](../Lexico/lexico.md#usuario) navega até a aba de perfil. <br> 2. O [usuário](../Lexico/lexico.md#usuario) clica no ícone de três pontos. <br> 3. O [usuário](../Lexico/lexico.md#usuario) clica em configurações. <br> 4. O [usuário](../Lexico/lexico.md#usuario) clica em alterar senha. <br> 5. O [usuário](../Lexico/lexico.md#usuario) insere a senha atual, a nova senha e confirma a nova senha.                             |
+|  **Exceções**  | Perda de conexão com a internet. <br> O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução. <br> O [usuário](../Lexico/lexico.md#usuario) não possui conta.                             |
+| **Requisitos** |                              |
+
+<a name="cen18"></a>
+
+### Vincular/Desvincular redes sociais   
+|   **Titulo**   | Vincular/Desvincular redes sociais                             |
+| :------------: | ---------------------------- |
+|  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) vincular/desvincular suas redes sociais no aplicativo.                             |
+|  **Contexto**  | O [usuário](../Lexico/lexico.md#usuario) está logado.                             |
+|   **Atores**   | [Usuário](../Lexico/lexico.md#usuario).                             |
+|  **Recursos**  | Acesso à internet, smartphone.                             |
+| **Episódios**  | 1. O [usuário](../Lexico/lexico.md#usuario) navega até a aba de perfil. <br> 2. O [usuário](../Lexico/lexico.md#usuario) clica no ícone de três pontos. <br> 3. O [usuário](../Lexico/lexico.md#usuario) clica em configurações. <br> 4. O [usuário](../Lexico/lexico.md#usuario) clica em "Editar contas vinculadas". <br> 5. O [usuário](../Lexico/lexico.md#usuario) seleciona uma ou mais redes para vincular/desvincular.                             |
+|  **Exceções**  | Perda de conexão com a internet. <br> O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução. <br> O [usuário](../Lexico/lexico.md#usuario) não possui rede social.                             |
+| **Requisitos** |                              |
+
+<a name="cen19"></a>
+
+### Privar conta
+|   **Titulo**   | Privar conta                              |
+| :------------: | ---------------------------- |
+|  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) tornar sua conta privada.                             |
+|  **Contexto**  | O [usuário](../Lexico/lexico.md#usuario) está logado.                             |
+|   **Atores**   | [Usuário](../Lexico/lexico.md#usuario).                             |
+|  **Recursos**  | Acesso à internet, smartphone.                             |
+| **Episódios**  | 1. O [usuário](../Lexico/lexico.md#usuario) navega até aba de perfil. <br> 2. O [usuário](../Lexico/lexico.md#usuario) clica no ícone de três pontos. <br> 3. O [usuário](../Lexico/lexico.md#usuario) clica em configurações. <br> 4. O [usuário](../Lexico/lexico.md#usuario) seleciona "definir perfil como privado".                          |
+|  **Exceções**  | Perda de conexão com a internet. <br> O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução.                            |
