@@ -31,8 +31,15 @@ As informações sobre data, horário, duração e local estão detalhadas a seg
 - Feita a divisão de tarefas, foi discutido qual membro utilizaria a técnica de elicitação de "análise de protocolo" para ser feita durante a reunião. O Danilo se responsabilizou para fazer a análise de protocolo, fornecendo seu dispositivo móvel para gravar o áudio e acessar o aplicativo. A tarefa definida para o Danilo executar foi a de entrar no aplicativo, criar uma conta, selecionar um filme e fazer uma breve análise sobre o mesmo, verbalizando todas as tarefas efetuadas.
 - Por fim, a Sunamita se responsabilizou por fazer outra análise de protocolo agora com a tarefa de entrar no aplicativo, selecionar uma série e fazer uma breve análise sobre a mesma, verbalizando todas as tarefas efetuadas. No caso, essa análise complementará o rich picture feito pelo Paulo Henrique.
 
-## 4. Histórico de Versão
+## 4. Gravação da Reunião
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/booCPaSaMcg?si=wUM-Nr04nj5eh6qp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+## 5. Histórico de Versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
 |--------|-----------|-------------|---------|------|
 | 1.0 | Criando Ata da Reunião | Paulo Henrique Melo de Souza | - | 29/07 |
+| 1.1 | Adicionando gravação da reunião | Paulo Henrique Melo de Souza | - | 15/08 |

@@ -22,10 +22,11 @@ As informações sobre data, horário, duração e local estão detalhadas a seg
 
 ## 3. Pontos de Discussão Importantes
 
-- Nessa reunião, o grupo se reuniu para gravar o vídeo da entrega 1 da matéria de Requisitos de Software, apresentando a estrutura e artefatos produzidos até a presente data. 
+- Nessa reunião, o grupo se reuniu para gravar o vídeo da [entrega 1](../Entregas/entregas.md#entrega1) da matéria de Requisitos de Software, apresentando a estrutura e artefatos produzidos até a presente data. 
 
 ## 4. Histórico de Versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
 |--------|-----------|-------------|---------|------|
 | 1.0 | Criando Ata da Reunião | Eric Rabelo Borges | Paulo Henrique Melo de Souza | 31/07 |
+| 1.1 | Adicionando gravação da reunião | Paulo Henrique Melo de Souza | - | 15/08 |

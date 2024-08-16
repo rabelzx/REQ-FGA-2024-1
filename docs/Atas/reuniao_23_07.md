@@ -29,3 +29,4 @@ Definição de um rascunho de um RichPicture com visão geral dos possíveis cli
 | Versão | Alteração | Responsável | Revisor | Data |
 |--------|-----------|-------------|---------|------|
 | 1.0 | Criando Ata da Reunião | Eric Rabelo Borges | - | 23/07 |
+| 1.1 | Adicionando vídeo da reunião | Paulo Henrique Melo de Souza | - | 15/08 |

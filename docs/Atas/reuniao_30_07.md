@@ -26,9 +26,16 @@ As informações sobre data, horário, duração e local estão detalhadas a seg
 
 - Danilo e Paulo: A partir das técnicas de elicitação: brainstorm e observação, desenvolveram um rich picture sobre as funcionalidades da categoria USUÁRIO.
 
-## 4. Histórico de Versão
+## 4. Gravação da Reunião
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YuJwABv0vHY?si=FdVOj44d4Qkbus74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+## 5. Histórico de Versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
 |--------|-----------|-------------|---------|------|
 | 1.0 | Criando Ata da Reunião | Wolfgang Friedrich Stein | Eric Rabelo Borges | 30/07 |
 | 1.1 | Complementação de Ata  | Danilo Naves do Nascimento | Paulo Henrique Melo | 30/07 |
+| 1.1 | Adicionando gravação da reunião | Paulo Henrique Melo de Souza | - | 15/08 |
