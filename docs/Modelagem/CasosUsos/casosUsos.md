@@ -16,9 +16,13 @@ Diagramas de casos de uso são uma representação visual das interações entre
 
 ![Primeiro Acesso](../../images/modelagem/Login_tracker.drawio.svg)
 
+> Autores: Danilo, Wolfgang. [Referência](../../Atas/reuniao_13_08.md)
+
 ### Adicionar novas listas ao aplicativo
 
 ![Primeiro Acesso](../../images/modelagem/addnalista_deixar_comentario.drawio.svg)
+
+> Autores: Danilo, Wolfgang. [Referência](../../Atas/reuniao_13_08.md)
 
 ###     
 
