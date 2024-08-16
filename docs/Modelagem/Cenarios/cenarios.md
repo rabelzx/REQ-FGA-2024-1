@@ -4,7 +4,8 @@
 |------------|---------------|-----------------------------------|---------|
 | 13/08/2024 |  Eric Rabelo, Paulo Henrique  | Criação do documento e inserção do CEN01 até o CEN14 | 1.0 |
 | 13/08/2024 |  Eric Rabelo  | Linkando léxico do usário nos cenários | 1.1 |
-| 14/08/2024 |  Paulo Henrique  | inserção do CEN15 ao CEN19 | 1.2 |
+| 14/08/2024 |  Paulo Henrique  | Inserção do CEN15 ao CEN19 | 1.2 |
+| 14/08/2024 |  Sunamita Vitória  | Inserção do CEN20 ao CEN25 | 1.3 |
 
 ## Introdução
 --- 
@@ -39,13 +40,16 @@ O grupo se reuniu para produzir os cenários baseados nos requisitos até então
 - [CEN17 - Alterar senha](#cen17)
 - [CEN18 - Vincular/Desvincular redes sociais](#cen18)
 - [CEN19 - Privar conta](#cen19)
+- [CEN20 - Sair da conta](#cen20)
+- [CEN21 - Traduzir títulos de séries/filmes](#cen21)
+- [CEN22 - Priorizar idioma dos comentários](#cen22)
+- [CEN23 - Tema claro/escuro](#cen23)
+- [CEN24 - Limpar memória](#cen24)
+- [CEN25 - Filtrar emissoras](#cen25)
 
 ---
 
-<a name="cen01"></a>
-
-### Primeiro acesso
-
+### Primeiro acesso {#cen01}
 |   **Título**   | Primeiro acesso                                                          |
 | :------------: | -------------------------------------------------------------------------------------------------------------------- |
 |  **Objetivo**  | Realizar o primeiro acesso na aplicação.                                 |
@@ -56,10 +60,7 @@ O grupo se reuniu para produzir os cenários baseados nos requisitos até então
 |  **Exceções**  | A internet deixa de funcionar. <br> O [usuário](../Lexico/lexico.md#usuario) já possui conta na aplicação. <br> O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução.                                |
 | **Requisitos** | | 
 
-<a name="cen02"></a>
-
-### Marcar um episódio como assistido
-
+### Marcar um episódio como assistido {#cen02}
 |   **Título**   | Marcar um episódio como assistido                        |
 | :------------: | -------------------------------------------------------- |
 |  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) marcar um ou mais episódios como já assistido. |
@@ -71,10 +72,7 @@ O grupo se reuniu para produzir os cenários baseados nos requisitos até então
 |  **Exceções**  | A internet deixa de funcionar. <br> O [usuário](../Lexico/lexico.md#usuario) fecha o aplicativo durante a ação.             |
 | **Requisitos** | | 
 
-<a name="cen03"></a>
-
-### Notificar o [usuário](../Lexico/lexico.md#usuario) sobre novos episódios 
-
+### Notificar o [usuário](../Lexico/lexico.md#usuario) sobre novos episódios {#cen03} 
 |   **Título**   | Notificar o [usuário](../Lexico/lexico.md#usuario) sobre novos episódios                          |
 | :------------: | ------------------------------------------------------------------ |
 |  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) ser notificado sobre um novo episódio da série na lista. |
@@ -86,9 +84,7 @@ O grupo se reuniu para produzir os cenários baseados nos requisitos até então
 |  **Exceções**  | Não ter conexão com a internet. <br> O [usuário](../Lexico/lexico.md#usuario) desativou o envio de notificações.                       |
 | **Requisitos** | |
 
-<a name="cen04"></a>
-
-### Favoritar série
+### Favoritar série {#cen04}
 |   **Título**   | Favoritar série                                                |
 | :------------: | -------------------------------------------------------------- |
 |  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) adicionar uma série aos favoritos.                   |
@@ -100,9 +96,7 @@ O grupo se reuniu para produzir os cenários baseados nos requisitos até então
 |  **Exceções**  | A internet deixa de funcionar. <br> O aplicativo deixa de funcionar. <br> O [usuário](../Lexico/lexico.md#usuario) sai do aplicativo durante a ação.                    |
 | **Requisitos** | | 
 
-<a name="cen05"></a>
-
-### Avaliar episódio
+### Avaliar episódio {#cen05}
 |   **Título**   | Avaliar episódio                                                               |
 | :------------: | ------------------------------------------------------------------------------ |
 |  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) dar uma nota ao episódio de uma série.                               |
@@ -114,9 +108,7 @@ O grupo se reuniu para produzir os cenários baseados nos requisitos até então
 |  **Exceções**  | A internet deixa de funcionar. <br> O aplicativo deixa de funcionar. <br> O [usuário](../Lexico/lexico.md#usuario) sai do aplicativo durante a ação. <br> O [usuário](../Lexico/lexico.md#usuario) não ter assistido o episódio. | 
 | **Requisitos** | | 
 
-<a name="cen06"></a>
-
-### Plataforma utilizada 
+### Plataforma utilizada {#cen06}
 |   **Título**   | Plataforma utilizada                                                          |
 | :------------: | ----------------------------------------------------------------------------- |
 |  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) registrar a plataforma que assistiu o conteúdo.                     |
@@ -127,9 +119,7 @@ O grupo se reuniu para produzir os cenários baseados nos requisitos até então
 |  **Exceções**  | A internet deixa de funcionar. <br> O aplicativo deixa de funcionar. <br> O [usuário](../Lexico/lexico.md#usuario) não ter filmes ou séries na lista. |
 | **Requisitos** | |
 
-<a name="cen07"></a>
-
-### Reação do usuário 
+### Reação do usuário {#cen07}
 |   **Título**   | Reação do usuário                                                              |
 | :------------: | ----------------------------------------------------------------------------- |
 |  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) registrar sua reação.                                               |
@@ -140,9 +130,7 @@ O grupo se reuniu para produzir os cenários baseados nos requisitos até então
 |  **Exceções**  | A internet deixa de funcionar. <br> O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução.   |
 | **Requisitos** | | 
 
-<a name="cen08"></a>
-
-### Comentar conteúdo
+### Comentar conteúdo {#cen08}
 |   **Título**   | Comentar conteúdo                                                             |
 | :------------: | ----------------------------------------------------------------------------- |
 |  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) fazer o comentário em um conteúdo da aplicação.                     |
@@ -153,9 +141,7 @@ O grupo se reuniu para produzir os cenários baseados nos requisitos até então
 |  **Exceções**  | O [usuário](../Lexico/lexico.md#usuario) não possuir filmes ou séries na lista. <br> Perda de conexão com a internet. <br> O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução. <br> O aplicativo deixa de funcionar. |
 | **Requisitos** | | 
 
-<a name="cen09"></a>
-
-### Compartilhar perfil
+### Compartilhar perfil {#cen09}
 |   **Título**   | Compartilhar perfil                                                           |
 | :------------: | ----------------------------------------------------------------------------- |
 |  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) compartilhar seu perfil                                             |
@@ -166,9 +152,7 @@ O grupo se reuniu para produzir os cenários baseados nos requisitos até então
 |  **Exceções**  | Perda de conexão com a internet. <br> O aplicativo deixa de funcionar. <br> O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução. |
 | **Requisitos** | |
 
-<a name="cen10"></a>
-
-### Escolher foto/capa de perfil
+### Escolher foto/capa de perfil {#cen10}
 |   **Título**   | Escolher foto/capa de perfil                                                  |
 | :------------: | ----------------------------------------------------------------------------- |
 |  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) inserir/editar sua foto/capa de perfil                              |
@@ -179,9 +163,7 @@ O grupo se reuniu para produzir os cenários baseados nos requisitos até então
 |  **Exceções**  | Perda de conexão com a internet.<br>O aplicativo deixa de funcionar.<br>O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução.<br>O [usuário](../Lexico/lexico.md#usuario) não permite que o sistema acesse a galeria do dispositivo. |
 | **Requisitos** | | 
 
-<a name="cen11"></a>
-
-### Criar listas
+### Criar listas {#cen11}
 |   **Título**   | Criar listas                                                                  |
 | :------------: | ----------------------------------------------------------------------------- |
 |  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) criar uma lista de filmes/séries.                                   |
@@ -190,11 +172,9 @@ O grupo se reuniu para produzir os cenários baseados nos requisitos até então
 |  **Recursos**  | Acesso à internet, smartphone.                                                |
 | **Episódios**  | 1. O [usuário](../Lexico/lexico.md#usuario) navega até a aba de perfil.<br>2. O [usuário](../Lexico/lexico.md#usuario) clica em "criar uma nova lista".<br>3. O [usuário](../Lexico/lexico.md#usuario) insere um nome para a lista.<br>4. Se quiser, insere uma descrição.<br>5. Se quiser, pode tornar a lista opcional.<br>6. O [usuário](../Lexico/lexico.md#usuario) clica em "criar lista". |
 |  **Exceções**  | Perda de conexão com a internet.<br>O aplicativo deixa de funcionar.<br>O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução.<br>A lista já existir. |
-| **Requisitos** | | 
+| **Requisitos** | |
 
-<a name="cen12"></a>
-
-### Editar lista
+### Editar lista {#cen12}
 |   **Título**   | Editar lista                                                                  |
 | :------------: | ----------------------------------------------------------------------------- |
 |  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) editar uma lista.                                                   |
@@ -205,9 +185,7 @@ O grupo se reuniu para produzir os cenários baseados nos requisitos até então
 |  **Exceções**  | Perda de conexão com a internet.<br>O aplicativo deixa de funcionar.<br>O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução. |
 | **Requisitos** | | 
 
-<a name="cen13"></a>
-
-### Excluir lista
+### Excluir lista {#cen13}
 |   **Título**   | Excluir lista                                                                 |
 | :------------: | ----------------------------------------------------------------------------- |
 |  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) excluir uma lista.                                                  |
@@ -218,9 +196,7 @@ O grupo se reuniu para produzir os cenários baseados nos requisitos até então
 |  **Exceções**  | Perda de conexão com a internet.<br>O aplicativo deixa de funcionar.<br>O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução. |
 | **Requisitos** | | 
 
-<a name="cen14"></a>
-
-### Compartilhar lista
+### Compartilhar lista {#cen14}
 |   **Título**   | Compartilhar lista                                                            |
 | :------------: | ----------------------------------------------------------------------------- |
 |  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) compartilhar uma lista.                                             |
@@ -231,9 +207,7 @@ O grupo se reuniu para produzir os cenários baseados nos requisitos até então
 |  **Exceções**  | Perda de conexão com a internet.<br>O aplicativo deixa de funcionar.<br>O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução. |
 | **Requisitos** | |
 
-<a name="cen15"></a>
-
-### Ocultar conteúdo assistido 
+### Ocultar conteúdo assistido {#cen15}
 |   **Titulo**   | Ocultar conteúdo assistido                             |
 | :------------: | ---------------------------- |
 |  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) ocultar os conteúdos já assistidos.                             |
@@ -244,9 +218,7 @@ O grupo se reuniu para produzir os cenários baseados nos requisitos até então
 |  **Exceções**  | Perda de conexão com a internet. <br> Ter filmes/séries na lista geral que já foram vistos. <br> O [usuário](../Lexico/lexico.md#usuario) interromper o fluxo de execução.                             |
 | **Requisitos** |                              |
 
-<a name="cen16"></a>
-
-### Localizar conteúdo 
+### Localizar conteúdo {#cen16}
 |   **Titulo**   | Localizar conteúdo                             |
 | :------------: | ---------------------------- |
 |  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) buscar por um filme ou série.                             |
@@ -257,9 +229,7 @@ O grupo se reuniu para produzir os cenários baseados nos requisitos até então
 |  **Exceções**  | Perda de conexão com a internet. <br> O [usuário](../Lexico/lexico.md#usuario) interromper o fluxo de execução.     |
 | **Requisitos** |                              |
 
-<a name="cen17"></a>
-
-### Alterar senha
+### Alterar senha {#cen17}
 |   **Titulo**   | Alterar senha                             |
 | :------------: | ---------------------------- |
 |  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) alterar sua senha de acesso.                             |
@@ -270,9 +240,7 @@ O grupo se reuniu para produzir os cenários baseados nos requisitos até então
 |  **Exceções**  | Perda de conexão com a internet. <br> O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução. <br> O [usuário](../Lexico/lexico.md#usuario) não possui conta.                             |
 | **Requisitos** |                              |
 
-<a name="cen18"></a>
-
-### Vincular/Desvincular redes sociais   
+### Vincular/Desvincular redes sociais {#cen18}   
 |   **Titulo**   | Vincular/Desvincular redes sociais                             |
 | :------------: | ---------------------------- |
 |  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) vincular/desvincular suas redes sociais no aplicativo.                             |
@@ -283,9 +251,7 @@ O grupo se reuniu para produzir os cenários baseados nos requisitos até então
 |  **Exceções**  | Perda de conexão com a internet. <br> O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução. <br> O [usuário](../Lexico/lexico.md#usuario) não possui rede social.                             |
 | **Requisitos** |                              |
 
-<a name="cen19"></a>
-
-### Privar conta
+### Privar conta {#cen19}
 |   **Titulo**   | Privar conta                              |
 | :------------: | ---------------------------- |
 |  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) tornar sua conta privada.                             |
@@ -293,4 +259,64 @@ O grupo se reuniu para produzir os cenários baseados nos requisitos até então
 |   **Atores**   | [Usuário](../Lexico/lexico.md#usuario).                             |
 |  **Recursos**  | Acesso à internet, smartphone.                             |
 | **Episódios**  | 1. O [usuário](../Lexico/lexico.md#usuario) navega até aba de perfil. <br> 2. O [usuário](../Lexico/lexico.md#usuario) clica no ícone de três pontos. <br> 3. O [usuário](../Lexico/lexico.md#usuario) clica em configurações. <br> 4. O [usuário](../Lexico/lexico.md#usuario) seleciona "definir perfil como privado".                          |
-|  **Exceções**  | Perda de conexão com a internet. <br> O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução.                            |
+|  **Exceções**  | Perda de conexão com a internet. <br> O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução.|
+
+### Sair da conta {#cen20}  
+|   **Titulo**   | Sair da conta                             |
+| :------------: | ---------------------------- |
+|  **Objetivo**  | O usuário sair da conta.                             |
+|  **Contexto**  | O usuário está logado.                             |
+|   **Atores**   | Usuário.                             |
+|  **Recursos**  | Acesso à internet, smartphone.                             |
+| **Episódios**  | 1. O usuário navega até perfil. <br> 2. O usuário clica no ícone de três pontos. <br> 3. O usuário clica em configurações. <br> 4. O usuário clica em sair.                             |
+|  **Exceções**  | Perda de conexão com a internet. <br> O usuário interrompe o fluxo de execução. <br> O usuário não está logado.                             |
+
+### Traduzir títulos de séries/filmes {#cen21}
+|   **Titulo**   | Traduzir títulos de séries/filmes                             |
+| :------------: | ---------------------------- |
+|  **Objetivo**  | O usuário traduzir os títulos das séries/filmes.                             |
+|  **Contexto**  | O usuário está logado.                             |
+|   **Atores**   | Usuário.                             |
+|  **Recursos**  | Acesso à internet, smartphone.                             |
+| **Episódios**  | 1. O usuário navega até perfil. <br> 2. O usuário clica no ícone de três pontos. <br> 3. O usuário clica em configurações. <br> 4. O usuário navega até app. <br> 6. O usuário clica em "Exibir no seu idioma".                                |
+|  **Exceções**  | Perda de conexão com a internet. <br> O usuário interrompe o fluxo de execução. <br> O usuário não está logado.   |
+
+### Priorizar idioma dos comentários {#cen22} 
+|   **Titulo**   | Priorizar idioma dos comentários.                             |
+| :------------: | ---------------------------- |
+|  **Objetivo**  | O usuário selecionar os comentários de determinado idioma.                             |
+|  **Contexto**  | O usuário está logado.                             |
+|   **Atores**   | Usuário.                             |
+|  **Recursos**  | Acesso à internet, smartphone.                             |
+| **Episódios**  | 1. O usuário navega até perfil. <br> 2. O usuário clica no ícone de três pontos. <br> 3. O usuário clica em configurações. <br> 4. O usuário navega até app. <br> 5. O usuário clica em "selecionar os idiomas dos comentários". <br> 6. O usuário seleciona um ou mais idiomas.                              |
+|  **Exceções**  | Perda de conexão com a internet. <br> O usuário interrompe o fluxo de execução. <br> O usuário não está logado. |
+
+### Tema claro/escuro {#cen23}   
+|   **Titulo**   | Tema claro/escuro                             |
+| :------------: | ---------------------------- |
+|  **Objetivo**  | O usuário trocar o tema.                             |
+|  **Contexto**  | O usuário está logado.                             |
+|   **Atores**   | Usuário.                             |
+|  **Recursos**  | Acesso à internet, smartphone.                             |
+| **Episódios**  | 1. O usuário navega até perfil. <br> 2. O usuário clica no ícone de três pontos. <br> 3. O usuário clica em configurações. <br> 4. O usuário navega até app. <br> 5. O usuário seleciona o tema.                            |
+|  **Exceções**  | Perda de conexão com a internet. <br> O usuário interrompe o fluxo de execução. <br> O usuário não está logado. |
+
+### Limpar memória {#cen24}  
+|   **Titulo**   | Limpar memória                             |
+| :------------: | ---------------------------- |
+|  **Objetivo**  | O usuário limpar o cache de memória do sistema.                             |
+|  **Contexto**  | O usuário está logado.                             |
+|   **Atores**   | Usuário.                             |
+|  **Recursos**  | Acesso à internet, smartphone.                             |
+| **Episódios**  | 1. O usuário navega até perfil. <br> 2. O usuário clica no ícone de três pontos. <br> 3. O usuário clica em configurações. <br> 4. O usuário navega até app. <br> 5. O usuário clica em "limpar cache".  |
+|  **Exceções**  | Perda de conexão com a internet. <br> O usuário interrompe o fluxo de execução. <br> O usuário não está logado.                             |
+
+### Filtrar emissoras {#cen25} 
+|   **Titulo**   | Filtrar emissoras                             |
+| :------------: | ---------------------------- |
+|  **Objetivo**  | O usuário filtrar emissoras.                             |
+|  **Contexto**  | O usuário está logado.                             |
+|   **Atores**   | Usuário.                             |
+|  **Recursos**  | Acesso à internet, smartphone.                             |
+| **Episódios**  | 1. O usuário navega até perfil. <br> 2. O usuário clica no ícone de três pontos. <br> 3. O usuário clica em configurações. <br> 4. O usuário navega até em breve. <br> 5. O usuário clica em filtrar emissoras.                             |
+|  **Exceções**  | Perda de conexão com a internet. <br> O usuário interrompe o fluxo de execução. <br> O usuário não está logado. |
