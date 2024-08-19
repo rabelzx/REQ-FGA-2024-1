@@ -4,6 +4,8 @@
 |------------|---------------|-----------------------------------|---------|
 | 13/08/2024 |  Eric Rabelo  | Criação do documento e do léxico "Usuário"| 1.0 |
 | 14/08/2024 |  Eric Rabelo  | Inserção do léxico LEX02 até o léxico LEX10| 1.1 |
+| 15/08/2024 |  Eric Rabelo  | Remoção dos léxicos: "Adicionar conteúdo" e "Marcar como assistido"; Inserção dos léxicos: Avaliação, Episódio, Reação, Comentário, Recomendação, TV Time Score, Favoritar, [estatísticas](#estatísticas), Seguidores e Plataforma; Adição de introdução, objetivo e metodoloia no documento| 2.0 |
+| 19/08/2027 |  Eric Rabelo  | Inserção dos léxicos: 'Notificações', 'Emblema', 'Atividade da comunidade' e 'Lista de Favoritos' | 2.1 |
 | 15/08/2024 |  Eric Rabelo  | Remoção dos léxicos: "Adicionar conteúdo" e "Marcar como assistido"; Inserção dos léxicos: Avaliação, Episódio, Reação, Comentário, Recomendação, TV Time Score, Favoritar, [estatísticas](#estatisticas), Seguidores e Plataforma; Adição de introdução, objetivo e metodoloia no documento| 2.0 |
 | 19/08/2024 |  Paulo Henrique  | Revisão do documento e correção de erros de formatação | 2.1 |
 
@@ -21,6 +23,28 @@ A elaboração deste documento foi fundamentada na coleta e análise de requisit
 
 ## Léxicos
  
+- [LEX01 - Usuário](#usuário) 
+- [LEX02 - Lista Geral](#lista-geral)
+- [LEX03 - Lista Personalizada](#lista-personalizada)
+- [LEX04 - Lista de Favoritos](#lista-de-favoritos)
+- [LEX05 - Favorito](#favorito)   
+- [LEX06 - Filme](#filme)
+- [LEX07 - Série](#série)
+- [LEX08 - Perfil](#perfil)
+- [LEX09 - Avaliação](#avaliação)
+- [LEX10 - Episódio](#episódio)
+- [LEX11 - Reação](#reação)
+- [LEX12 - Comentário](#comentário)
+- [LEX13 - Recomendação](#recomendação)
+- [LEX14 - TV Time Score](#tv-time-score)
+- [LEX15 - Favoritar](#favoritar)
+- [LEX16 - Etatísticas](#estatísticas)
+- [LEX17 - Seguidores](#seguidores)
+- [LEX18 - Plataforma](#plataforma)
+- [LEX19 - Notificações](#notificações)
+- [LEX20 - Emblema](#emblema)
+- [LEX21 - Atividade da Comunidade](#atividade-da-comunidade)
+
 - [LEX01 - Usuário](#usuario) 
 - [LEX02 - Lista geral](#lista-geral)
 - [LEX03 - Lista personalizada](#lista-personalizada)
@@ -68,6 +92,19 @@ A elaboração deste documento foi fundamentada na coleta e análise de requisit
 |----------|----------|
 | **Classificação** | Substantivo  |
 | **Sinônimo** | Lista customizada, lista particular |
+| **Noção** | Lista criada pelo [usuário](#usuário) para organizar [[filmes](#filme)](#filme) e [séries](#série) de acordo com suas preferências pessoais, como gêneros ou temas específicos. |
+| **Impacto** | - O [usuário](#usuário) pode criar, editar e deletar listas personalizadas para organizar seus conteúdos de forma específica.<br>- As listas personalizadas permitem que o [usuário](#usuário) categorize seus conteúdos além da [lista geral](#lista-geral), proporcionando uma experiência de organização mais flexível.<br>- As listas personalizadas podem ser visualizadas no [perfil](#perfil) do [usuário](#usuário). |
+
+---
+
+### Lista de Favoritos
+
+| Nome     | Lista de Favoritos |
+|----------|--------------------|
+| **Classificação** | Substantivo |
+| **Sinônimo** | Lista de preferidos, favoritos |
+| **Noção** | Seção dentro do perfil do [usuário](#usuário) que exibe conteúdos ([série](#série) ou [filme](#filme)) que foram marcados como [favoritos](#favorito). Existem duas listas separadas: uma para [séries](#série) e outra para [filmes](#filme). A lista é indicada por um ícone de coração. |
+| **Impacto** | - A Lista de Favoritos permite ao [usuário](#usuário) visualizar e acessar rapidamente suas séries e filmes preferidos.<br>- Os conteúdos marcados como [favoritos](#favorito) são destacados no perfil do [usuário](#usuário) e podem ser facilmente gerenciados e acessados.<br>- As listas de favoritos são separadas em duas categorias: uma para séries e outra para filmes, proporcionando uma organização clara e específica das preferências do [usuário](#usuário). |
 | **Noção** | Lista criada pelo [usuário](#usuario) para organizar [filmes](#filme) e [séries](#serie) de acordo com suas preferências pessoais, como gêneros ou temas específicos. |
 | **Impacto** | - O [usuário](#usuario) pode criar, editar e deletar listas personalizadas para organizar seus conteúdos de forma específica.<br>- As listas personalizadas permitem que o [usuário](#usuario) categorize seus conteúdos além da [lista geral](#lista-geral), proporcionando uma experiência de organização mais flexível.<br>- As listas personalizadas podem ser visualizadas no [perfil](#perfil) do [usuário](#usuario). |
 
@@ -223,5 +260,44 @@ A elaboração deste documento foi fundamentada na coleta e análise de requisit
 |----------|----------|
 | **Classificação** | Substantivo  |
 | **Sinônimo** | Onde assisir, canais disponíveis |
+| **Noção** | Indica onde uma [série](#série) ou [filme](#filme) pode ser assistido, mostrando as plataformas de streaming ou canais de TV disponíveis. |
+| **Impacto** | - Quando o [usuário](#usuário) acessa a página de uma [série](#série) ou [filme](#filme), ele pode ver onde o conteúdo está disponível para assistir.<br>- A lista inclui tanto plataformas de streaming quanto canais de TV tradicionais.<br>- Ao clicar em uma dessas opções, o [usuário](#usuário) é redirecionado para a plataforma correspondente, permitindo assistir ao conteúdo diretamente.<br>- Essa funcionalidade é uma fonte de monetização para o TV Time, pois a plataforma recebe uma comissão pelas redirecionamentos feitos através do app. |
+
+### Notificações
+
+| Nome     | Notificações  |
+|----------|---------------|
+| **Classificação** | Substantivo  |
+| **Sinônimo** | Alertas, Avisos |
+| **Noção** | Mensagens enviadas ao [usuário](#usuário) para informar sobre eventos relevantes no aplicativo, como lançamento de novos episódios, interações sociais, e conquistas. |
+| **Impacto** | - As notificações alertam o [usuário](#usuário) sobre novos episódios de [séries](#série) que estejam adicionadas à sua lista.<br>- Notificações informam o [usuário](#usuário) sobre novos seguidores, curtidas, e comentários em suas postagem em séries ou filmes.<br>- As notificações também comunicam quando o [usuário](#usuário) desbloqueia um [emblema](#emblema) após atingir uma meta estabelecida no aplicativo. |
+
+---
+
+### Emblema
+
+| Nome     | Emblema  |
+|----------|----------|
+| **Classificação** | Substantivo  |
+| **Sinônimo** | Badge, Condecoração |
+| **Noção** | Recompensa visual desbloqueada pelo [usuário](#usuário) ao atingir certas metas no aplicativo, exibida no [perfil](#perfil) do [usuário](#usuário). |
+| **Impacto** | - [Emblemas](#emblema) incentivam o engajamento do [usuário](#usuário) ao proporem metas a serem atingidas.<br>- Cada [emblema](#emblema) tem três níveis: bronze, prata e ouro, com dificuldade crescente.<br>- Os [emblemas](#emblema) são exibidos nas [estatísticas](#estatísticas) do [usuário](#usuário) e podem ser visualizados por outros [usuários](#usuário). |
+
+---
+
+### Atividade da Comunidade
+
+| Nome     | Atividade da Comunidade  |
+|----------|--------------------------|
+| **Classificação** | Substantivo  |
+| **Sinônimo** | Atividade Social, Interações da Comunidade |
+| **Noção** | Seção localizada dentro da aba de recomendações do TV Time que exibe a atividade recente dos [usuários](#usuário) que o [usuário](#usuário) segue. Esta seção mostra filmes e [séries](#série) que foram marcados como assistidos pelos [usuários](#usuário) seguidos. |
+| **Impacto** | - Permite que o [usuário](#usuário) veja o que os [usuários](#usuário) que segue estão assistindo recentemente, oferecendo uma visão das preferências e atividades de sua rede social.<br>- A [atividade da comunidade](#atividade-da-comunidade) ajuda a descobrir novos conteúdos através das escolhas de seus seguidores.<br>- Facilita a interação social e engajamento, permitindo ao [usuário](#usuário) acompanhar e comentar sobre as atividades de seus amigos e seguidores. |
+
+---
+
+
+
+
 | **Noção** | Indica onde uma [série](#serie) ou [filme](#filme) pode ser assistido, mostrando as plataformas de streaming ou canais de TV disponíveis. |
 | **Impacto** | - Quando o [usuário](#usuario) acessa a página de uma [série](#serie) ou [filme](#filme), ele pode ver onde o conteúdo está disponível para assistir.<br>- A lista inclui tanto plataformas de streaming quanto canais de TV tradicionais.<br>- Ao clicar em uma dessas opções, o [usuário](#usuario) é redirecionado para a plataforma correspondente, permitindo assistir ao conteúdo diretamente.<br>- Essa funcionalidade é uma fonte de monetização para o TV Time, pois a plataforma recebe uma comissão pelas redirecionamentos feitos através do app. |
