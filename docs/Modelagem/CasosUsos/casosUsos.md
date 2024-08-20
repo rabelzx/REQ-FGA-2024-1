@@ -24,8 +24,6 @@ Diagramas de casos de uso são uma representação visual das interações entre
 
 > Autores: Danilo, Wolfgang. [Referência](../../Atas/reuniao_13_08.md)
 
-###     
-
 
 
 
