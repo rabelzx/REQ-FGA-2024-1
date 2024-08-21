@@ -7,6 +7,7 @@
 | 1.2 | Adição do tópico 5.1.1 e 5.1.2 | Paulo Henrique Melo de Souza | - | 01/08 |
 | 2.0 | Adição dos requisitos elicitados | Eric Rabelo Borges | - | 10/08 |
 | 2.1 | Linkando os requisitos elicitados com as técnicas utilizadas | Paulo Henrique Melo de Souza | - | 19/08 |
+| 2.2 | Correção na tabela de requisitos elicitados | Paulo Henrique Melo de Souza | - | 20/08 |
 
 ## 1 - Introdução
 ---
@@ -92,9 +93,9 @@ A partir das técnicas de elicitação utilizadas, foram elicitados os seguintes
 | RF23 | O usuário deve ser capaz de adicionar uma foto de capa ao perfil.                                  | [Análise de Protocolo](elicitacao.md#reqUsuario) e [Brainstorm](elicitacao.md#reqUsuario)                     |
 | RF24 | O usuário poderá trocar seu nome de exibição para outros usuários.                                 | [Análise de Protocolo](elicitacao.md#reqUsuario) e [Brainstorm](elicitacao.md#reqUsuario)                      |
 | RF25 | O usuário deve ser capaz de editar suas informações pessoais.                                      | [Análise de Protocolo](elicitacao.md#reqUsuario) e [Brainstorm](elicitacao.md#reqUsuario)                      |
-| RNF26 | O sistema deve computar o tempo gasto do usuário assistindo filmes ou séries.                      | [Análise de Protocolo](elicitacao.md#reqUsuario)    |
-| RNF27 | O sistema deve computar a quantidade de episódios vistos pelo usuário.                             | [Análise de Protocolo](elicitacao.md#reqUsuario)    |
-| RNF28 | O sistema deve computar a quantidade de filmes vistos pelo usuário.                                | [Análise de Protocolo](elicitacao.md#reqUsuario)    |
+| RF26 | O sistema deve computar o tempo gasto do usuário assistindo filmes ou séries.                      | [Análise de Protocolo](elicitacao.md#reqUsuario)    |
+| RF27 | O sistema deve computar a quantidade de episódios vistos pelo usuário.                             | [Análise de Protocolo](elicitacao.md#reqUsuario)    |
+| RF28 | O sistema deve computar a quantidade de filmes vistos pelo usuário.                                | [Análise de Protocolo](elicitacao.md#reqUsuario)    |
 | RF29 | O usuário deve ser capaz de criar novas listas.                                                    | [Brainstorm](elicitacao.md#reqUsuario)               |
 | RF30 | O usuário deve conseguir adicionar um nome e descrição à nova lista.                               | [Brainstorm](elicitacao.md#reqUsuario)              |
 | RF31 | O sistema deve permitir que o usuário deixe a lista oculta para outros usuários.                   | [Brainstorm](elicitacao.md#reqUsuario)              |
@@ -109,11 +110,11 @@ A partir das técnicas de elicitação utilizadas, foram elicitados os seguintes
 | RF40 | O sistema deve permitir o usuário alterar sua senha de acesso.                                     | [Análise de Protocolo](elicitacao.md#reqUsuario)    |
 | RF41 | O usuário poderá vincular/desvincular sua conta a outras redes sociais                             | [Análise de Protocolo](elicitacao.md#reqUsuario)    |
 | RF42 | O sistema deve permitir que o usuário torne sua conta privada.                                     | [Análise de Protocolo](elicitacao.md#reqUsuario)    |
-| RNF43 | O sistema deve permitir que o usuário exclua permanentemente sua conta.                            | [Análise de Protocolo](elicitacao.md#reqUsuario)    |
-| RNF44 | O usuário deve ser capaz de sair de sua conta.                                                     | [Análise de Protocolo](elicitacao.md#reqUsuario)    |
-| RNF45 | O sistema deve permitir que o usuário escolha o idioma da exibição dos títulos do filmes/séries.   | [Análise de Protocolo](elicitacao.md#reqUsuario)    |
-| RNF46 | O sistema deve permitir que o usuário selecione o idioma preferencial para exibição dos comentários, exibindo primeiro os comentários no idioma escolhido.                     | [Análise de Protocolo](elicitacao.md#reqUsuario)    |
-| RNF47 | O usuário deve ser capaz de escolher entre tema claro ou escuro, com a possibilidade de alternar a qualquer momento. | [Análise de Protocolo](elicitacao.md#reqUsuario)    |
-| RNF48 | O usuário deve ser capaz de limpar o cache de uso de memória do sistema.                           | [Análise de Protocolo](elicitacao.md#reqUsuario)    |
-| RNF49 | O sistema deve permitir a filtragem de emissoras.                                                  | [Análise de Protocolo](elicitacao.md#reqUsuario)    |
+| RF43 | O sistema deve permitir que o usuário exclua permanentemente sua conta.                            | [Análise de Protocolo](elicitacao.md#reqUsuario)    |
+| RF44 | O usuário deve ser capaz de sair de sua conta.                                                     | [Análise de Protocolo](elicitacao.md#reqUsuario)    |
+| RF45 | O sistema deve permitir que o usuário escolha o idioma da exibição dos títulos do filmes/séries.   | [Análise de Protocolo](elicitacao.md#reqUsuario)    |
+| RF46 | O sistema deve permitir que o usuário selecione o idioma preferencial para exibição dos comentários, exibindo primeiro os comentários no idioma escolhido.                     | [Análise de Protocolo](elicitacao.md#reqUsuario)    |
+| RF47 | O usuário deve ser capaz de escolher entre tema claro ou escuro, com a possibilidade de alternar a qualquer momento. | [Análise de Protocolo](elicitacao.md#reqUsuario)    |
+| RF48 | O usuário deve ser capaz de limpar o cache de uso de memória do sistema.                           | [Análise de Protocolo](elicitacao.md#reqUsuario)    |
+| RF49 | O sistema deve permitir a filtragem de emissoras.                                                  | [Análise de Protocolo](elicitacao.md#reqUsuario)    |
 | RF50 | O usuário deve ser capaz de ocultar episódios já assistidos.                                       | [Análise de Protocolo](elicitacao.md#reqUsuario)    |

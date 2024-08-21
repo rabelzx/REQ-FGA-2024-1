@@ -3,6 +3,7 @@
 | Data       | Autor         | Descrição                         | Versão  |
 |------------|---------------|-----------------------------------|---------|
 | 14/08/2024 | Paulo Henrique  | Criação do documento e inserção dos tópicos 1 ao 4.4 | 1.0 |
+| 20/08/2024 | Paulo Henrique  | Revisão do documento e correção de erros | 1.1 |
 
 ## 1 - Introdução
 ---
@@ -40,18 +41,18 @@ Por meio desta técnica e respeitando a ordem de prioridade do MoSCoW, os [requi
 | RF37 | O sistema deve permitir que o usuário separe entre séries/filmes vistas e não vistas.                          | 
 | RF38 | O usuário deve ser capaz de localizar filmes/séries por meio de um filtro.                                     | 
 | RF40 | O sistema deve permitir o usuário alterar sua senha de acesso.                                                 |  
-| RNF43 | O sistema deve permitir que o usuário exclua permanentemente sua conta.                                       | 
-| RNF44 | O usuário deve ser capaz de sair de sua conta.                                                                | 
-| RNF45 | O sistema deve permitir que o usuário escolha o idioma da exibição dos títulos do filmes/séries.              | 
+| RF43 | O sistema deve permitir que o usuário exclua permanentemente sua conta.                                       | 
+| RF44 | O usuário deve ser capaz de sair de sua conta.                                                                | 
+| RF45 | O sistema deve permitir que o usuário escolha o idioma da exibição dos títulos do filmes/séries.              | 
 
 ### **4.2 - Should Have (Deveria ter)**
 | ID   | Descrição                                                                                             | 
 |------|-------------------------------------------------------------------------------------------------------|
 | RF02 | O sistema deve enviar notificações para o usuário sobre novos episódios de séries que ele segue.      | 
 | RF05 | O sistema deve oferecer recomendações de séries com base no histórico de visualização do usuário.     | 
-| RNF26 | O sistema deve computar o tempo gasto do usuário assistindo filmes ou séries.                        | 
-| RNF27 | O sistema deve computar a quantidade de episódios vistos pelo usuário.                               | 
-| RNF28 | O sistema deve computar a quantidade de filmes vistos pelo usuário.                                  | 
+| RF26 | O sistema deve computar o tempo gasto do usuário assistindo filmes ou séries.                        | 
+| RF27 | O sistema deve computar a quantidade de episódios vistos pelo usuário.                               | 
+| RF28 | O sistema deve computar a quantidade de filmes vistos pelo usuário.                                  | 
 | RF29 | O usuário deve ser capaz de criar novas listas.                                                       | 
 | RF30 | O usuário deve conseguir adicionar um nome e descrição à nova lista.                                  | 
 | RF32 | O sistema deve permitir que o usuário adicione filmes ou séries à lista existente.                    | 
@@ -60,7 +61,7 @@ Por meio desta técnica e respeitando a ordem de prioridade do MoSCoW, os [requi
 | RF35 | O sistema deve permitir que o usuário exclua uma lista.                                               |
 | RF41 | O usuário poderá vincular/desvincular sua conta a outras redes sociais                                |
 | RF42 | O sistema deve permitir que o usuário torne sua conta privada.                                        | 
-| RNF46 | O sistema deve permitir que o usuário selecione o idioma preferencial para exibição dos comentários. | 
+| RF46 | O sistema deve permitir que o usuário selecione o idioma preferencial para exibição dos comentários. | 
 | RF50 | O usuário deve ser capaz de ocultar episódios já assistidos.                                          | 
 
 ### **4.3 - Could Have (Poderia ter)**
@@ -85,11 +86,11 @@ Por meio desta técnica e respeitando a ordem de prioridade do MoSCoW, os [requi
 | RF24 | O usuário poderá trocar seu nome de exibição para outros usuários.                                                    |
 | RF31 | O sistema deve permitir que o usuário deixe a lista oculta para outros usuários.                                      |
 | RF39 | O sistema deve permitir o compartilhamento da lista de séries/filmes favoritos para redes sociais vizinhas.           |
-| RNF47 | O usuário deve ser capaz de escolher entre tema claro ou escuro, com a possibilidade de alternar a qualquer momento. |
-| RNF48 | O usuário deve ser capaz de limpar o cache de uso de memória do sistema.                                             |
+| RF47 | O usuário deve ser capaz de escolher entre tema claro ou escuro, com a possibilidade de alternar a qualquer momento. |
+| RF48 | O usuário deve ser capaz de limpar o cache de uso de memória do sistema.                                             |
 
 ### **4.4 - Would Have (Teria)**
 | ID   | Descrição                                                                                          |
 |------|----------------------------------------------------------------------------------------------------|
 | RF25 | O usuário deve ser capaz de editar suas informações pessoais.                                      | 
-| RNF49 | O sistema deve permitir a filtragem de emissoras.                                                 |
+| RF49 | O sistema deve permitir a filtragem de emissoras.                                                 |
