@@ -9,7 +9,11 @@ nav:
   - Pré-rastreabilidade:
     - RichPicture: Pre-rastreabilidade/richpicture.md
   - Elicitação:
-    - Documento de Elicitação: Elicitacao/elicitacao.md
+    - Sobre: Elicitacao/elicitacao.md
+    - Brainstorming: Elicitacao/brainstorm.md
+    - Observação: Elicitacao/observacao.md
+    - Análise de Protocolo: Elicitacao/analise.md
+    - Requisitos Elicitados: Elicitacao/requisitos.md
     - Priorização: Elicitacao/priorizacao.md
   - Modelagem:
     - Visão do Produto: Modelagem/VisaoProduto/visao_produto.md

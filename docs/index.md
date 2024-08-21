@@ -1,4 +1,4 @@
-# TvTime
+# TV Time
 
 O TV Time é uma ferramenta essencial para acompanhar séries e filmes, permitindo que os usuários rastreiem seu progresso, recebam recomendações personalizadas, interajam com uma comunidade de fãs, organizem listas de espera e fiquem por dentro das datas de lançamento. Com sincronização em múltiplos dispositivos, é fácil manter um registro atualizado do que foi assistido e do que está por vir, tornando a experiência de assistir ainda mais agradável e organizada.
 
