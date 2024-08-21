@@ -3,6 +3,7 @@
 | Data       | Autor         | Descrição                          | Versão |
 |------------|---------------|------------------------------------|--------|
 | 21/08/2024 | Eric Rabelo Borges | Criando seção: Análise de Protocolo | 1.0    |
+| 21/08/2024 | Eric Rabelo Borges | Reestruturando tópico de aplicações da técnica      | 1.1    |
 
 ## 1 - Introdução
 ---
@@ -10,9 +11,9 @@ A Análise de Protocolo é uma técnica utilizada para entender o processo de pe
 
 ## 2 - Objetivo
 ---
-O objetivo da Análise de Protocolo neste projeto foi identificar pontos de melhoria e novas funcionalidades nas abas de filmes, séries e configurações do perfil de usuário. A partir das análises realizadas, foram gerados artefatos visuais como RichPictures, que auxiliam na visualização das descobertas e orientam o desenvolvimento futuro.
+A Análise de Protocolo foi utilizado em várias ocasiões durante o projeto, impactando diretamente na identificação de necessidades e na geração de artefatos essenciais para o desenvolvimento do aplicativo. A seguir, estão detalhadas as aplicações da técnica e os resultados obtidos em cada caso. 
 
-## 3 - Análise de Protocolo
+## 3 - Aplicações da Técnica
 ---
 ### 3.1 - Filmes e Séries
 Para reforçar possíveis pontos de melhoria e identificar novas funcionalidades, foram feitas duas análises de protocolo durante a reunião do dia [29/07](../Atas/reuniao_29_07.md). O membro Danilo Naves realizou a análise de protocolo na aba de filmes, enquanto Sunamita Vitoria conduziu a análise na aba de séries.
@@ -40,6 +41,4 @@ Para levantar novos requisitos e reforçar melhorias, foi realizada uma análise
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ZCHwscVyR6E?si=0Fd2ZefGvImdKBnp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </center>
 
-Após essa análise e o brainstorming realizado, foi gerada uma nova versão para o rich picture de usuário: [RichPicture Usuário - versão 2.0](../Pre-rastreabilidade/richpicture.md#v2usuario).
-
----
+Após essa análise, foi gerada uma nova versão para o rich picture de usuário: [RichPicture Usuário - versão 2.0](../Pre-rastreabilidade/richpicture.md#v2usuario).

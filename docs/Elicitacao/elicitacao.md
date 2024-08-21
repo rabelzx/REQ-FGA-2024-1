@@ -16,5 +16,5 @@ Elicitação é o processo de coleta de informações sobre o sistema a ser dese
 
 ## 2 - Objetivo
 ---
-O objetivo deste documento é apresentar as técnicas de elicitação de requisitos que serão utilizadas no projeto, bem como suas definições e artefatos gerados. 
+O objetivo deste documento é apresentar as técnicas de elicitação de requisitos que serão utilizadas no projeto, bem como suas definições, artefatos gerados e requisitos elicitados. 
 
