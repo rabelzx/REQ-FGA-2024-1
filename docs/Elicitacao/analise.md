@@ -4,6 +4,7 @@
 |------------|---------------|------------------------------------|--------|
 | 21/08/2024 | Eric Rabelo Borges | Criando seção: Análise de Protocolo | 1.0    |
 | 21/08/2024 | Eric Rabelo Borges | Reestruturando tópico de aplicações da técnica      | 1.1    |
+| 21/08/2024 | Eric Rabelo Borges | Renomeando RichPictures | 1.2 |
 
 ## 1 - Introdução
 ---
@@ -31,7 +32,7 @@ Para reforçar possíveis pontos de melhoria e identificar novas funcionalidades
   </audio>
   </center>
 
-A partir dessas análises, foi observado que as abas de séries e filmes são basicamente iguais, com a principal diferença sendo o campo dedicado aos episódios e temporadas na aba de séries. Com isso, a equipe decidiu unificar os rich pictures de filmes e séries, gerando como artefato uma nova versão: [RichPicture Shows - versão 2.0](../Pre-rastreabilidade/richpicture.md#v2shows).
+A partir dessas análises, foi observado que as abas de séries e filmes são basicamente iguais, com a principal diferença sendo o campo dedicado aos episódios e temporadas na aba de séries. Com isso, a equipe decidiu unificar os rich pictures de filmes e séries, gerando como artefato uma nova versão: [RichPicture: Shows - V2.0](../Pre-rastreabilidade/richpicture.md#v2shows).
 
 ### 3.2 - Configurações do Perfil de Usuário
 Para levantar novos requisitos e reforçar melhorias, foi realizada uma análise de protocolo na aba de configurações do perfil de usuário. O objetivo era acessar as configurações e trocar o tema de claro para escuro, detalhando todos os passos realizados e explicando o processo. A análise foi realizada pelo membro Paulo Henrique.
@@ -41,4 +42,4 @@ Para levantar novos requisitos e reforçar melhorias, foi realizada uma análise
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ZCHwscVyR6E?si=0Fd2ZefGvImdKBnp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </center>
 
-Após essa análise, foi gerada uma nova versão para o rich picture de usuário: [RichPicture Usuário - versão 2.0](../Pre-rastreabilidade/richpicture.md#v2usuario).
+Após essa análise, foi gerada uma nova versão para o rich picture de usuário: [RichPicture: Perfil do Usuário - V2.0](../Pre-rastreabilidade/richpicture.md#v2usuario).

@@ -5,7 +5,7 @@
 | 30-07-2024 |  Eric Rabelo, Wolfgang Friedrich  | Criação do documento e adição dos RichPictures Geral - Versão 1.0 e Geral - Versão 2.0 | 1.0     |
 | 30-07-2024 |  Danilo Naves, Paulo Henrique Melo | Adicionando RichPicture - versão 1.0 de Usuários - | 1.1     |
 | 31-07-2024 |  Paulo Henrique Melo | Adicionando RichPictures Shows - versão 1.0 e versão 2.0 | 1.2     |
-
+| 21/08/2024 | Eric Rabelo Borges | Renomeando RichPictures: 'Geral' para 'Interessados no Sistema' e 'Usuário' para 'Perfil do Usuário'  | 1.2 |
 
 ## 1 - Introdução
 ---
@@ -18,7 +18,7 @@ A finalidade para o uso do RicPicture é fornecer um modelo que auxilia o entend
 ## 3 - RichPicture
 ---
 
-### 3.1 - Geral
+### 3.1 - Interessados no Sistema
 
 #### Versão 1.0 {#v1geral}
 ![RichPicture Geral - v1](../images/richpic_geral_v1.png)
@@ -42,7 +42,7 @@ A finalidade para o uso do RicPicture é fornecer um modelo que auxilia o entend
 
 > Autores: Sunamita, Paulo. [Referência](../Atas/reuniao_29_07.md)
 
-### 3.3 - Usuário
+### 3.3 - Perfil do Usuário
 
 #### Versão 1.0 {#v1usuario}
 
