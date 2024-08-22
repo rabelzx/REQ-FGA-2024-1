@@ -59,9 +59,3 @@
 | RF48 | O usuário deve ser capaz de limpar o cache de uso de memória do sistema.                           | [Análise de Protocolo](analise.md)    |
 | RF49 | O sistema deve permitir a filtragem de emissoras.                                                  | [Análise de Protocolo](analise.md)    |
 | RF50 | O usuário deve ser capaz de ocultar episódios já assistidos.                                       | [Análise de Protocolo](analise.md)    |
-
-## 2 - Requisitos Não Funcionais
-
-| ID   | Descrição                                                                                          | Técnica                 |
-|------|----------------------------------------------------------------------------------------------------|-------------------------|
-| RNF01 |                             | |
