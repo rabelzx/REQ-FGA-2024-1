@@ -1,9 +1,10 @@
 ## Histórico de Versão
 
-| Versão | Alteração | Responsável | Revisor | Data |
-|--------|-----------|-------------|---------|------|
-| 1.0 | Criação de documento acerca do NFR | Danilo Naves do Nascimento | |  21/08 |
-| 1.1 | Descrição de NFR | Danilo Naves do Nascimento | | 22/08 |
+| Data       | Autor         | Descrição                         | Versão  |
+|------------|---------------|-----------------------------------|---------|
+| 21/08/2024 |  Danilo Naves do Nascimento  | Criação de documento acerca do NFR | 1.0 |
+| 22/08/2024 |  Danilo Naves do Nascimento | Descrição de NFR| 1.1 |
+| 22/08/2024 |  Eric Rabelo Borges | Adição do NFR de Segurança e Acessibilidade | 1.2 |
 
 ## NFR Framework
 
@@ -63,6 +64,12 @@ As contribuições representam as maneiras pelas quais as ações ou caracterís
 > Fonte: Requisitos de Software - Slides Aula 17(Pag. 13)
 
 
-## NFR 1
+## NFR - Usabilidade e Confiabilidade
 
 ![Usuabilidade](../../images/modelagem/NFR/NFR1.drawio.svg)
+> Autores: Paulo, Eric, Danilo, Wolf
+
+## NFR - Segurança e Acessibilidade
+
+![Usuabilidade](../../images/modelagem/NFR/NFRAcessibilidadeSegurança.svg)
+> Autores: Eric, Danilo
