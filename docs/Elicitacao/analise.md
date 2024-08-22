@@ -24,13 +24,7 @@ Para reforçar possíveis pontos de melhoria e identificar novas funcionalidades
   <iframe width="560" height="315" src="https://www.youtube.com/embed/-PtVC4qcJpo" frameborder="0" allowfullscreen></iframe>
   </center>
 
-- **Análise de protocolo feita por Sunamita Vitoria:**
-  <center>
-  <audio controls>
-    <source src="../audio/analiseProtocoloSeries.mp3" type="audio/mp3">
-    Seu navegador não suporta o elemento de áudio.
-  </audio>
-  </center>
+- **Análise de protocolo feita por Sunamita Vitoria que pode ser acessada através do link:** <a href="https://drive.google.com/file/d/1mdDc0ILrM1JXCCs8AMxOeY5-ODdO4u1h/view?usp=sharing" Target="Blank">Gravação</a>
 
 A partir dessas análises, foi observado que as abas de séries e filmes são basicamente iguais, com a principal diferença sendo o campo dedicado aos episódios e temporadas na aba de séries. Com isso, a equipe decidiu unificar os rich pictures de filmes e séries, gerando como artefato uma nova versão: [RichPicture: Shows - V2.0](../Pre-rastreabilidade/richpicture.md#v2shows).
 

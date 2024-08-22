@@ -6,7 +6,7 @@
 | 21/08      | Sunamita Rodrigues  | Adição da primeira versão da Sprint Backlog| 1.1|
 | 21/08      | Sunamita Rodrigues  | Adição do Backlog do Produto | 1.2|
 | 21/08      | Paulo Henrique  | Inserção dos critérios de aceitação US01 ao US25 e correção no documento | 1.3|
-| 22/08      | Paulo Henrique  | Inserção dos critérios de aceitação US26 ao US50 e separação do sprint backlog em um novo arquivo separado: [Sprint Backlog](../SprintBacklog/SprintBacklog.md) | 1.4|
+| 22/08      | Paulo Henrique  | Inserção dos critérios de aceitação US26 ao US50 e separação do sprint backlog em um novo arquivo separado: [Sprint Backlog](../Agil/SprintBacklog.md) | 1.4|
 
 ## Introdução
 ---
