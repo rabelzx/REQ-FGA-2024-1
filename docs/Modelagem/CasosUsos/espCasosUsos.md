@@ -4,7 +4,7 @@
 |------------|---------------|-----------------------------------|---------|
 | 20/08      |Danilo Naves   | Criação do documento referente a Especificações de  Casos de Uso | 1.0|
 | 21/08      |Wolfgang Stein  | Adicionando [UC01](#uc01---criação-de-conta) e [UC02](#uc02---adicionando-filmes) | 1.1|
-| 21/08      |Wolfgang Stein  | Adicionando [UC03](#uc03---adicionando-séries), [UC04](#uc04---avaliando-filmes), [UC05]()| 1.1|
+| 22/08      |Wolfgang Stein  | Adicionando [UC03](#uc03---adicionando-séries), [UC04](#uc04---avaliando-filmes), [UC05](#uc05---avaliando-séries)| 1.1|
 
 ### Sumário
 
@@ -91,3 +91,29 @@ UC05 - Avaliando Séries
 | Fluxo Alternativo 1 |1. O usuário acessa a barra de descobrir<br> 2. O usuário acessa a barra de pesquisar ( canto superior)  <br> 3. O usuário procura a série que já tenha na sua lista [FE01]<br> 4. O usuário clica na aba "mais" no qual tem as mesmas opções do fluxo principal|
 | Fluxo de Exceção | Caso não esteja como assistido, não é possivel avaliar|
 | Pós-Condições | O usuário agora avaliou a série |
+
+UC06 - Editando Perfil
+---
+
+|           |               |
+|-----------|---------------|
+| Descrição | Edita o Perfil do usuário|
+| Ator(es)  | Usuário| 
+| Pré-Requisitos | Possuir cadastro no Tv time e estar conectado a internet|
+| Fluxo Principal | 1. Usuário acessa TV Time <br>2. O usuário vai até o botão de Perfil<br> 3. O usuário clica no icone "editar Perfil" <br> 4. O usuário pode escolher a foto de perfil e de capa, bem como adicionar o país de origem<br>
+| Fluxo de Exceção | --|
+| Pós-Condições | O usuário personalizou seu perfil |
+
+
+UC07 - Pesquisar usuários
+---
+
+|           |               |
+|-----------|---------------|
+| Descrição | Procura algum usuário|
+| Ator(es)  | Usuário| 
+| Pré-Requisitos | Possuir cadastro no Tv time e estar conectado a internet|
+| Fluxo Principal | 1. Usuário acessa TV Time <br>2. O usuário vai até o botão de Perfil[FA01]<br>3. O usuário clica na aba de Seguindo<br> 4. O usuário pesquisa o usuário que quer achar.|
+| Fluxo Alternativo 1 |1. O usuário acessa a barra de descobrir<br> 2. O usuário acessa a barra de pesquisar ( canto superior)  <br> 3. O usuário procura a série que já tenha na sua lista [FE01]<br> 4. O usuário clica na aba "mais" no qual tem as mesmas opções do fluxo principal|
+| Fluxo de Exceção | Caso o usuário não permita o app ver os contatos ou ter conexão as redes sociais, não será possível procurar usuário|
+| Pós-Condições | O usuário agora personalizou seu perfil|
