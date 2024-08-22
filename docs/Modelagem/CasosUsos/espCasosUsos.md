@@ -39,10 +39,42 @@ UC02 - Adicionando Filmes
 | Descrição | Adicionando Filmes |
 | Ator(es)  | Usuário, Produtoras, Serviços de Streaming| 
 | Pré-Requisitos | Possuir cadastro no Tv time e estar conectado a internet|
-| Fluxo Principal | 1. Usuário acessa TV Time <br>2. O usuário vai até o botão de Descobrir<br>3. O usuário clica na barra de "Ver todos os filmes"[FA01]<br> 4. O usuário pode procurar o filme [FA02]<br> 5. O usuário clica em adicionar filme ( botão de '+') [FA03]|
+| Fluxo Principal | 1. Usuário acessa TV Time <br>2. O usuário vai até o botão de Descobrir<br>3. O usuário clica na barra de "Ver todos os filmes"[FA01]<br> 4. O usuário pode procurar o filme [FA02][FA03]<br> 5. O usuário clica em adicionar filme ( botão de '+') [FA04]|
 | Fluxo Alternativo 1 |1. O usuário acessa a barra de pesquisar ( canto superior) <br> 2. O usuário digita o nome do filme <br> 3. Usuário adiciona o Filme clicando no botão ("+")|
 | Fluxo Alternativo 2 |1. O usuário usa pode navegar na página para ver os filmes que estão sendo apresentados <br> 2. Adiciona o filme apertando o botão de adicionar filme(+) <br>|
-| Fluxo Alternativo 3 |1. O usuário clica na barra do filme <br> 2. Clica no botão adicionar filme ("+") ou  no check <br>|
+| Fluxo Alternativo 3 |1. O usuário aperta o botão "filtros" <br> 2. Escolhe a opção de filtros <br> 3. clica no botão ("+") para adicionar o filme<br>|
+| Fluxo Alternativo 4 |1. O usuário clica na barra do filme <br> 2. Clica no botão adicionar filme ("+") ou  no check <br>|
 | Fluxo de Exceção | -- |
 | Pós-Condições | O usuário agora adicionou esse filme a sua lista de Filmes assistidos. |
 
+
+UC02 - Adicionando Filmes
+---
+
+|           |               |
+|-----------|---------------|
+| Descrição | Adicionando Series |
+| Ator(es)  | Usuário, Produtoras, Serviços de Streaming| 
+| Pré-Requisitos | Possuir cadastro no Tv time e estar conectado a internet|
+| Fluxo Principal | 1. Usuário acessa TV Time <br>2. O usuário vai até o botão de Descobrir<br>3. O usuário clica na barra de "Ver todas as séries"[FA01]<br> 4. O usuário pode procurar o Série [FA02][FA03]<br> 5. O usuário clica em adicionar Série ( botão de '+') [FA04]|
+| Fluxo Alternativo 1 |1. O usuário acessa a barra de pesquisar ( canto superior) <br> 2. O usuário digita o nome da Série <br> 3. Usuário adiciona a série clicando no botão ("+")|
+| Fluxo Alternativo 2 |1. O usuário usa pode navegar na página para ver as séries que estão sendo apresentados <br> 2. Adiciona o Série apertando o botão de adicionar Série(+) <br>|
+| Fluxo Alternativo 3 |1. O usuário aperta o botão "filtros" <br> 2. Escolhe a opção de filtros <br> 3. clica no botão ("+") para adicionar a série<br>|
+| Fluxo Alternativo 4 |1. O usuário clica na barra do Série <br> 2. Clica no botão adicionar Série ("+") ou  no check <br>|
+| Fluxo de Exceção | -- |
+| Pós-Condições | O usuário agora adicionou essa série a sua lista de Filmes assistidos. |
+
+UC03 - Avaliando o filme/série
+---
+
+|           |               |
+|-----------|---------------|
+| Descrição | Avalia os filmes e séries |
+| Ator(es)  | Usuário, Produtoras, Serviços de Streaming| 
+| Pré-Requisitos | Possuir cadastro no Tv time e estar conectado a internet|
+| Fluxo Principal | 1. Usuário acessa TV Time <br>2. O usuário vai até o botão de Descobrir<br>3. O usuário clica na barra de "Ver todas as séries"[FA01]<br> 4. O usuário pode procurar o Série [FA02]<br> 5. O usuário clica em adicionar Série ( botão de '+') [FA03]|
+| Fluxo Alternativo 1 |1. O usuário acessa a barra de pesquisar ( canto superior) <br> 2. O usuário digita o nome da Série <br> 3. Usuário adiciona a série clicando no botão ("+")|
+| Fluxo Alternativo 2 |1. O usuário usa pode navegar na página para ver as séries que estão sendo apresentados <br> 2. Adiciona o Série apertando o botão de adicionar Série(+) <br>|
+| Fluxo Alternativo 3 |1. O usuário clica na barra do Série <br> 2. Clica no botão adicionar Série ("+") ou  no check <br>|
+| Fluxo de Exceção | -- |
+| Pós-Condições | O usuário agora adicionou essa série a sua lista de Filmes assistidos. |
