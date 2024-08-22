@@ -5,6 +5,7 @@
 | 21/08/2024 |  Danilo Naves do Nascimento  | Criação de documento acerca do NFR | 1.0 |
 | 22/08/2024 |  Danilo Naves do Nascimento | Descrição de NFR| 1.1 |
 | 22/08/2024 |  Eric Rabelo Borges | Adição do NFR de Segurança e Acessibilidade | 1.2 |
+| 22/08/2023 | Danilo Naves do Nascimento | Mapeamento de RNF | 1.3 |
 
 ## NFR Framework
 
