@@ -1,5 +1,13 @@
 # Backlog do Produto
 
+## Histórico de Revisão
+--- 
+| Data       | Autor         | Descrição                         | Versão  |
+|------------|---------------|-----------------------------------|---------|
+| 21/08      |Paulo Henrique   | Criação do documento referente ao Backlog do Produto| 1.0|
+| 21/08      |Sunamita Rodrigues  | Adição da primeira versão da Sprint Backlog| 1.0|
+| 21/08      |Sunamita Rodrigues  | Adição da tabela de requisitos| 1.1|
+
 | Épico                    | ID    | Eu, como   | Desejo                                                                          | Para que eu possa                                                          | Requisito | Prioridade |
 |--------------------------|-------|------------|---------------------------------------------------------------------------------|----------------------------------------------------------------------------|-----------|------------|
 | Gestão de shows          | US01  | Usuário    | Marcar um episódio como assistido                                               | Acompanhar meu progresso de episódios vistos em uma série                  | RF01      | Must       |
@@ -162,10 +170,4 @@
 
 **Resultado:** Os usuários podem receber notificações de novos episódios, adicionar séries aos favoritos, ver recomendações e compartilhar suas reações e comentários em redes sociais.
 
-## Histórico de Revisão
---- 
-| Data       | Autor         | Descrição                         | Versão  |
-|------------|---------------|-----------------------------------|---------|
-| 21/08      |Paulo Henrique   | Criação do documento referente ao Backlog do Produto| 1.0|
-| 21/08      |Sunamita Rodrigues  | Adição da primeira versão da Sprint Backlog| 1.0|
-| 21/08      |Sunamita Rodrigues  | Adição da tabela de requisitos| 1.1|
+
