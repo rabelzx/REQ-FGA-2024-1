@@ -4,7 +4,7 @@
 |------------|---------------|-----------------------------------|---------|
 | 20/08      |Danilo Naves   | Criação do documento referente a Especificações de  Casos de Uso | 1.0|
 | 21/08      |Wolfgang Stein  | Adicionando [UC01](#uc01---criação-de-conta) e [UC02](#uc02---adicionando-filmes) | 1.1|
-| 22/08      |Wolfgang Stein  | Adicionando [UC03](#uc03---adicionando-séries), [UC04](#uc04---avaliando-filmes), [UC05](#uc05---avaliando-séries)| 1.1|
+| 22/08      |Wolfgang Stein  | Adicionando [UC03](#uc03---adicionando-séries), [UC04](#uc04---avaliando-filmes), [UC05](#uc05---avaliando-séries), [UC06](#uc06---editando-perfil) [UC07](#uc07---pesquisar-usuários)| 1.1|
 
 ### Sumário
 
