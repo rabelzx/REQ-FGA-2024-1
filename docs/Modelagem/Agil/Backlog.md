@@ -6,6 +6,7 @@
 | 21/08      | Sunamita Rodrigues  | Adição da primeira versão da Sprint Backlog| 1.1|
 | 21/08      | Sunamita Rodrigues  | Adição do Backlog do Produto | 1.2|
 | 21/08      | Paulo Henrique  | Inserção dos critérios de aceitação US01 ao US25 e correção no documento | 1.3|
+| 22/08      | Paulo Henrique  | Inserção dos critérios de aceitação US26 ao US50 e separação do sprint backlog em um novo arquivo separado: [Sprint Backlog](../SprintBacklog/SprintBacklog.md) | 1.4|
 
 ## Introdução
 ---
@@ -278,125 +279,207 @@ Os critérios de aceitação são condições que devem ser atendidas para que u
 |---------|--------|
 | **Critérios** | 1. Editar minhas informações pessoais, como nome, e-mail, data de nascimento e senha. <br> 2. As informações pessoais devem ser exibidas de forma clara e organizada. <br> 3. O usuário deve poder alterar as informações pessoais a qualquer momento. |
 
+---
+
+### US26: Saber quanto tempo gastei assistindo filmes ou séries {#US26}
+
+| **ID**  |  US26  |
+|---------|--------|
+| **Critérios** | 1. O tempo gasto deve ser computador automaticamente pelo sistema quando o usuário marcar o conteúdo como assistido. <br> 2. O tempo gasto deve ser exibido de forma clara e organizada na tela de perfil. |
+
+---
+
+### US27: Saber quantos episódios assisti {#US27}
+
+| **ID**  |  US27  |
+|---------|--------|
+| **Critérios** | 1. O sistema deve computar automaticamente a quantidade de episódios vistos. <br> 2. O número de episódios assistidos deve ser exibido de forma clara e organizada. <br> 3. O usuário deve poder acessar o número de episódios assistidos a partir da tela de perfil. <br> 4. A quantidade de episódios vistos deve ser atualizada sempre que o usuário marcar um episódio como assistido. |
+
+---
+
+### US28: Saber quantos filmes eu vi {#US28}
+
+| **ID**  |  US28  |
+|---------|--------|
+| **Critérios** | 1. O sistema deve computar automaticamente a quantidade de filmes vistos. <br> 2. O número de filmes assistidos deve ser exibido de forma clara e organizada. <br> 3. O usuário deve poder acessar o número de filmes assistidos a partir da tela de perfil. |
+
+---
+
+### US29: Criar listas específicas filmes ou séries {#US29}
+
+| **ID**  |  US29  |
+|---------|--------|
+| **Critérios** | 1. Essa lista deve ser criada a partir da tela de perfil do usuário. <br> 2. A lista deve ser exibida de forma clara e organizada. <br> 3. O usuário deve poder acessar a lista a partir da tela de perfil. <br> 4. O usuário pode editar os dados da lista personalizada. |
+
+---
+
+### US30: Adicionar um nome e descrição à lista personalizada {#US30}
+
+| **ID**  |  US30  |
+|---------|--------|
+| **Critérios** | 1. O nome e descrição devem ser exibidos de forma clara e organizada. <br> 2. O usuário deve poder alterar o nome e descrição a qualquer momento. |
+
+---
+
+### US31: Ocultar minhas listas personalizadas {#US31}
+
+| **ID**  |  US31  |
+|---------|--------|
+| **Critérios** | 1. Ser possível ocultar as listas personalizadas do usuário através de um botão. <br> 2. A lista oculta não pode ficar visível para outros usuários além do próprio autor da lista. <br> 3. O usuário deve poder acessar a lista oculta a partir da tela de perfil. |
+
+---
+
+### US32: Adicionar mais conteúdos na minha lista personalizada {#US32}
+
+| **ID**  |  US32  |
+|---------|--------|
+| **Critérios** | 1. Ser possível adicionar ou editar os conteúdos da lista personalizada. <br> 2. O conteúdo adicionado deve ser exibido de forma clara e organizada. <br> 3. O usuário deve poder acessar o conteúdo adicionado a partir da tela de perfil. <br> 4. A lista personalizada pode receber tanto filmes quanto séries adicionadas pelo usuário. |
+
+---
+
+### US33: Acessar minhas listas personalizadas com facilidade {#US33}
+
+| **ID**  |  US33  |
+|---------|--------|
+| **Critérios** | 1. A lista personalizada deve ser facilmente acessada pela tela de perfil. <br> 2. As listas devem ser exibidas de forma clara e organizada. |
+
+---
+
+### US34: Atualizar os dados de uma lista personalizada {#US34}
+
+| **ID**  |  US34  |
+|---------|--------|
+| **Critérios** | 1. Ser possível atualizar os dados de uma lista personalizada. <br> 2. Os dados atualizados devem ser exibidos de forma clara e organizada. |
+
+---
+
+### US35: Excluir uma lista personalizada {#US35}
+
+| **ID**  |  US35  |
+|---------|--------|
+| **Critérios** | 1. Ser possível apagar uma lista personalizada. <br> 2. A lista excluída deve ser removida da tela de perfil. <br> 3. O usuário deve poder excluir a lista a qualquer momento. |
+
+---
+
+### US36: Acessar um filme ou série específico {#US36}
+
+| **ID**  |  US36  |
+|---------|--------|
+| **Critérios** | 1. Ser possível acessar um filme ou série específico. <br> 2. O filme ou série acessado deve ser exibido de forma clara e organizada. |
+
+---
+
+### US37: Separar entre séries/filmes vistas e não vistas {#US37}
+
+| **ID**  |  US37  |
+|---------|--------|
+| **Critérios** | 1. Ser possível separar entre séries/filmes vistas e não vistas. <br> 2. Essa opção deve estar claramente definida nas telas de séries ou filmes. <br> 3. O usuário pode reverter a escolha a qualquer momento. |
+
+---
+
+### US38: Localizar filmes/séries por meio de um filtro {#US38}
+
+| **ID**  |  US38  |
+|---------|--------|
+| **Critérios** | 1. Deve ser possível pesquisar qualquer série ou filme disponível no catálogo do aplicativo. |
+
+---
+
+### US39: Compartilhar minha lista de séries/filmes favoritos para redes sociais vizinhas {#US39}
+
+| **ID**  |  US39  |
+|---------|--------|
+| **Critérios** | 1. Ser possível compartilhar minha lista de séries/filmes favoritos para redes sociais vizinhas. <br> 2. A lista compartilhada pode ser acessada tanto por um link ou diretamente pelo aplicativo. |
+
+---
+
+### US40: Alterar a senha da minha conta {#US40}
+
+| **ID**  |  US40  |
+|---------|--------|
+| **Critérios** | 1. Deve ser possível alterar a senha da minha conta. <br> 2. O processo de troca de senha deve ser rápido e prático. <br> 3. O usuário deve poder alterar a senha a partir da tela de configurações do perfil. <br> 4. O usuário pode alterar sua senha a qualquer momento. |
+
+---
+
+### US41: Vincular/Desvincular as redes sociais da minha conta {#US41}
+
+| **ID**  |  US41  |
+|---------|--------|
+| **Critérios** | 1. Vincular/Desvincular as redes sociais da minha conta. <br> 2. As redes sociais vinculadas/desvinculadas devem ser exibidas de forma clara e organizada. <br> 3. O usuário deve poder vincular/desvincular as redes sociais a partir da tela de configurações presentes no perfil. |
+
+---
+
+### US42: Privar minha conta {#US42}
+
+| **ID**  |  US42  |
+|---------|--------|
+| **Critérios** | 1. Ter um botão que alterna a privação de conta na tela de configurações do perfil. <br> 2. A conta privada só pode ficar visível para quem o usuário segue. <br> 3. O usuário pode mudar o estado a qualquer momento. |
+
+---
+
+### US43: Excluir minha conta permanentemente {#US43}
+
+| **ID**  |  US43  |
+|---------|--------|
+| **Critérios** | 1. Ser possível excluir a conta do usuário permanentemente. <br> 2. O sistema deve avisar o usuário que a escolha não é reversível. <br> 3. O usuário deve poder excluir a conta a qualquer momento. |
+
+---
+
+### US44: Sair da minha conta {#US44}
+
+| **ID**  |  US44  |
+|---------|--------|
+| **Critérios** | 1. O usuário deve conseguir sair da conta a qualquer momento. <br> 2. A conta deve ser deslogada do sistema. |
+
+---
+
+### US45: Visualizar os comentários do idioma de minha preferência {#US45}
+
+| **ID**  |  US45  |
+|---------|--------|
+| **Critérios** | 1. O usuário deve poder escolher o idioma dos comentários a partir da tela de configuração do perfil. |
+
+---
+
+### US46: Escolher o idioma dos comentários que serão exibidos primeiro {#US46}
+
+| **ID**  |  US46  |
+|---------|--------|
+| **Critérios** | 1. Escolher o idioma dos comentários que serão exibidos primeiro. |
+
+---
+
+### US47: Escolher entre tema claro ou escuro {#US47}
+
+| **ID**  |  US47  |
+|---------|--------|
+| **Critérios** | 1. O usuário ter o poder de escolha entre tema claro ou escuro. <br> 2. A opção deve estar disponível na tela de configuração do perfil. <br> 3. O usuário a escolha pode ser revertida a qualquer momento. |
+
+---
+
+### US48: Limpar o cache de memória do sistema {#US48}
+
+| **ID**  |  US48  |
+|---------|--------|
+| **Critérios** | 1. Ser possível limpar o cache de memória do sistema. <br> 2. O usuário deve poder limpar o cache a partir da tela de configuração do perfil. |
+
+---
+
+### US49: Filtrar quais emissoras quero ver {#US49}
+
+| **ID**  |  US49  |
+|---------|--------|
+| **Critérios** | 1. Ser possível filtrar quais emissoras quero ver. <br> 2. O usuário deve poder escolher as emissoras a partir da tela de configuração do perfil. <br> 3. O usuário pode alterar as emissoras a qualquer momento. |
+
+---
+
+### US50: Ocultar episódios já vistos {#US50}
+
+| **ID**  |  US50  |
+|---------|--------|
+| **Critérios** | 1. Ser possível ocultar episódios já vistos. <br> 2. O usuário deve poder ocultar episódios a partir da tela de configuração do perfil. <br> 3. O usuário pode reverter a escolha a qualquer momento. |
+
 </center>
 
-## Sprint Backlog
----
-Com base no Backlog do Produto, foi possível definir um roadmap de desenvolvimento, divididos em sprints, que são ciclos de desenvolvimento de curta duração, com duração média de 2 a 4 semanas. Cada sprint é composta por um conjunto de User Stories que serão implementadas e entregues ao final do ciclo. A organização das sprints pode ser vista a seguir:
-
-### Release 1: MVP
----
-
-#### Sprint 1: Configuração de Conta e Autenticação
-**Foco:** Configurações básicas de autenticação e gestão de contas, permitindo que os usuários criem e acessem suas contas.
-
-**Cadastro e Gestão de Usuários**
-
-- **US11:** Fazer login com redes sociais ou e-mail
-- **US40:** Alterar a senha da minha conta
-- **US43:** Excluir minha conta permanentemente
-- **US44:** Sair da minha conta
-- **US45:** Escolher o idioma dos títulos dos filmes/séries
-- **US42:** Privar minha conta
-- **US41:** Vincular/Desvincular as redes sociais da minha conta
-
-**Resultado:** Os usuários podem se cadastrar, acessar suas contas, gerenciar configurações básicas de perfil e segurança.
-
-#### Sprint 2: Funcionalidades Básicas de Conteúdo
-**Foco:** Implementação das funcionalidades básicas de gestão e interação com o conteúdo de mídia.
-
-**Gestão de Shows e Conteúdo**
-
-- **US01:** Marcar um episódio como assistido
-- **US09:** Registrar a plataforma de streaming que vi um conteúdo
-- **US36:** Acessar um filme ou série específico
-- **US37:** Separar entre séries/filmes vistas e não vistas
-- **US38:** Localizar filmes/séries por meio de um filtro
-- **US50:** Ocultar episódios já vistos
-
-**Resultado:** Os usuários podem marcar episódios como assistidos, registrar plataformas de streaming, acessar e organizar filmes e séries.
-
-#### Sprint 3: Personalização e Listas
-**Foco:** Adição de funcionalidades de personalização e criação de listas de conteúdo.
-
-**Personalização de Listas**
-
-- **US29:** Criar listas específicas de filmes ou séries
-- **US30:** Adicionar um nome e descrição à lista personalizada
-- **US32:** Adicionar mais conteúdos na minha lista personalizada
-- **US33:** Acessar minhas listas personalizadas com facilidade
-- **US34:** Atualizar os dados de uma lista personalizada
-- **US35:** Excluir uma lista personalizada
-
-**Resultado:** Os usuários podem criar, personalizar, atualizar e acessar suas listas de filmes e séries.
-
-#### Sprint 4: Interação Social e Feedback
-**Foco:** Implementação de funcionalidades sociais e de feedback para interação entre usuários.
-
-**Interações Sociais**
-
-- **US12:** Comentar e discutir sobre os episódios
-- **US10:** Compartilhar minhas atividades em redes sociais
-- **US15:** Visualizar quem segue meu perfil
-- **US17:** Seguir outros usuários
-- **US18:** Filtrar comentários
-- **US19:** Apagar meu comentário
-- **US20:** Compartilhar meu comentário em outras redes sociais
-
-**Interação com Conteúdo**
-
-- **US04:** Ver informações detalhadas sobre cada show
-- **US06:** Avaliar um episódio assistido
-- **US07:** Registrar o tipo de dispositivo em que assisti ao conteúdo
-- **US08:** Registrar minha reação sobre um conteúdo
-- **US39:** Compartilhar minha lista de séries/filmes favoritos para redes sociais vizinhas
-
-**Resultado:** Os usuários podem comentar sobre episódios, compartilhar atividades em redes sociais e interagir com outros usuários, além de avaliar e registrar detalhes sobre o conteúdo assistido.
-
-### Release 2
-
-#### Sprint 5: Configurações Avançadas de Conta e Aplicativo
-**Foco:** Adição de configurações avançadas e opções de personalização do aplicativo.
-
-**Configuração de Conta e Aplicativo**
-
-- **US46:** Escolher o idioma dos comentários que serão exibidos primeiro
-- **US47:** Escolher entre tema claro ou escuro
-- **US48:** Limpar o cache de memória do sistema
-- **US49:** Filtrar quais emissoras quero ver
-
-**Resultado:** Os usuários podem personalizar as configurações do aplicativo, escolher como visualizar conteúdo e interações, e gerenciar a privacidade.
-
-#### Sprint 6: Sincronização e Gerenciamento de Perfil
-**Foco:** Sincronização de dados entre dispositivos e gerenciamento de perfil do usuário.
-
-**Gerenciamento de Perfil**
-
-- **US13:** Sincronizar meu progresso em outros dispositivos
-- **US14:** Visualizar meu perfil
-- **US16:** Listar todos os meus comentários
-- **US22:** Adicionar ou editar minha foto de perfil
-- **US23:** Adicionar ou editar minha capa de perfil
-- **US24:** Trocar meu nome de exibição no perfil
-- **US25:** Editar minhas informações pessoais
-- **US26:** Saber quanto tempo gastei assistindo filmes ou séries
-- **US27:** Saber quantos episódios assisti
-- **US28:** Saber quantos filmes eu vi
-
-**Resultado:** Os usuários podem sincronizar dados entre dispositivos, gerenciar e visualizar seu perfil, e personalizar imagens e informações de perfil.
-
-#### Sprint 7: Funcionalidades de Interação Avançada
-**Foco:** Adição de funcionalidades avançadas de interação e feedback sobre conteúdo.
-
-**Interação com Conteúdo**
-
-- **US02:** Receber notificações sobre novos episódios
-- **US03:** Adicionar uma série aos favoritos
-- **US05:** Ver séries recomendadas pelo aplicativo
-- **US07:** Registrar o tipo de dispositivo em que assisti ao conteúdo
-- **US08:** Registrar minha reação sobre um conteúdo
-- **US20:** Compartilhar meu comentário em outras redes sociais
-
-**Resultado:** Os usuários podem receber notificações de novos episódios, adicionar séries aos favoritos, ver recomendações e compartilhar suas reações e comentários em redes sociais.
 
 

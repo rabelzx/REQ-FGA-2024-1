@@ -22,7 +22,8 @@ nav:
     - Diagrama de Casos de Uso: Modelagem/CasosUsos/casosUsos.md
     - Especificação de Casos de Uso: Modelagem/CasosUsos/espCasosUsos.md
     - Especificação Suplementar: Modelagem/EspecificacaoSuplementar/EspecificacaoSuplementar.md
-    - Backlogo do Produto: Modelagem/BacklogdoProduto/Backlog.md
+    - Backlog do Produto: Modelagem/Agil/Backlog.md
+    - Sprint Backlog: Modelagem/Agil/SprintBacklog.md
     - NFR Framework: Modelagem/NFR/nfr.md
   - Atas: 
     - Dia 23/07: Atas/reuniao_23_07.md
