@@ -23,6 +23,7 @@ nav:
     - Especificação de Casos de Uso: Modelagem/CasosUsos/espCasosUsos.md
     - Especificação Suplementar: Modelagem/EspecificacaoSuplementar/EspecificacaoSuplementar.md
     - Backlogo do Produto: Modelagem/BacklogdoProduto/Backlog.md
+    - NFR Framework: Modelagem/NFR/nfr.md
   - Atas: 
     - Dia 23/07: Atas/reuniao_23_07.md
     - Dia 25/07: Atas/reuniao_25_07.md

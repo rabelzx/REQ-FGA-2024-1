@@ -23,6 +23,7 @@ As informações sobre data, horário, duração e local estão detalhadas a seg
 
 - Começo do NFR sobre Usuabilidade e Confiablidade
 - Discursão intensa sobre NFR
+- Divisão de tarefas para a equipe presente para pré-entrega antes da gravação do vídeo do módulo 2
 
 ## 4. Gravação da reunião
 
