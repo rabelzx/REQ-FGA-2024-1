@@ -73,3 +73,64 @@ As contribuições representam as maneiras pelas quais as ações ou caracterís
 
 ![Usuabilidade](../../images/modelagem/NFR/NFRAcessibilidadeSegurança.svg)
 > Autores: Eric, Danilo
+
+---
+
+## Especificação NRF
+
+|  RNF 1 | Privacidade da Conta do Usuário |
+|--------------|--------------|
+| Categoria    |  Privacidade|
+| Descrição    | O sistema deve permitir que os usuários configurem suas contas para que certas informações ou atividades sejam privadas, controlando quem pode visualizar ou interagir com esses dados.    |
+| Justificativa  | Permitir que os usuários configurem suas contas para que certas informações ou atividades sejam privadas é essencial para garantir a segurança e o conforto dos usuários ao utilizarem o sistema.         |
+| Conflito       | Nenhum |
+| Prioridade     | Alta      |
+
+|  RNF 2 | Login Fácil com Acessibilidade  |
+|--------------|--------------|
+| Categoria    | Usuabilidade             |
+| Descrição      | O sistema deve permitir que usuários de diferentes habilidades realizem login de forma fácil e acessível              |
+| Justificativa  | Optar por um login acessível em vez de um login cheio de etapas de verificação é crucial para garantir a inclusão e a usabilidade para todos os usuários, além de manter fluído a experiência do usuário          |
+| Conflito       | Segurança |
+| Prioridade     | Alta      |
+
+
+|  RNF 3 | Disponibilidade 24/07  |
+|--------------|--------------|
+| Categoria    |   Confiabilidade           |
+| Descrição      | O sistema deve estar disponível para acesso e uso 24 horas por dia, 7 dias por semana, garantindo que os usuários possam utilizá-lo sem interrupções a qualquer momento.              |
+| Justificativa  | A disponibilidade 24/7 contribui para uma melhor experiência do cliente, reduzindo a frustração e aumentando a satisfação. Em muitos casos, interrupções no serviço podem levar a perdas significativas, tanto em termos financeiros quanto de reputação        |
+| Conflito       | Nenhum |
+| Prioridade     | Alta      |
+
+
+|  RNF 4 | Atualização constante de informações |
+|--------------|--------------|
+| Categoria    |   Confiabilidade           |
+| Descrição      | O sistema deve garantir que todos os dados exibidos ou processados estejam sempre atualizados, refletindo as informações mais recentes disponíveis em tempo real ou o mais próximo possível disso.              |
+| Justificativa  | Garantir que todos os dados exibidos ou processados pelo sistema estejam sempre atualizados é fundamental para a precisão e confiabilidade das informações oferecidas aos usuários.         |
+| Conflito       | Nenhum |
+| Prioridade     | Alta      |
+
+
+|  RNF 5 | Disponibilidade em Aplicativo e Web |
+|--------------|--------------|
+| Categoria    |  Suportabilidade          |
+| Descrição      | O sistema deve estar disponível e funcional tanto em plataformas de aplicativos móveis (iOS e Android) quanto na web, proporcionando uma experiência consistente e integrada para os usuários em ambas as interfaces.          |
+| Justificativa  | Garantir que o sistema esteja disponível e funcional tanto em plataformas de aplicativos móveis (iOS e Android) quanto na web é crucial para oferecer uma experiência de usuário consistente e integrada.          |
+| Conflito       | Nenhum  |
+| Prioridade     | Alta      |
+
+
+|  RNF 6 | Experiência do Usuário |
+|--------------|--------------|
+| Categoria    |  Usuabilidade         |
+| Descrição      | O sistema deve proporcionar uma experiência de usuário intuitiva e agradável, garantindo que os usuários possam navegar, interagir e completar suas tarefas com facilidade e eficiência.          |
+| Justificativa  | Proporcionar uma experiência de usuário intuitiva e agradável é fundamental para o sucesso e a aceitação do sistema. Isso contribui para a Satisfação do Usuário, diminuição dos erros e frustrações, etc.    |
+| Conflito       |  Nenhum|
+| Prioridade     | Alta      |
+
+
+
+
+
