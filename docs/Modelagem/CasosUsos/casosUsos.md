@@ -3,6 +3,7 @@
 | Data       | Autor         | Descrição                         | Versão  |
 |------------|---------------|-----------------------------------|---------|
 | 15/08      |Danilo Naves   | Criação do documento referente a Casos de Uso| 1.0|
+| 22/08      | Danilo Naves  | Atualização dos casos de uso     | 1.1       |
 
 ## Introdução
 --- 
@@ -20,9 +21,17 @@ Diagramas de casos de uso são uma representação visual das interações entre
 
 ### Adicionar novas listas ao aplicativo
 
-![Primeiro Acesso](../../images/modelagem/addnalista_deixar_comentario.drawio.svg)
+![Adicionando comentários](../../images/modelagem/addnalista_deixar_comentario.drawio.svg)
 
 > Autores: Danilo, Wolfgang. [Referência](../../Atas/reuniao_13_08.md)
+
+### Interação de seguidores
+
+![Interação de seguidores](../../images/modelagem/configuracaoPerfil.drawio.svg)
+
+> Autores: Danilo, Erick, Paulo [Referência](../../Atas/reuniao_13_08.md)
+
+
 
 
 
