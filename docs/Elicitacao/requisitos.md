@@ -4,6 +4,7 @@
 |------------|---------------|-----------------------------------|---------|
 | 21/08/2024 | Eric Rabelo Borges   | Criando seção: Requisitos Elicitados | 1.0 |
 | 21/08/2024 | Eric Rabelo Borges   | Formatando links das técnicas de elicitação | 1.1 |
+| 01/09/2024 | Paulo Henrique Melo de Souza  | Adicionando RF51 ao RF60 | 1.3 |
 
 ## 1 - Requisitos Funcionais
 --- 
@@ -59,3 +60,12 @@
 | RF48 | O usuário deve ser capaz de limpar o cache de uso de memória do sistema.                           | [Análise de Protocolo](analise.md)    |
 | RF49 | O sistema deve permitir a filtragem de emissoras.                                                  | [Análise de Protocolo](analise.md)    |
 | RF50 | O usuário deve ser capaz de ocultar episódios já assistidos.                                       | [Análise de Protocolo](analise.md)    |
+| RF51 | O usuário deve ser capaz de comparar o tempo gasto vendo shows com outros usuários                 | [Análise de Protocolo](analise.md)    |
+| RF52 | O sistema deve mostrar um gráfico contendo o tempo gasto assistindo shows.                         | [Análise de Protocolo](analise.md)    |
+| RF53 | O sistema deve computar as principais emissoras vistas pelo usuário.                               | [Análise de Protocolo](analise.md)    |
+| RF54 | O sistema deve computar os gêneros de shows consumidos pelo usuário.                               | [Análise de Protocolo](analise.md)    |
+| RF55 | O sistema deve listas as conquistas do usuário.                                                    | [Análise de Protocolo](analise.md)    |
+| RF56 | O usuário deve ser capaz de compartilhar suas conquistas para fora do sistema.                     | [Análise de Protocolo](analise.md)    |
+| RF57 | O sistema deve filtrar as conquistas relacionadas à conteúdo visto, avaliações, comentários e seguidores. | [Análise de Protocolo](analise.md)  |
+| RF59 | O sistema deve computar a quantidade de shows adicionados pelo usuário.                            |  [Análise de Protocolo](analise.md)   |
+| RF60 | O sistema deve computar as avaliações do usuário.                                                  | [Análise de Protocolo](analise.md)    |
