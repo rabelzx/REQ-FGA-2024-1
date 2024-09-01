@@ -3,9 +3,10 @@
 | Data       | Autor         | Descrição                         | Versão  |
 |------------|---------------|-----------------------------------|---------|
 | 30-07-2024 |  Eric Rabelo, Wolfgang Friedrich  | Criação do documento e adição dos RichPictures Geral - Versão 1.0 e Geral - Versão 2.0 | 1.0     |
-| 30-07-2024 |  Danilo Naves, Paulo Henrique Melo | Adicionando RichPicture - versão 1.0 de Usuários - | 1.1     |
-| 31-07-2024 |  Paulo Henrique Melo | Adicionando RichPictures Shows - versão 1.0 e versão 2.0 | 1.2     |
+| 30-07-2024 |  Danilo Naves, Paulo Henrique Melo de Souza | Adicionando RichPicture - versão 1.0 de Usuários - | 1.1     |
+| 31-07-2024 |  Paulo Henrique Melo de Souza | Adicionando RichPictures Shows - versão 1.0 e versão 2.0 | 1.2     |
 | 21/08/2024 | Eric Rabelo Borges | Renomeando RichPictures: 'Geral' para 'Interessados no Sistema' e 'Usuário' para 'Perfil do Usuário'  | 1.2 |
+| 01/09/2024 | Paulo Henrique Melo de Souza | Adicionando RichPicture - versão 1.0 das estatísticas do perfil de usuário  | 1.3 |
 
 ## 1 - Introdução
 ---
@@ -42,9 +43,9 @@ A finalidade para o uso do RicPicture é fornecer um modelo que auxilia o entend
 
 > Autores: Sunamita, Paulo. [Referência](../Atas/reuniao_29_07.md)
 
-### 3.3 - Perfil do Usuário
+### 3.3.1 - Perfil do Usuário
 
-#### Versão 1.0 {#v1usuario}
+#### Versão 1.0 - Perfil {#v1usuario}
 
 <center>
 
@@ -55,7 +56,7 @@ A finalidade para o uso do RicPicture é fornecer um modelo que auxilia o entend
 > Autores: Danilo, Paulo. [Referência](../Atas/reuniao_30_07.md)
 
 
-#### Versão 2.0  {#v2usuario}
+#### Versão 2.0 - Perfil  {#v2usuario}
 
 Gerado Rich Picture: Configurações de perfil de usuário
 
@@ -67,4 +68,14 @@ Gerado Rich Picture: Configurações de perfil de usuário
 </center>
 
 > Autores: Danilo, Wolfgang. [Referência](../Atas/reuniao_06_08.md)
+
+#### Versão 1.0 - Estatísticas {#v1estatisticas}
+
+<center>
+
+![RichPicture Estatísticas do Perfil - v1](../images/richpic_estatisticas_v1.svg)
+
+</center>
+
+> Autores: Paulo. [Referência](../Atas/reuniao_29_08.md)
 

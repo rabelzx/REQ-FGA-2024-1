@@ -25,7 +25,7 @@ As informações sobre data, horário, duração e local estão detalhadas a seg
 - Rascunho de NFR framework - Usabilidade e Confiabilidade
 - Separação de atividades: Reunião dia 16/08 para desenvolvimento do framework NFR
 
-## 4. Graveção da reunião
+## 4. Gravação da reunião
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tzd5Sh7p2Cw?si=M-AYWrifIVbtNY4C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
