@@ -5,6 +5,7 @@
 | 21/08/2024 | Eric Rabelo Borges   | Criando seção: Requisitos Elicitados | 1.0 |
 | 21/08/2024 | Eric Rabelo Borges   | Formatando links das técnicas de elicitação | 1.1 |
 | 01/09/2024 | Paulo Henrique Melo de Souza  | Adicionando RF51 ao RF60 | 1.3 |
+| 02/09/2024 | Eric Rabelo Borges  | Adicionando RF61 ao RF63 | 1.4 |
 
 ## 1 - Requisitos Funcionais
 --- 
@@ -69,3 +70,6 @@
 | RF57 | O sistema deve filtrar as conquistas relacionadas à conteúdo visto, avaliações, comentários e seguidores. | [Análise de Protocolo](analise.md)  |
 | RF59 | O sistema deve computar a quantidade de shows adicionados pelo usuário.                            |  [Análise de Protocolo](analise.md)   |
 | RF60 | O sistema deve computar as avaliações do usuário.                                                  | [Análise de Protocolo](analise.md)    |
+| RF61 | O sistema deve permitir que o usuário visualize informações detalhadas sobre um ator ao clicar em seu nome na seção de elenco. |  |
+| RF62 | O sistema deve exibir todos os filmes e séries em que o ator trabalhou na página do ator. | |
+| RF63 | O sistema deve permitir que o usuário filtre a filmografia do ator em "Séries", "Filmes" ou "Séries e Filmes". | |

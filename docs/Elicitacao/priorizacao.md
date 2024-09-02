@@ -4,6 +4,7 @@
 |------------|---------------|-----------------------------------|---------|
 | 14/08/2024 | Paulo Henrique  | Criação do documento e inserção dos tópicos 1 ao 4.4 | 1.0 |
 | 20/08/2024 | Paulo Henrique  | Revisão do documento e correção de erros | 1.1 |
+| 02/09/2024 | Eric Rabelo Borges  | Adição dos requisitor RF61 ao RF63 na priorização | 1.2 |
 
 ## 1 - Introdução
 ---
@@ -27,7 +28,6 @@ A técnica MoSCoW é uma abordagem de priorização de requisitos que classifica
 - **Won't/Would have (Não terá):** Requisitos que não serão implementados na versão atual do projeto, mas podem ser considerados em futuras iterações.
 
 Por meio desta técnica e respeitando a ordem de prioridade do MoSCoW, os [requisitos elicitados](../Elicitacao/elicitacao.md#reqElicitados) receberam a seguinte classificação de priorização:
-
 
 ### **4.1 - Must Have (Deve ter)**
 | ID   | Descrição                                                                                                      | 
@@ -88,6 +88,9 @@ Por meio desta técnica e respeitando a ordem de prioridade do MoSCoW, os [requi
 | RF39 | O sistema deve permitir o compartilhamento da lista de séries/filmes favoritos para redes sociais vizinhas.           |
 | RF47 | O usuário deve ser capaz de escolher entre tema claro ou escuro, com a possibilidade de alternar a qualquer momento. |
 | RF48 | O usuário deve ser capaz de limpar o cache de uso de memória do sistema.                                             |
+| RF61 | O sistema deve permitir que o usuário visualize informações detalhadas sobre um ator ao clicar em seu nome na seção de elenco. |
+| RF62 | O sistema deve exibir todos os filmes e séries em que o ator trabalhou na página do ator. |
+| RF63 | O sistema deve permitir que o usuário filtre a filmografia do ator em "Séries", "Filmes" ou "Séries e Filmes". |
 
 ### **4.4 - Would Have (Teria)**
 | ID   | Descrição                                                                                          |
