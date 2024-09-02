@@ -4,7 +4,7 @@
 |------------|---------------|-----------------------------------|---------|
 | 14/08/2024 | Paulo Henrique  | Criação do documento e inserção dos tópicos 1 ao 4.4 | 1.0 |
 | 20/08/2024 | Paulo Henrique  | Revisão do documento e correção de erros | 1.1 |
-| 02/09/2024 | Eric Rabelo Borges  | Adição dos requisitor RF61 ao RF63 na priorização | 1.2 |
+| 02/09/2024 | Eric Rabelo Borges  | Adição dos requisitor RF61 ao RF64 na priorização | 1.2 |
 
 ## 1 - Introdução
 ---
@@ -91,6 +91,7 @@ Por meio desta técnica e respeitando a ordem de prioridade do MoSCoW, os [requi
 | RF61 | O sistema deve permitir que o usuário visualize informações detalhadas sobre um ator ao clicar em seu nome na seção de elenco. |
 | RF62 | O sistema deve exibir todos os filmes e séries em que o ator trabalhou na página do ator. |
 | RF63 | O sistema deve permitir que o usuário filtre a filmografia do ator em "Séries", "Filmes" ou "Séries e Filmes". |
+| RF64 | O sistema deve permitir que o usuário acesse as redes sociais do ator, assim como o link para sua wikipédia. |
 
 ### **4.4 - Would Have (Teria)**
 | ID   | Descrição                                                                                          |
