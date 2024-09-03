@@ -41,19 +41,19 @@ Note que ambas as duplas se responsabilizaram pela montagem do SR da aplicação
 
 ![SD do TVtime](../../images/modelagem/iStar/SDStreamigsv1.png)
 
-> Autores: Danilo e Erick. [Referência](../../Atas/reuniao_29_08.md)
+> Autores: Danilo e Erick e Sunamita. [Referência](../../Atas/reuniao_29_08.md)
 
 # SR TV Time
 
 ![SR do TVtime](../../images/modelagem/iStar/SRTvtimev1_s.png)
 
-> Autores: Danilo e Erick. [Referência](../../Atas/reuniao_29_08.md)
+> Autores: Danilo e Erick e Sunamita. [Referência](../../Atas/reuniao_29_08.md)
 
 # SD Streamings
 
 ![SD do TVtime](../../images/modelagem/iStar/SRstreamingv1.png)
 
-> Autores: Danilo e Erick. [Referência](../../Atas/reuniao_29_08.md)
+> Autores: Danilo e Erick e Sunamita. [Referência](../../Atas/reuniao_29_08.md)
 
 
 
