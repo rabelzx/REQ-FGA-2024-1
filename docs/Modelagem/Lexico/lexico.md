@@ -90,30 +90,28 @@ A elaboração deste documento foi fundamentada na coleta e análise de requisit
 | **Sinônimo** | Lista de preferidos, favoritos |
 | **Noção** | Seção dentro do perfil do [usuário](#usuario) que exibe conteúdos ([série](#serie) ou [filme](#filme)) que foram marcados como [favoritos](#favorito). Existem duas listas separadas: uma para [séries](#serie) e outra para [filmes](#filme). A lista é indicada por um ícone de coração. |
 | **Impacto** | - A Lista de Favoritos permite ao [usuário](#usuario) visualizar e acessar rapidamente suas séries e filmes preferidos.<br>- Os conteúdos marcados como [favoritos](#favorito) são destacados no perfil do [usuário](#usuario) e podem ser facilmente gerenciados e acessados.<br>- As listas de favoritos são separadas em duas categorias: uma para séries e outra para filmes, proporcionando uma organização clara e específica das preferências do [usuário](#usuario). |
-| **Noção** | Lista criada pelo [usuário](#usuario) para organizar [filmes](#filme) e [séries](#serie) de acordo com suas preferências pessoais, como gêneros ou temas específicos. |
-| **Impacto** | - O [usuário](#usuario) pode criar, editar e deletar listas personalizadas para organizar seus conteúdos de forma específica.<br>- As listas personalizadas permitem que o [usuário](#usuario) categorize seus conteúdos além da [lista geral](#lista-geral), proporcionando uma experiência de organização mais flexível.<br>- As listas personalizadas podem ser visualizadas no [perfil](#perfil) do [usuário](#usuario). |
 
 ---
 
 ### Favorito
 
-| Nome     | [favorito](#favorito) |
+| Nome     | Favorito |
 |----------|----------|
 | **Classificação** | Substantivo  |
 | **Sinônimo** | Favorito, preferido |
-| **Noção** | Conteúdo ([série](#serie) ou [filme](#filme)) marcado como [favorito](#favorito)pelo [usuário](#usuario) no TV Time, armazenado na aba de [favoritos](#favorito) em seu [perfil](#perfil). |
-| **Impacto** | - Um conteúdo marcado como [favorito](#favorito)é destacado na aba de [favoritos](#favorito) no [perfil](#perfil) do [usuário](#usuario).<br>- Os [favoritos](#favorito) permitem que o [usuário](#usuario) organize e acesse rapidamente seus programas e [filmes](#filme) preferidos. |
+| **Noção** | Conteúdo ([série](#serie) ou [filme](#filme)) marcado como favorito pelo [usuário](#usuario) no TV Time, armazenado na aba de [favoritos](#lista-de-favoritos) em seu [perfil](#perfil). |
+| **Impacto** | - Um conteúdo marcado como favorito é destacado na aba de [favoritos](#lista-de-favoritos) no [perfil](#perfil) do [usuário](#usuario).<br>- Os [favoritos](#favorito) permitem que o [usuário](#usuario) organize e acesse rapidamente seus [filmes](#filme) e [séries](#serie) preferidos.<br>- A inclusão de um conteúdo na lista de favoritos pode influenciar as [recomendações](#recomendacao) personalizadas para o [usuário](#usuario), com base nas suas preferências. |
 
 ---
 
 ### Filme
 
-| Nome     | Filme  |
+| Nome     | Filme |
 |----------|----------|
 | **Classificação** | Objeto  |
 | **Sinônimo** | Longa-metragem |
 | **Noção** | Produção audiovisual de longa-metragem que o [usuário](#usuario) pode adicionar, assistir e avaliar no TV Time. |
-| **Impacto** | - O [usuário](#usuario) pode adicionar o [filme](#filme) à sua [lista geral](#lista-geral) ou [listas personalizadas](#lista-personalizada).<br>- O [filme](#filme) adicionado à [lista geral](#lista-geral) pode ter os status: não assistido e assistido.<br>- O [filme](#filme) pode ser marcado como favorito, adicionando-o à aba de [favoritos](#favorito) no [perfil](#perfil) do [usuário](#usuario).<br>- O tempo dedicado a assistir [filme](#filme) é exibido no [perfil](#perfil) do [usuário](#usuario), junto com o número de [filme](#filme) assistidos. |
+| **Impacto** | - O [usuário](#usuario) pode adicionar o [filme](#filme) à sua [lista geral](#lista-geral) ou [listas personalizadas](#lista-personalizada).<br>- O [filme](#filme) adicionado à [lista geral](#lista-geral) pode ter os status: não assistido e assistido.<br>- O [filme](#filme) pode ser marcado como favorito, adicionando-o à aba de [favoritos](#lista-de-favoritos) no [perfil](#perfil) do [usuário](#usuario).<br>- O tempo dedicado a assistir [filmes](#filme) é exibido no [perfil](#perfil) do [usuário](#usuario), junto com o número de [filmes](#filme) assistidos.<br>- O [filme](#filme) influencia as [recomendações](#recomendacao) personalizadas baseadas nas preferências de visualização do [usuário](#usuario). |
 
 ---
 
@@ -124,7 +122,7 @@ A elaboração deste documento foi fundamentada na coleta e análise de requisit
 | **Classificação** | Objeto  |
 | **Sinônimo** | [Programa de TV](#serie), show |
 | **Noção** | Produção audiovisual em formato de [episódios](#episodio) que o [usuário](#usuario) pode adicionar, assistir e avaliar no TV Time. |
-| **Impacto** | - O [usuário](#usuario) pode adicionar a [série](#serie) à sua [lista geral](#lista-geral) ou [listas personalizadas](#lista-personalizada).<br>- A [série](#serie) adicionada à [lista geral](#lista-geral) pode ter status como assistindo, não iniciada, assistir depois, assistida, ou interrompida.<br>- A [série](#serie) pode ser marcada como favorita, adicionando-a à aba de [favoritos](#favorito) no [perfil](#perfil) do [usuário](#usuario).<br>- O tempo dedicado a assistir [séries](#serie), assim como o número de [episódios](#episodio) assistidos, é exibido no [perfil](#perfil) do [usuário](#usuario). |
+| **Impacto** | - O [usuário](#usuario) pode adicionar a [série](#serie) à sua [lista geral](#lista-geral) ou [listas personalizadas](#lista-personalizada).<br>- A [série](#serie) adicionada à [lista geral](#lista-geral) pode ter status como assistindo, não iniciada, assistir depois, assistida, ou interrompida.<br>- A [série](#serie) pode ser marcada como favorita, adicionando-a à aba de [favoritos](#lista-de-favoritos) no [perfil](#perfil) do [usuário](#usuario).<br>- O tempo dedicado a assistir [séries](#serie), assim como o número de [episódios](#episodio) assistidos, é exibido no [perfil](#perfil) do [usuário](#usuario).<br>- A [série](#serie) influencia as [recomendações](#recomendacao) personalizadas baseadas nas preferências de visualização do [usuário](#usuario). |
 
 ---
 
@@ -135,19 +133,16 @@ A elaboração deste documento foi fundamentada na coleta e análise de requisit
 | **Classificação** | Substantivo  |
 | **Sinônimo** | Conta do [usuário](#usuario), página do [usuário](#usuario) |
 | **Noção** | Página pessoal do [usuário](#usuario) no TV Time, exibindo sua foto, capa, número de seguidores e seguidos, comentários feitos, tempo assistindo [séries](#serie) e [filmes](#filme), número de [episódios](#episodio) e [filmes](#filme) assistidos, [listas personalizadas](#lista-personalizada), [lista geral](#lista-geral), e [favoritos](#favorito). |
-| **Impacto** | - O [usuário](#usuario) pode visualizar e gerenciar suas atividades e preferências no [perfil](#perfil).<br>- O [perfil](#perfil) apresenta um resumo das interações do [usuário](#usuario) com o conteúdo, incluindo o tempo dedicado e os [favoritos](#favorito).<br>- Permite que outros [usuários](#usuario) vejam as preferências e atividades do [usuário](#usuario). |
+| **Impacto** | - O [usuário](#usuario) pode visualizar e gerenciar suas atividades e preferências no [perfil](#perfil).<br>- O [perfil](#perfil) apresenta um resumo das interações do [usuário](#usuario) com o conteúdo, incluindo o tempo dedicado e os [favoritos](#favorito).<br>- Permite que outros [usuários](#usuario) vejam as preferências e atividades do [usuário](#usuario).<br>- O [perfil](#perfil) é o local onde os [comentários](#comentario) do [usuário](#usuario) são exibidos, possibilitando a interação com outros [usuários](#usuario).<br>- As estatísticas de visualização, como o tempo total assistido e o número de [episódios](#episodio) e [filmes](#filme) assistidos, são mostradas, fornecendo uma visão geral da atividade do [usuário](#usuario). |
 
 
 ---
-
-### Avaliação
-
 | Nome     | Avaliação  |
 |----------|----------|
 | **Classificação** | Substantivo  |
 | **Sinônimo** | Rating, Classificação |
-| **Noção** | A pontuação atribuída pelo [usuário](#usuario) a um [filme](#filme) ou episódio de [série](#serie) que assistiu, utilizando uma escala de 1 a 5 estrelas. |
-| **Impacto** | - A nota do conteúdo reflete a opinião do [usuário](#usuario) sobre o episódio ou [filme](#filme) assistido.<br>- A nota é usada para calcular uma média geral, que pode ser exibida no [perfil](#perfil) do conteúdo no TV Time.<br>- A avaliação influencia as recomendações e o algoritmo de popularidade do TV Time, ajudando outros [usuários](#usuario) a descobrirem novos conteúdos. |
+| **Noção** | A pontuação atribuída pelo [usuário](#usuario) a um [filme](#filme) ou [episódio](#episodio) de [série](#serie) que assistiu, utilizando uma escala de 1 a 5 estrelas. |
+| **Impacto** | - A nota do conteúdo reflete a opinião do [usuário](#usuario) sobre o [episódio](#episodio) ou [filme](#filme) assistido.<br>- A nota é usada para calcular uma média geral, que pode ser exibida no [perfil](#perfil) do conteúdo no TV Time.<br>- A avaliação influencia as recomendações e o algoritmo de popularidade do TV Time, ajudando outros [usuários](#usuario) a descobrirem novos conteúdos.<br>- As avaliações contribuem para o cálculo do [TV Time Score](#tv-time-score) e podem impactar a visibilidade do conteúdo nas listas de [recomendações](#recomendacao). |
 
 ---
 
@@ -158,7 +153,7 @@ A elaboração deste documento foi fundamentada na coleta e análise de requisit
 | **Classificação** | Substantivo  |
 | **Sinônimo** | Capítulo, parte |
 | **Noção** | Unidade de conteúdo pertencente exclusivamente a [séries](#serie). Cada episódio contém uma sinopse, nota, resumo e comentários. |
-| **Impacto** | - O [usuário](#usuario) pode avaliar e classificar cada episódio individualmente, contribuindo para a nota geral da [série](#serie).<br>- [episódios](#episodio) assistidos podem ser marcados como tal, com a opção de marcar automaticamente todos os anteriores ao último episódio assistido.<br>- Os [episódios](#episodio) assistidos são contabilizados nas [estatísticas](#estatisticas) de tempo assistido e número de [episódios](#episodio) visualizados no [perfil](#perfil) do [usuário](#usuario). |
+| **Impacto** | - O [usuário](#usuario) pode avaliar e classificar cada episódio individualmente, contribuindo para a nota geral da [série](#serie).<br>- [Episódios](#episodio) assistidos podem ser marcados como tal, com a opção de marcar automaticamente todos os anteriores ao último episódio assistido.<br>- Os [episódios](#episodio) assistidos são contabilizados nas [estatísticas](#estatisticas) de tempo assistido e número de [episódios](#episodio) visualizados no [perfil](#perfil) do [usuário](#usuario).<br>- A nota sobre o [episódio](#episodio) influencia a avaliação da [série](#serie) e pode impactar recomendações e visibilidade dentro da plataforma.<br>- A visualização e interações com [episódios](#episodio) também afetam a representação das preferências e engajamento do [usuário](#usuario) no [perfil](#perfil). |
 
 ---
 
@@ -191,7 +186,7 @@ A elaboração deste documento foi fundamentada na coleta e análise de requisit
 | **Classificação** | Substantivo  |
 | **Sinônimo** | Sugestão, indicação |
 | **Noção** | Sugestões de [séries](#serie) e [filmes](#filme) oferecidas ao [usuário](#usuario) com base em seu histórico de visualizações e preferências, exibidas na aba "Descobrir". As recomendações incluem as categorias: "Principais [séries](#serie) para você", "[filmes](#filme) em alta", e "Séries em alta". |
-| **Impacto** | - As recomendações ajudam o [usuário](#usuario) a descobrir novos conteúdos que se alinham com seus gostos e preferências.<br>- O [TV Time Score](#tv-time-score), um indicador que vai de 0 a 100%, é exibido quando o [usuário](#usuario) acessa uma [série](#serie) ou [filme](#filme) não visto anteriormente, indicando a probabilidade de o [usuário](#usuario) gostar daquele conteúdo.<br>- A aba "Descobrir" oferece uma variedade de recomendações para facilitar a exploração de novos conteúdos. |
+| **Impacto** | - As recomendações ajudam o [usuário](#usuario) a descobrir novos conteúdos que se alinham com seus gostos e preferências.<br>- O [TV Time Score](#tv-time-score), um indicador que vai de 0 a 100%, é exibido quando o [usuário](#usuario) acessa uma [série](#serie) ou [filme](#filme) não visto anteriormente, indicando a probabilidade de o [usuário](#usuario) gostar daquele conteúdo.<br>- A aba "Descobrir" oferece uma variedade de recomendações para facilitar a exploração de novos conteúdos.<br>- As recomendações também podem influenciar a popularidade de séries e filmes, promovendo maior engajamento e interação na plataforma.|
 
 ---
 
@@ -202,7 +197,7 @@ A elaboração deste documento foi fundamentada na coleta e análise de requisit
 | **Classificação** | Substantivo  |
 | **Sinônimo** | Score de recomendação |
 | **Noção** | Um indicador que varia de 0 a 100%, exibido quando o [usuário](#usuario) acessa uma [série](#serie) ou [filme](#filme) ainda não visto. Esse indicador estima a probabilidade de o [usuário](#usuario) gostar daquele conteúdo, com base em seu histórico de visualizações e preferências. |
-| **Impacto** | - O TV Time Score oferece ao [usuário](#usuario) uma indicação rápida sobre o quão compatível aquele conteúdo é com seus gostos pessoais.<br>- Quanto maior a pontuação, maior a chance de o [usuário](#usuario) gostar do conteúdo, auxiliando na decisão de assistir ou não à [série](#serie) ou ao [filme](#filme).<br>- O TV Time Score é uma ferramenta importante para personalizar a experiência do [usuário](#usuario) na plataforma, fornecendo recomendações mais precisas. |
+| **Impacto** | - O TV Time Score oferece ao [usuário](#usuario) uma indicação rápida sobre o quão compatível aquele conteúdo é com seus gostos pessoais.<br>- Quanto maior a pontuação, maior a chance de o [usuário](#usuario) gostar do conteúdo, auxiliando na decisão de assistir ou não à [série](#serie) ou ao [filme](#filme).<br>- O TV Time Score é uma ferramenta importante para personalizar a experiência do [usuário](#usuario) na plataforma, fornecendo recomendações mais precisas.<br>- A exibição do TV Time Score pode influenciar as escolhas de conteúdo do usuário, aumentando o engajamento e a satisfação com as recomendações oferecidas. |
 
 ---
 
@@ -213,7 +208,7 @@ A elaboração deste documento foi fundamentada na coleta e análise de requisit
 | **Classificação** | Verbo  |
 | **Sinônimo** | Curtir |
 | **Noção** | Ação de marcar uma [série](#serie) ou [filme](#filme) como [favorito](#favorito) no TV Time, adicionando-o na aba respectiva de [favoritos](#favorito) em seu [perfil](#perfil).  |
-| **Impacto** | - Ao favoritar um conteúdo, ele é adicionado à aba de [favoritos](#favorito) no [perfil](#perfil) do [usuário](#usuario).<br>- O [usuário](#usuario) pode acessar facilmente seus [favoritos](#favorito) através da aba específica em seu [perfil](#perfil). |
+| **Impacto** | - Ao favoritar um conteúdo, ele é adicionado à aba de [favoritos](#favorito) no [perfil](#perfil) do [usuário](#usuario).<br>- O [usuário](#usuario) pode acessar facilmente seus [favoritos](#favorito) através da aba específica em seu [perfil](#perfil).<br>- O processo de favoritar permite que o usuário organize e destaque seus conteúdos preferidos, tornando mais fácil a localização e o acesso a eles posteriormente. |
 
 --- 
 
