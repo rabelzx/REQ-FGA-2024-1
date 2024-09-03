@@ -51,7 +51,7 @@ Note que ambas as duplas se responsabilizaram pela montagem do SR da aplicação
 
 # SD Streamings
 
-![SD do TVtime](../../images/modelagem/iStar/SRstreamingv1.png)
+![SR do TVtime](../../images/modelagem/iStar/SRstreamingv1.png)
 
 > Autores: Danilo e Erick e Sunamita. [Referência](../../Atas/reuniao_29_08.md)
 

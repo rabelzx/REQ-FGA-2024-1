@@ -26,6 +26,8 @@ nav:
     - Sprint Backlog: Modelagem/Agil/SprintBacklog.md
     - NFR Framework: Modelagem/NFR/nfr.md
     - iStar: Modelagem/iStar/star.md
+  - Análise: Analise/analise.md
+  - Pós-Rastreabilidade: Pos-Rastreabilidade/posRastreabilidade.md
   - Atas: 
     - Dia 23/07: Atas/reuniao_23_07.md
     - Dia 25/07: Atas/reuniao_25_07.md
