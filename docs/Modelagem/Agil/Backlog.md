@@ -2,11 +2,12 @@
 --- 
 | Data       | Autor         | Descrição                         | Versão  |
 |------------|---------------|-----------------------------------|---------|
-| 21/08      | Paulo Henrique   | Criação do documento referente ao Backlog do Produto| 1.0|
-| 21/08      | Sunamita Rodrigues  | Adição da primeira versão da Sprint Backlog| 1.1|
-| 21/08      | Sunamita Rodrigues  | Adição do Backlog do Produto | 1.2|
-| 21/08      | Paulo Henrique  | Inserção dos critérios de aceitação US01 ao US25 e correção no documento | 1.3|
-| 22/08      | Paulo Henrique  | Inserção dos critérios de aceitação US26 ao US50 e separação do sprint backlog em um novo arquivo separado: [Sprint Backlog](../Agil/SprintBacklog.md) | 1.4|
+| 21/08/2024      | Paulo Henrique   | Criação do documento referente ao Backlog do Produto| 1.0|
+| 21/08/2024      | Sunamita Rodrigues  | Adição da primeira versão da Sprint Backlog| 1.1|
+| 21/08/2024      | Sunamita Rodrigues  | Adição do Backlog do Produto | 1.2|
+| 21/08/2024      | Paulo Henrique  | Inserção dos critérios de aceitação US01 ao US25 e correção no documento | 1.3|
+| 22/08/2024      | Paulo Henrique  | Inserção dos critérios de aceitação US26 ao US50 e separação do sprint backlog em um novo arquivo separado: [Sprint Backlog](../Agil/SprintBacklog.md) | 1.4|
+| 22/08/2024      | Eric Rabelo Borges  | Inserção dos critérios de aceitação US61 ao US64 | 1.5|
 
 ## Introdução
 ---
@@ -73,6 +74,10 @@ Com base nos requisitos elicitados e priorizados, foi elaborado o Backlog do Pro
 | Configuração de conta    | [US48](#US48)  | Usuário    | Limpar o cache de memória do sistema                                            | Evitar que meu dispositivo fique travando ao utilizar o aplicativo         | RF48      | Could      |
 | Configuração de conta    | [US49](#US49)  | Usuário    | Filtrar quais emissoras quero ver                                               | Selecionar a dedo quais emissoras quero que mostrem seus shows             | RF49      | Would      |
 | Configuração de conta    | [US50](#US40)  | Usuário    | Ocultar episódios já vistos                                                     | Ver apenas aqueles episódios que não assisti                               | RF50      | Should     |
+| Interação com shows | [US61](#US61)  | Usuário    | Visualizar informações detalhadas sobre um ator            | Obter mais detalhes sobre os atores e suas carreiras                            | RF61      | Could      |
+| Interação com shows | [US62](#US62)  | Usuário    | Ver todos os filmes e séries em que o ator trabalhou na página do ator                  | Conhecer melhor a filmografia completa do ator                                  | RF62      | Could      |
+| Interação com shows | [US63](#US63)  | Usuário    | Filtrar a filmografia do ator em "Séries", "Filmes" ou "Séries e Filmes"                | Encontrar rapidamente o tipo de produção que me interessa no trabalho do ator   | RF63      | Could      |
+| Interação com shows | [US64](#US64)  | Usuário    | Acessar as redes sociais do ator, assim como o link para sua Wikipédia                  | Explorar mais sobre a vida e carreira do ator fora do ambiente da plataforma    | RF64      | Could      |
 
 ## Critérios de Aceitação
 ---
@@ -479,7 +484,41 @@ Os critérios de aceitação são condições que devem ser atendidas para que u
 |---------|--------|
 | **Critérios** | 1. Ser possível ocultar episódios já vistos. <br> 2. O usuário deve poder ocultar episódios a partir da tela de configuração do perfil. <br> 3. O usuário pode reverter a escolha a qualquer momento. |
 
+---
+
+### US61: Visualizar informações detalhadas sobre um ator {#US61}
+
+| **ID**  |  US61  |
+|---------|--------|
+| **Critérios de Aceitação** | 1. O sistema deve exibir uma página detalhada do ator ao clicar em sua foto na seção de elenco. <br> 2. A página deve conter foto, nome, data e local de nascimento. <br> 3. As informações exibidas devem ser atualizadas e precisas. <br> 4. O usuário deve conseguir retornar à página de elenco facilmente. |
+
+---
+
+### US62: Ver todos os filmes e séries em que o ator trabalhou na página do ator {#US62}
+
+| **ID**  |  US62  |
+|---------|--------|
+| **Critérios de Aceitação** | 1. A página do ator deve listar todos os filmes e séries em que o ator participou. <br> 2. Cada título listado deve conter um link para sua respectiva página dentro do sistema. <br> 3. A lista deve ser completa e incluir todas as produções relevantes do ator. |
+
+---
+
+### US63: Filtrar a filmografia do ator em "Séries", "Filmes" ou "Séries e Filmes" {#US63}
+
+| **ID**  |  US63  |
+|---------|--------|
+| **Critérios de Aceitação** | 1. O sistema deve permitir que o usuário selecione filtros "Séries", "Filmes" ou "Séries e Filmes" na página do ator. <br> 2. A aplicação do filtro deve atualizar a lista de títulos de forma imediata. <br> 3. O filtro selecionado deve ser visualmente destacado. |
+
+---
+
+### US64: Acessar as redes sociais do ator, assim como o link para sua Wikipédia {#US64}
+
+| **ID**  |  US64  |
+|---------|--------|
+| **Critérios de Aceitação** | 1. A página do ator deve exibir ícones linkados para suas redes sociais e para a Wikipédia. <br> 2. Os links devem redirecionar corretamente para as páginas externas correspondentes.  |
+
 </center>
+
+
 
 
 

@@ -2,7 +2,9 @@
 
 | Data       | Autor         | Descrição                         | Versão  |
 |------------|---------------|-----------------------------------|---------|
-| 22/08      | Paulo Henrique e Sunamita Rodrigues   | Criação do documento referente ao planejamento das sprints| 1.0|
+| 22/08/2024 | Paulo Henrique e Sunamita Rodrigues   | Criação do documento referente ao planejamento das sprints| 1.0|
+| 03/09/2024 | Eric Rabelo Borges | Inseção da US61 à US64 na "Sprint 4: Interação Social e Feedback" na seção "Interações com Conteúdo" | 1.1|
+
 
 ## Sprint Backlog
 ---
@@ -74,8 +76,12 @@ Com base no Backlog do Produto, foi possível definir um roadmap de desenvolvime
 - **US07:** Registrar o tipo de dispositivo em que assisti ao conteúdo
 - **US08:** Registrar minha reação sobre um conteúdo
 - **US39:** Compartilhar minha lista de séries/filmes favoritos para redes sociais vizinhas
+- **US61:** Visualizar informações detalhadas sobre um ator
+- **US62:** Ver todos os filmes e séries em que o ator trabalhou na página do ator 
+- **US63:** Filtrar a filmografia do ator em "Séries", "Filmes" ou "Séries e Filmes"
+- **US64:** Acessar as redes sociais do ator, assim como o link para sua Wikipédia
 
-**Resultado:** Os usuários podem comentar sobre episódios, compartilhar atividades em redes sociais e interagir com outros usuários, além de avaliar e registrar detalhes sobre o conteúdo assistido.
+**Resultado:** Os usuários podem comentar sobre episódios, compartilhar atividades em redes sociais e interagir com outros usuários, além de avaliar, conferir e registrar detalhes sobre o conteúdo assistido.
 
 ### Release 2
 
