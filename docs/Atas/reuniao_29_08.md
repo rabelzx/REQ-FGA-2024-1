@@ -1,4 +1,4 @@
-# Ata da reunião do dia 31/07
+# Ata da reunião do dia 29/08
 
 ## 1. Data, Horário, Duração e Local
 

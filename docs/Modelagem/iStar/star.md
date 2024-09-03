@@ -1,6 +1,8 @@
 | Data       | Autor         | Descrição                         | Versão  |
 |------------|---------------|-----------------------------------|---------|
 | 02/09/2024 |  Paulo Henrique Melo de Souza  | Criação de documento sobre o iStar | 1.0 |
+| 02/09/2024 |  Wolfgang Friedrich Stein  | Adição dos SD e SR  | 1.1 |
+
 
 ## Introdução
 
@@ -12,7 +14,29 @@ Como definido na reunião do dia [29/08](../../Atas/reuniao_29_08.md), o grupo s
 
 A primeira dupla, composta por Paulo Henrique e Wolfgang Friedrich, ficou responsável pela modelagem do SD entre o Usuário e a própria aplicação do TV Time, além de montar seus respectivos SR's. A segunda dupla, composta por Eric Rabelo e Danilo Naves, ficou responsável pela modelagem do SD entre a aplicação do Tv Time e as emissoras que enviam seus filmes e séries para a plataforma, além de montar seus respectivos SR's.
 
-Note que ambas as duplas se responsabilizaram pela montagem do SR da aplicação do TV Time, pois dessa forma é possível comparar os dois SR's gerados e buscar entender os diferentes pontos de vista de cada dupla. 
+Note que ambas as duplas se responsabilizaram pela montagem do SR da aplicação do TV Time, pois dessa forma é possível comparar os dois SR's gerados e buscar entender os diferentes pontos de vista de cada dupla.
+
+# SD da relação usuário TVtime
+
+![SD do TVtime com o usuário](../../images/modelagem/iStar/SDUsuarioV1.png)
+
+> Autores: Wolfgang e Paulo. [Referência](../../Atas/reuniao_29_08.md)
+
+
+# SR do TV time
+
+![SR do TVtime](../../images/modelagem/iStar/SRTvTimeV1.png)
+
+> Autores: Wolfgang e Paulo. [Referência](../../Atas/reuniao_29_08.md)
+
+
+# SR do Usuário
+
+![SR do usuário](../../images/modelagem/iStar/SRUsuarioV1.png)
+
+> Autores: Wolfgang e Paulo. [Referência](../../Atas/reuniao_29_08.md)
+
+
 
 
 
