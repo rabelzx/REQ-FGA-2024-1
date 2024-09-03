@@ -2,6 +2,7 @@
 |------------|---------------|-----------------------------------|---------|
 | 02/09/2024 |  Paulo Henrique Melo de Souza  | Criação de documento sobre o iStar | 1.0 |
 | 02/09/2024 |  Wolfgang Friedrich Stein  | Adição dos SD e SR  | 1.1 |
+| 03/09/2024 | Danilo Naves do Nascimento | Adição de SD Streaming e SRs | 1.2 |
 
 
 ## Introdução
@@ -35,6 +36,26 @@ Note que ambas as duplas se responsabilizaram pela montagem do SR da aplicação
 ![SR do usuário](../../images/modelagem/iStar/SRUsuarioV1.png)
 
 > Autores: Wolfgang e Paulo. [Referência](../../Atas/reuniao_29_08.md)
+
+# SD da relação Streamings e TVtime
+
+![SD do TVtime](../../images/modelagem/iStar/SDStreamigsv1.png)
+
+> Autores: Danilo e Erick. [Referência](../../Atas/reuniao_29_08.md)
+
+# SR TV Time
+
+![SR do TVtime](../../images/modelagem/iStar/SRTvtimev1_s.png)
+
+> Autores: Danilo e Erick. [Referência](../../Atas/reuniao_29_08.md)
+
+# SD Streamings
+
+![SD do TVtime](../../images/modelagem/iStar/SRstreamingv1.png)
+
+> Autores: Danilo e Erick. [Referência](../../Atas/reuniao_29_08.md)
+
+
 
 
 
