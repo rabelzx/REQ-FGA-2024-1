@@ -43,6 +43,10 @@ A elaboração deste documento foi fundamentada na coleta e análise de requisit
 - [LEX19 - Notificações](#notificacoes)
 - [LEX20 - Emblema](#emblema)
 - [LEX21 - Atividade da Comunidade](#atividade-da-comunidade)
+- [LEX22 - Ator](#ator)
+- [LEX23 - Elenco](#elenco)
+- [LEX24 - Filmografia](#filmografia)
+
 ---
 
 ### Usuário
@@ -52,7 +56,7 @@ A elaboração deste documento foi fundamentada na coleta e análise de requisit
 | **Classificação** | Sujeito  |
 | **Sinônimo** | [usuários](#usuario), espectadores |
 | **Noção** | O [usuário](#usuario) possui uma conta e utiliza o TV Time para rastrear, avaliar, discutir, e organizar conteúdos audiovisuais, como [séries](#serie) e [filmes](#filme). |
-| **Impacto** | - O [usuário](#usuario) rastreia seus programas de TV e [filmes](#filme) assistidos, podendo marcá-los como assistidos em sua [lista geral](#lista-geral) ou [listas personalizadas](#lista-personalizada).<br>- O [usuário](#usuario) avalia e classifica os [episódios](#episodio) e [filmes](#filme) que assistiu, atribuindo uma [nota](#nota-do-conteúdo) com base em uma escala de 1 a 5 estrelas, o que contribui para o cálculo da nota do conteúdo.<br>- O [usuário](#usuario) pode adicionar uma [reação](#reacao) aos [episódios](#episodio) e [filmes](#filme), escolhendo entre emojis que representam como ele se sentiu durante o conteúdo, como triste ou chocado.<br>- O [usuário](#usuario) participa ativamente das discussões, podendo comentar em [filmes](#filme), [séries](#serie) ou [episódios](#episodio), com textos, imagens e GIFs. Esses [comentários](#comentario) podem ser curtidos e comentados por outros [usuário](#usuario)s, sendo a quantidade e os comentários feitos visíveis em seu [perfil](#perfil).<br>- O [usuário](#usuario) pode personalizar seu [perfil](#perfil) e organizar seus conteúdos em [favoritos](#favorito) e listas personalizadas, que são exibidos em seu [perfil](#perfil).<br>- O [usuário](#usuario) tem acesso a [recomendações](#recomendacao) de conteúdos baseadas em seus gostos, visualizadas na aba "Descobrir". Ele também pode ver o [TV Time Score](#tv-time-score), que indica a probabilidade de gostar de uma [série](#serie) ou [filme](#filme).<br>- As [estatísticas](#estatisticas) do [usuário](#usuario) são exibidas em seu [perfil](#perfil), mostrando dados como tempo total assistido de [séries](#serie) e [filmes](#filme), [episódios](#episodio) assistidos e comparações em um ranking com as pessoas que ele segue.<br>- O [usuário](#usuario) pode seguir outros [usuário](#usuario)s e visualizar um ranking de seguidores, baseado no tempo total de conteúdos assistidos.<br>- Ao acessar uma [série](#serie) ou [filme](#filme), o [usuário](#usuario) pode ver onde o conteúdo está disponível para assistir, em plataformas de streaming ou canais de TV, contribuindo para a monetização do TV Time por meio de comissões de redirecionamento.|
+| **Impacto** | - O [usuário](#usuario) rastreia seus programas de TV e [filmes](#filme) assistidos, podendo marcá-los como assistidos em sua [lista geral](#lista-geral) ou [listas personalizadas](#lista-personalizada).<br>- O [usuário](#usuario) avalia e classifica os [episódios](#episodio) e [filmes](#filme) que assistiu, atribuindo uma [nota](#nota-do-conteúdo) com base em uma escala de 1 a 5 estrelas, o que contribui para o cálculo da nota do conteúdo.<br>- O [usuário](#usuario) pode adicionar uma [reação](#reacao) aos [episódios](#episodio) e [filmes](#filme), escolhendo entre emojis que representam como ele se sentiu durante o conteúdo, como triste ou chocado.<br>- O [usuário](#usuario) participa ativamente das discussões, podendo comentar em [filmes](#filme), [séries](#serie) ou [episódios](#episodio), com textos, imagens e GIFs. Esses [comentários](#comentario) podem ser curtidos e comentados por outros [usuário](#usuario)s, sendo a quantidade e os comentários feitos visíveis em seu [perfil](#perfil).<br>- O [usuário](#usuario) pode personalizar seu [perfil](#perfil) e organizar seus conteúdos em [favoritos](#favorito) e listas personalizadas, que são exibidos em seu [perfil](#perfil).<br>- O [usuário](#usuario) tem acesso a [recomendações](#recomendacao) de conteúdos baseadas em seus gostos, visualizadas na aba "Descobrir". Ele também pode ver o [TV Time Score](#tv-time-score), que indica a probabilidade de gostar de uma [série](#serie) ou [filme](#filme).<br>- As [estatísticas](#estatisticas) do [usuário](#usuario) são exibidas em seu [perfil](#perfil), mostrando dados como tempo total assistido de [séries](#serie) e [filmes](#filme), [episódios](#episodio) assistidos e comparações em um ranking com as pessoas que ele segue.<br>- O [usuário](#usuario) pode seguir outros [usuário](#usuario)s e visualizar um ranking de seguidores, baseado no tempo total de conteúdos assistidos.<br>- Ao acessar uma [série](#serie) ou [filme](#filme), o [usuário](#usuario) pode ver onde o conteúdo está disponível para assistir, em plataformas de streaming ou canais de TV, contribuindo para a monetização do TV Time por meio de comissões de redirecionamento.<br>- A seção de [atividade da comunidade](#atividade-da-comunidade) permite que o [usuário](#usuario) veja o que os [usuários](#usuario) que segue estão assistindo, promovendo uma maior interação e engajamento social.<br>- O [usuário](#usuario) tem a possibilidade de desbloquear [emblemas](#emblema) ao atingir metas, incentivando a utilização contínua e o engajamento com o app.|
 
 ---
 
@@ -274,5 +278,36 @@ A elaboração deste documento foi fundamentada na coleta e análise de requisit
 | **Sinônimo** | Atividade Social, Interações da Comunidade |
 | **Noção** | Seção localizada dentro da aba de recomendações do TV Time que exibe a atividade recente dos [usuários](#usuario) que o [usuário](#usuario) segue. Esta seção mostra filmes e [séries](#serie) que foram marcados como assistidos pelos [usuários](#usuario) seguidos. |
 | **Impacto** | - Permite que o [usuário](#usuario) veja o que os [usuários](#usuario) que segue estão assistindo recentemente, oferecendo uma visão das preferências e atividades de sua rede social.<br>- A [atividade da comunidade](#atividade-da-comunidade) ajuda a descobrir novos conteúdos através das escolhas de seus seguidores.<br>- Facilita a interação social e engajamento, permitindo ao [usuário](#usuario) acompanhar e comentar sobre as atividades de seus amigos e seguidores. |
-| **Noção** | Indica onde uma [série](#serie) ou [filme](#filme) pode ser assistido, mostrando as plataformas de streaming ou canais de TV disponíveis. |
-| **Impacto** | - Quando o [usuário](#usuario) acessa a página de uma [série](#serie) ou [filme](#filme), ele pode ver onde o conteúdo está disponível para assistir.<br>- A lista inclui tanto plataformas de streaming quanto canais de TV tradicionais.<br>- Ao clicar em uma dessas opções, o [usuário](#usuario) é redirecionado para a plataforma correspondente, permitindo assistir ao conteúdo diretamente.<br>- Essa funcionalidade é uma fonte de monetização para o TV Time, pois a plataforma recebe uma comissão pelas redirecionamentos feitos através do app. |
+
+---
+
+### Ator
+
+| Nome     | Ator  |
+|----------|-------|
+| **Classificação** | Substantivo  |
+| **Sinônimo** | Atriz, Artista |
+| **Noção** | Um indivíduo que interpreta personagens em [filmes](#filme) e [séries](#serie). Na plataforma, os detalhes sobre o ator incluem nome, foto data e local de nascimento, filmografia e links para redes sociais e Wikipédia. |
+| **Impacto** | - Oferece informações detalhadas sobre a carreira e a vida dos atores.<br>- Permite ao [usuário](#usuario) explorar a filmografia completa do ator e acessar suas redes sociais e páginas externas. |
+
+---
+
+### Elenco
+
+| Nome     | Elenco  |
+|----------|---------|
+| **Classificação** | Substantivo  |
+| **Sinônimo** | Atores, Cast |
+| **Noção** | O conjunto de atores que participam de um [filme](#filme) ou [série](#serie). Na plataforma, o elenco é exibido nas páginas dos filmes e séries na seção "sobre", permitindo que o [usuário](#usuario) veja quem participou das produções e que personagem o mesmo interpretou. |
+| **Impacto** | - Permite ao [usuário](#usuario) explorar mais sobre os atores envolvidos nas produções.<br>- Facilita a navegação para informações detalhadas sobre cada ator e sua participação nas produções. |
+
+---
+
+### Filmografia
+
+| Nome     | Filmografia  |
+|----------|--------------|
+| **Classificação** | Substantivo  |
+| **Sinônimo** | Carreira, Trabalho |
+| **Noção** | A lista completa de [filmes](#filme) e [séries](#serie) nas quais um [ator](#ator) participou. Inclui todas as produções relevantes, permitindo ao [usuário](#usuario) visualizar o histórico de trabalho do ator. |
+| **Impacto** | - Facilita a visualização das contribuições de um ator para diferentes produções.<br>- Oferece opções de filtragem para explorar trabalhos específicos em "Séries", "Filmes" ou ambos. |
