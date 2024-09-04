@@ -7,6 +7,7 @@
 | 01/09/2024 | Paulo Henrique Melo de Souza  | Adicionando RF51 ao RF60 | 1.3 |
 | 02/09/2024 | Eric Rabelo Borges  | Adicionando RF61 ao RF63 | 1.4 |
 | 02/09/2024 | Eric Rabelo Borges  | Adicionando RF64 | 1.4.1 |
+| 04/09/2024 | Wolfgang Friedrich Stein  | Adicionando RF58 | 1.4.2 |
 
 ## 1 - Requisitos Funcionais
 --- 
