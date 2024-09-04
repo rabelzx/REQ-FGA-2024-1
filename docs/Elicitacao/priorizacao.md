@@ -44,6 +44,8 @@ Por meio desta técnica e respeitando a ordem de prioridade do MoSCoW, os [requi
 | RF43 | O sistema deve permitir que o usuário exclua permanentemente sua conta.                                       | 
 | RF44 | O usuário deve ser capaz de sair de sua conta.                                                                | 
 | RF45 | O sistema deve permitir que o usuário escolha o idioma da exibição dos títulos do filmes/séries.              | 
+| RF59 | O sistema deve computar a quantidade de shows adicionados pelo usuário.              | 
+| RF60 | O sistema deve computar as avaliações do usuário.              | 
 
 ### **4.2 - Should Have (Deveria ter)**
 | ID   | Descrição                                                                                             | 
@@ -63,6 +65,8 @@ Por meio desta técnica e respeitando a ordem de prioridade do MoSCoW, os [requi
 | RF42 | O sistema deve permitir que o usuário torne sua conta privada.                                        | 
 | RF46 | O sistema deve permitir que o usuário selecione o idioma preferencial para exibição dos comentários. | 
 | RF50 | O usuário deve ser capaz de ocultar episódios já assistidos.                                          | 
+| RF53 |   O sistema deve computar as principais emissoras vistas pelo usuário.                                        | 
+| RF54 |   O sistema deve computar os gêneros de shows consumidos pelo usuário.	                                        | 
 
 ### **4.3 - Could Have (Poderia ter)**
 | ID   | Descrição                                                                                                             |
@@ -88,13 +92,21 @@ Por meio desta técnica e respeitando a ordem de prioridade do MoSCoW, os [requi
 | RF39 | O sistema deve permitir o compartilhamento da lista de séries/filmes favoritos para redes sociais vizinhas.           |
 | RF47 | O usuário deve ser capaz de escolher entre tema claro ou escuro, com a possibilidade de alternar a qualquer momento. |
 | RF48 | O usuário deve ser capaz de limpar o cache de uso de memória do sistema.                                             |
+| RF52 |  O sistema deve mostrar um gráfico contendo o tempo gasto assistindo shows.|
+| RF51 |O usuário deve ser capaz de comparar o tempo gasto vendo shows com outros usuários	                                                |
+| RF55 |O sistema deve listar as conquistas do usuário.		                                                |
+| RF56 |O usuário deve ser capaz de compartilhar suas conquistas para fora do sistema.                                               |
+| RF57 |O sistema deve filtrar as conquistas relacionadas à conteúdo visto, avaliações, comentários e seguidores.    
 | RF61 | O sistema deve permitir que o usuário visualize informações detalhadas sobre um ator ao clicar em seu nome na seção de elenco. |
 | RF62 | O sistema deve exibir todos os filmes e séries em que o ator trabalhou na página do ator. |
 | RF63 | O sistema deve permitir que o usuário filtre a filmografia do ator em "Séries", "Filmes" ou "Séries e Filmes". |
 | RF64 | O sistema deve permitir que o usuário acesse as redes sociais do ator, assim como o link para sua wikipédia. |
+                                      |
+
 
 ### **4.4 - Would Have (Teria)**
 | ID   | Descrição                                                                                          |
 |------|----------------------------------------------------------------------------------------------------|
 | RF25 | O usuário deve ser capaz de editar suas informações pessoais.                                      | 
 | RF49 | O sistema deve permitir a filtragem de emissoras.                                                 |
+
