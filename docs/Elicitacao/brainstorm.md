@@ -16,13 +16,13 @@ O Brainstorming foi utilizado em várias ocasiões durante o projeto, impactando
 
 ## 3 - Aplicações da Técnica
 ---
-### 3.1 - Interessados no Sistema
+### 3.1 - Interessados no Sistema {#BSI}
 Durante as reuniões dos dias [23/07](../Atas/reuniao_23_07.md) e [25/07](../Atas/reuniao_25_07.md), a técnica de Brainstorming foi aplicada para discutir os possíveis interessados e suas necessidades em relação ao aplicativo. Como resultado, foram gerados os seguintes artefatos:
 
 [RichPicture: Interessados no Sistema - V1.0](../Pre-rastreabilidade/richpicture.md#v1geral)<br>
 [RichPicture: Interessados no Sistema - V2.0](../Pre-rastreabilidade/richpicture.md#v2geral)
 
-### 3.2 - Perfil do Usuário
+### 3.2 - Perfil do Usuário {#BSU}
 Durante a reunião do dia [30/07](../Atas/reuniao_30_07.md), foi realizado um brainstorming focado na aba de perfil de usuário do aplicativo. Os membros Paulo Henrique e Danilo Naves discutiram possíveis funcionalidades e necessidades dos usuários, resultando na criação do seguinte artefato:
 
 [RichPicture: Perfil do Usuário - V1.0](../Pre-rastreabilidade/richpicture.md#v1usuario)

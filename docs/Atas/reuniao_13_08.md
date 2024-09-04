@@ -29,7 +29,7 @@ requisitos elicitados usando a técnica de priorização Moscow. Ao final, foram
 - Eric: Criar léxicos.
 - Wolf e Danilo: Casos de uso, tanto diagramação quanto parte textual.
 
-## 4. Graveção da reunião
+## 4. Gravação da reunião
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lW-Gn_lN0iQ?si=_Rq7I27LG2nTwlNy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

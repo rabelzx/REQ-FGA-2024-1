@@ -19,6 +19,12 @@ As informações sobre data, horário, duração e local estão detalhadas a seg
 - Paulo Henrique Melo de Souza
 - Wolfgang Friedrich Stein
 
+## 4. Gravação da reunião
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GY7nNgKVheg?si=F0gbkS-8q1TapmBS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
 
 ## 3. Pontos de Discussão Importantes
 
@@ -32,3 +38,4 @@ As informações sobre data, horário, duração e local estão detalhadas a seg
 | Versão | Alteração | Responsável | Revisor | Data |
 |--------|-----------|-------------|---------|------|
 | 1.0 | Criando Ata da Reunião | Wolfgang Friedrich Stein | -- | 29/08 |
+| 1.1 | Adicionando gravação da reunião | Paulo Henrique Melo de Souza | -- | 04/09 |

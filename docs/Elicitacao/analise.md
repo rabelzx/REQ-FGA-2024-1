@@ -21,7 +21,7 @@ A Análise de Protocolo foi utilizado em várias ocasiões durante o projeto, im
 ### 3.1.0 - Filmes e Séries
 Para reforçar possíveis pontos de melhoria e identificar novas funcionalidades, foram feitas duas análises de protocolo durante a reunião do dia [29/07](../Atas/reuniao_29_07.md). O membro Danilo Naves realizou a análise de protocolo na aba de filmes, enquanto Sunamita Vitoria conduziu a análise na aba de séries.
 
-- **Análise de protocolo feita por Danilo Naves:**
+- **Análise de protocolo feita por Danilo Naves:**{#APD} 
   <center>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/-PtVC4qcJpo" frameborder="0" allowfullscreen></iframe>
   </center>
@@ -33,7 +33,7 @@ A partir dessas análises, foi observado que as abas de séries e filmes são ba
 #### 3.1.1 - Elenco e Página do Ator
 Além da análise de protocolo realizada no escopo de filmes e séries do app, também foi feita uma análise na aba de elenco e página do ator. O objetivo desta análise foi de acessar a página de um ator aleatório e conferir o resumo sobre o mesmo e sua respectiva filmografia.
 
-- **Análise de protocolo feita por Eric Rabelo:**
+- **Análise de protocolo feita por Eric Rabelo:**{#APE}
   <center>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/V_7N5IU79hA?si=v2AzcIj2_Z9Iisx_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
  </center>
@@ -41,7 +41,7 @@ Além da análise de protocolo realizada no escopo de filmes e séries do app, t
 ### 3.2.0 - Configurações do Perfil de Usuário
 Para levantar novos requisitos e reforçar melhorias, foi realizada uma análise de protocolo na aba de configurações do perfil de usuário. O objetivo era acessar as configurações e trocar o tema de claro para escuro, detalhando todos os passos realizados e explicando o processo. A análise foi realizada pelo membro Paulo Henrique.
 
-- **Análise de protocolo feita por Paulo Henrique:**
+- **Análise de protocolo feita por Paulo Henrique:**{#APP1}
   <center>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ZCHwscVyR6E?si=0Fd2ZefGvImdKBnp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </center>
@@ -51,7 +51,7 @@ Após essa análise, foi gerada uma nova versão para o rich picture de usuário
 #### 3.2.1 - Estatísticas do Perfil de Usuário
 Além da análise de protocolo realizada na aba de configurações do perfil de usuário, como solicitado na reunião do dia [29/08](../Atas/reuniao_29_08.md), também foi feita uma análise na aba de estatísticas do perfil. O objetivo desta análise foi de acessar as estatísticas do perfil de usuário, selecionar um emblema e compartilhá-lo, demonstrando todos os passos realizados e explicando o processo.
 
-- **Análise de protocolo feita por Paulo Henrique:**
+- **Análise de protocolo feita por Paulo Henrique:**{#APP2}
   <center>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/_bSrrsKaCc8?si=NBNQk19mkmwBJ21r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </center>
