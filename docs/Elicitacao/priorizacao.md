@@ -5,6 +5,7 @@
 | 14/08/2024 | Paulo Henrique  | Criação do documento e inserção dos tópicos 1 ao 4.4 | 1.0 |
 | 20/08/2024 | Paulo Henrique  | Revisão do documento e correção de erros | 1.1 |
 | 02/09/2024 | Eric Rabelo Borges  | Adição dos requisitor RF61 ao RF64 na priorização | 1.2 |
+| 04/09/2024 | Wolfgang Stein  | Adição dos requisitor RF51 ao RF60 na priorização | 1.2 |
 
 ## 1 - Introdução
 ---
@@ -67,6 +68,7 @@ Por meio desta técnica e respeitando a ordem de prioridade do MoSCoW, os [requi
 | RF50 | O usuário deve ser capaz de ocultar episódios já assistidos.                                          | 
 | RF53 |   O sistema deve computar as principais emissoras vistas pelo usuário.                                        | 
 | RF54 |   O sistema deve computar os gêneros de shows consumidos pelo usuário.	                                        | 
+| RF58 | O sistema só pode se conectar com redes sociais habilitadas no país em questão                                              |
 
 ### **4.3 - Could Have (Poderia ter)**
 | ID   | Descrição                                                                                                             |
@@ -109,4 +111,6 @@ Por meio desta técnica e respeitando a ordem de prioridade do MoSCoW, os [requi
 |------|----------------------------------------------------------------------------------------------------|
 | RF25 | O usuário deve ser capaz de editar suas informações pessoais.                                      | 
 | RF49 | O sistema deve permitir a filtragem de emissoras.                                                 |
+
+
 

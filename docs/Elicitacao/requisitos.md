@@ -69,6 +69,7 @@
 | RF55 | O sistema deve listas as conquistas do usuário.                                                    | [Análise de Protocolo](analise.md#APP2)    |
 | RF56 | O usuário deve ser capaz de compartilhar suas conquistas para fora do sistema.                     | [Análise de Protocolo](analise.md#APP2)    |
 | RF57 | O sistema deve filtrar as conquistas relacionadas à conteúdo visto, avaliações, comentários e seguidores. | [Análise de Protocolo](analise.md#APP2)  |
+| RF58 | O sistema só pode se conectar com redes sociais habilitadas no país em questão| [Análise de Protocolo](analise.md#APP2)  |
 | RF59 | O sistema deve computar a quantidade de shows adicionados pelo usuário.                            |  [Análise de Protocolo](analise.md#APP2)   |
 | RF60 | O sistema deve computar as avaliações do usuário.                                                  | [Análise de Protocolo](analise.md#APP2)    |
 | RF61 | O sistema deve permitir que o usuário visualize informações detalhadas sobre um ator ao clicar em seu nome na seção de elenco. | [Análise de Protocolo](analise.md#APE)  |
