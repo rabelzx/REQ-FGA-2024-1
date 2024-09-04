@@ -23,7 +23,7 @@ As informações sobre data, horário, duração e local estão detalhadas a seg
 
 - Separar atividades para cada um do grupo
 
-- Inspeção: Montar Questionário. Infelizmente, o grupo possui poucos membros
+- Inspeção: Montar Questionário.
 
 | Módulo | Responsável |
 |-----------|-------------|
