@@ -26,6 +26,10 @@ Objetivo O propósito deste artefato é avaliar a qualidade de alguns dos modelo
 
 - [Sprint Backlog](sprintAnalise.md)
 
+- [Casos de Uso](useCasesAnalise.md)
+
+- [Diagramas NFR](nfrAnalise.md)
+
 
 
 

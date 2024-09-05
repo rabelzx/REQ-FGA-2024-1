@@ -31,6 +31,8 @@ nav:
     - Inspeção dos Léxicos: Analise/lexicosAnalises.md
     - Inspeção do Backlog do Produto: Analise/backlogAnalise.md
     - Inspeção do Sprint Backlog: Analise/sprintAnalise.md
+    - Inspeção dos Casos de Uso: Analise/useCasesAnalise.md
+    - Inspeção do NFR Framework: Analise/nfrAnalise.md
   - Pós-Rastreabilidade: Pos-Rastreabilidade/posRastreabilidade.md
   - Atas: 
     - Dia 23/07: Atas/reuniao_23_07.md
