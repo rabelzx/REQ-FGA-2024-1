@@ -3,8 +3,9 @@
 | Data       | Autor         | Descrição                          | Versão |
 |------------|---------------|------------------------------------|--------|
 | 03/09/2024 | Danilo Naves | Criando seção: Análise              | 1.0    |
-| 05/09/2024 | Wolfgang Stein| Adicionando introducao/objetivo e metodologia| 1.1|
-| 05/09/2024 | Wolfgang Stein| Adicionando inspeção do Sprint Backlog| 1.2|
+| 05/09/2024 | Wolfgang Stein | Adicionando introducao/objetivo e metodologia| 1.1|
+| 05/09/2024 | Wolfgang Stein | Adicionando inspeção do Sprint Backlog| 1.2|
+| 05/09/2024 | Paulo Henrique Melo de Souza | Adicionando inspeção dos Casos de Uso e NFR Framework | 1.3|
 
 ## 1 - Introdução
 
