@@ -1,7 +1,7 @@
 ## Histórico de Revisão
 | Data       | Autor         | Descrição                          | Versão |
 |------------|---------------|------------------------------------|--------|
-| 05/09/2024 | Eric Rabelo Borges  | Criação da inspeção do backlog     | 1.0    |
+|05/09/2024  | Eric Rabelo Borges  | Criação da inspeção do backlog     | 1.0    |
 
 ---
 
@@ -56,7 +56,7 @@ A técnica de inspeção foi desenvolvida com base em um conjunto de perguntas e
 | US30  | ✔  | ✔  | X  | ✔  | ✔  | ✔  | ✔  | ✔  |
 | US31  | ✔  | ✔  | X  | ✔  | ✔  | ✔  | ✔  | ✔  |
 | US32  | ✔  | ✔  | X  | ✔  | ✔  | ✔  | ✔  | ✔  |
-| US33  | X  | ✔  | X  | ✔  | X  | ✔  | ✔  | ✔  |
+| US33  | X   | ✔  | X  | ✔  | X  | ✔  | ✔   | ✔   |
 | US34  | ✔  | ✔  | X  | ✔  | ✔  | ✔  | ✔  | ✔  |
 | US35  | ✔  | ✔  | X  | ✔  | ✔  | ✔  | ✔  | ✔  |
 | US36  | ✔  | ✔  | X  | ✔  | ✔  | ✔  | ✔  | ✔  |

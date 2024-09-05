@@ -29,7 +29,8 @@ nav:
   - Análise:
     - Sobre: Analise/analise.md
     - Inspeção dos Léxicos: Analise/lexicosAnalises.md
-    - Inspeção do Backlog: Analise/backlogAnalise.md
+    - Inspeção do Backlog do Produto: Analise/backlogAnalise.md
+    - Inspeção do Sprint Backlog: Analise/sprintAnalise.md
   - Pós-Rastreabilidade: Pos-Rastreabilidade/posRastreabilidade.md
   - Atas: 
     - Dia 23/07: Atas/reuniao_23_07.md
