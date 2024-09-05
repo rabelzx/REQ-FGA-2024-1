@@ -10,8 +10,8 @@
 1.  [Introdução](#1---introdução)
 2.  [Objetivo](#2---objetivo)
 3.  [Metodologia](#3---metodologia)
-4.  [BacklogAnalise](backlogAnalise.md)
-5.  [lexicoAnalises](lexicosAnalises.md)
+4.  [Questionários](#4-questionários)
+
 
 # 1 - Introdução
 
@@ -23,4 +23,20 @@ Objetivo O propósito deste artefato é avaliar a qualidade de alguns dos modelo
 
 # 3 - Metodologia
 
-A metodologia foi definida pelo grupo. A equipe se reuniu para avaliar a qualidade dos modelos entregues e selecionar aqueles que precisavam ser inspecionados e corrigidos. A partir do feedback dos professores e do material fornecido pela disciplina, foram criados questionários padronizados para analisar a qualidade dos artefatos e identificar as mudanças necessárias. Após essa identificação, as correções foram implementadas.
+**Inspeção**: A metodologia de inspeção é uma técnica formal e sistemática utilizada para revisar e avaliar a qualidade de produtos de software, como documentos de requisitos, código-fonte, projetos ou outros artefatos. Ela é amplamente adotada para identificar defeitos e melhorar a qualidade antes de um artefato ser entregue ou avançar para as próximas fases do desenvolvimento. A inspeção envolve a análise detalhada de um artefato por uma equipe qualificada, seguindo um processo bem definido.
+
+A técnica de inspeção foi desenvolvida com base em um conjunto de perguntas e funciona como um checklist. Cada User Story (US) foi avaliada individualmente de acordo com tópicos previamente estabelecidos.
+
+
+# 4. Questionários
+
+**4.1 Questionário do Backlog**
+
+- [BacklogAnalise](backlogAnalise.md)
+
+**4.2 Questionário Léxico**
+
+- [LexicoAnalises](lexicosAnalises.md)
+
+
+
