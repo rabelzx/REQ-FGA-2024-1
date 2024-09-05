@@ -79,11 +79,11 @@ Com base nos requisitos elicitados e priorizados, foi elaborado o Backlog do Pro
 | Gestão de shows    | [US53](#US53)  | Usuário    | Computar as principais emissoras vistas                          | Ter controle sobre quais plataformas / emissoras são mais utilizadas                               | RF53      | Should     |
 | Gestão de shows    | [US54](#US54)  | Usuário    | Computar genêros de shows                          | veja o quanto prefiro determinado genêro em relação a outro                               | RF54      | Should     |
 | Gestão de shows    | [US55](#US55)  | Usuário    | Listar as conquistas no app                          |  ter sentimento de satisfação   dee conquista                            | RF55      | Could     |
-| Gestão de shows    | [US56](#US56)  | Usuário    | Listar as conquistas no app                          | Possa mostrar a outros usuários as conquistas                               | RF56      | Could     |
+| Interações sociais    | [US56](#US56)  | Usuário    | Compartilhar conquistas nas redes sociais                          | Possa mostrar a outros usuários as conquistas                               | RF56      | Could     |
 | Interações sociais | [US57](#US57)  | Usuário    | Filtrar conquistas relacionadas a diferentes interações                        | Possa mostrar a outros usuários as conquistas                               | RF57      | Could     |
 | Interações sociais | [US58](#US58)  | Usuário    | Acessar a plataforma com a rede social permitida no país                        | Não sofra algum processo judicial por infringir alguma lei                                | RF58      | Should     |
 | Interações sociais | [US59](#US59)  | Usuário    | Ver todos os shows adicionados                        | possa depois voltar e marcar como assistido                                | RF59      | Must     |
-| Interações sociais | [US60](#US60)  | Usuário    | Ver as avaliações d ediversos usuários                        | Verificar se desejo assistir este show                                | RF60      | Must     |
+| Interações sociais | [US60](#US60)  | Usuário    | Ver as avaliações de diversos usuários                        | Verificar se desejo assistir este show                                | RF60      | Must     |
 | Interação com shows | [US61](#US61)  | Usuário    | Visualizar informações detalhadas sobre um ator            | Obter mais detalhes sobre os atores e suas carreiras                            | RF61      | Could      |
 | Interação com shows | [US62](#US62)  | Usuário    | Ver todos os filmes e séries em que o ator trabalhou na página do ator                  | Conhecer melhor a filmografia completa do ator                                  | RF62      | Could      |
 | Interação com shows | [US63](#US63)  | Usuário    | Filtrar a filmografia do ator em "Séries", "Filmes" ou "Séries e Filmes"                | Encontrar rapidamente o tipo de produção que me interessa no trabalho do ator   | RF63      | Could      |
@@ -493,6 +493,92 @@ Os critérios de aceitação são condições que devem ser atendidas para que u
 | **ID**  |  US50  |
 |---------|--------|
 | **Critérios** | 1. Ser possível ocultar episódios já vistos. <br> 2. O usuário deve poder ocultar episódios a partir da tela de configuração do perfil. <br> 3. O usuário pode reverter a escolha a qualquer momento. |
+
+---
+
+### US51: Comparar o tempo gasto vendo shows com outros usuários {#US51}
+
+| **ID**  |  US51  |
+|---------|--------|
+| **Critérios** | 1. O usuário deve poder visualizar uma comparação do tempo gasto assistindo shows com outros usuários.<br> 2. A comparação deve estar disponível na tela de estatísticas do perfil do usuário. <br> 3. A comparação deve ser atualizada em tempo real conforme novos dados são computados. |
+
+---
+### US52: Mostrar um gráfico contendo o tempo gasto assistindo shows. {#US52}
+
+| **ID**  |  US52  |
+|---------|--------|
+| **Critérios** | 1. O sistema deve exibir um gráfico representando o tempo total gasto assistindo shows. <br> 2. O gráfico deve ser acessível a partir da tela de estatísticas do perfil. <br> 3. O gráfico deve incluir filtros para diferentes períodos de tempo (diário, semanal, mensal). |
+
+---
+
+### US53: Computar as principais emissoras vistas {#US53}
+
+| **ID**  |  US53  |
+|---------|--------|
+| **Critérios** |1. O sistema deve calcular automaticamente as emissoras mais assistidas pelo usuário. <br>2. O usuário deve poder visualizar essa lista na seção de estatísticas. <br> 3. A lista deve ser atualizada automaticamente conforme novos conteúdos forem assistidos. |
+
+---
+
+
+### US54: Computar genêros de shows {#US54}
+
+| **ID**  |  US54  |
+|---------|--------|
+| **Critérios** | 1. O sistema deve identificar e listar os gêneros de shows mais consumidos pelo usuário. <br> 2. A lista deve ser acessível na seção de preferências do perfil. <br> 3. A lista deve ser atualizada com novos conteúdos consumidos. |
+
+---
+
+
+### US55: Listar as conquistas no app  {#US55}
+
+| **ID**  |  US55  |
+|---------|--------|
+| **Critérios** | 1. O sistema deve exibir todas as conquistas obtidas pelo usuário. <br> 2. As conquistas devem ser exibidas em ordem cronológica ou categorizadas por tipo. <br> 3. O usuário deve poder visualizar suas conquistas em seu perfil. |
+
+---
+
+
+### US56: compartilhar conquistas nas redes sociais {#US56}
+
+| **ID**  |  US56  |
+|---------|--------|
+| **Critérios** | 1. O usuário deve poder compartilhar suas conquistas em redes sociais ou por link externo. <br> 2. A opção de compartilhamento deve estar disponível na tela de conquistas do perfil. <br> 3. O sistema deve gerar um link ou integração direta para compartilhamento. |
+
+---
+
+
+### US57: Filtrar conquistas relacionadas a diferentes interações {#US57}
+
+| **ID**  |  US57  |
+|---------|--------|
+| **Critérios** | 1. O sistema deve permitir que o usuário filtre conquistas relacionadas a conteúdos vistos, avaliações, comentários e seguidores. <br> 2. Os filtros devem ser aplicáveis na tela de conquistas do perfil. <br> 3. O usuário deve poder selecionar mais de um filtro simultaneamente. |
+
+---
+
+
+### US58: Acessar a plataforma com a rede social permitida no país {#US58}
+
+| **ID**  |  US58  |
+|---------|--------|
+| **Critérios** | 1. O sistema deve permitir que o usuário faça login usando redes sociais permitidas no país de origem do usuário. <br> 2. As redes sociais disponíveis devem ser automaticamente ajustadas com base na localização geográfica do usuário. <br> 3. O usuário deve poder selecionar e autenticar a rede social de sua preferência durante o processo de login. |
+
+---
+
+
+### US59: Ver todos os shows adicionados {#US59}
+
+| **ID**  |  US59  |
+|---------|--------|
+| **Critérios** | 1. O sistema deve calcular quantos shows foram adicionados pelo usuário à sua lista de visualizações. <br> 2. O total deve ser exibido na tela de estatísticas do perfil. <br> 3. O cálculo deve ser atualizado automaticamente quando novos shows forem adicionados. |
+
+---
+
+
+### US60: Ver as avaliações de diversos usuários {#US60}
+
+| **ID**  |  US60  |
+|---------|--------|
+| **Critérios** | 1. O sistema deve calcular e exibir o total de avaliações feitas pelo usuário.<br>2. As avaliações devem ser categorizadas por tipo de conteúdo (shows, filmes, séries).<br>3. O total de avaliações deve ser exibido na seção de estatísticas do perfil. |
 
 ---
 
