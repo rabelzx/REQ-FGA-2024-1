@@ -31,6 +31,7 @@ Objetivo O propósito deste artefato é avaliar a qualidade de alguns dos modelo
 
 - [Diagramas NFR](nfrAnalise.md)
 
+- [Inspeção dos Cenários](cenariosAnalise.md)
 
 
 
