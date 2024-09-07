@@ -5,6 +5,9 @@
 | 07/09/2024 | Sunamita Vitória  | Criação da inspeção da Especificação Suplementar  | 1.0    |
 
 ---
+## Metodologia
+
+Utilizando a técnica de inspeção de checklist, cada Caso de Uso foi avaliado individualmente de acordo com tópicos previamente estabelecidos. Sendo que, cada caso de uso será avaliado de forma binária (sim/não) em relação a cada tópico estabelecido. 
 
 ## Tópicos de Validação:
 **Clareza e Detalhamento:** Os requisitos não funcionais estão descritos de forma clara e detalhada?
