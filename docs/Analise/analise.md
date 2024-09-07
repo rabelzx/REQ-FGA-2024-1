@@ -6,7 +6,7 @@
 | 05/09/2024 | Wolfgang Stein | Adicionando introducao/objetivo e metodologia| 1.1|
 | 05/09/2024 | Wolfgang Stein | Adicionando inspeção do Sprint Backlog| 1.2|
 | 05/09/2024 | Paulo Henrique Melo de Souza | Adicionando inspeção dos Casos de Uso e NFR Framework | 1.3|
-| 05/09/2024 | Sunamita Vitória | Adicionando inspeção da Visão do Produto e Especificação Suplementar | 1.4|
+| 07/09/2024 | Sunamita Vitória | Adicionando inspeção da Visão do Produto e Especificação Suplementar | 1.4|
 
 ## 1 - Introdução
 
