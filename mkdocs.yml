@@ -28,10 +28,12 @@ nav:
     - iStar: Modelagem/iStar/star.md
   - Análise:
     - Sobre: Analise/analise.md
+    - Inspeção dos Cenários: Analise/cenariosAnalise.md
     - Inspeção dos Léxicos: Analise/lexicosAnalises.md
+    - Inspeção Visão do Produto: Analise/visaoprodAnalise.md
+    - Inspeção Especificação Suplementar: Analise/especifsupAnalise.md
     - Inspeção do Backlog do Produto: Analise/backlogAnalise.md
     - Inspeção do Sprint Backlog: Analise/sprintAnalise.md
-    - Inspeção dos Cenários: Analise/cenariosAnalise.md
     - Inspeção dos Casos de Uso: Analise/useCasesAnalise.md
     - Inspeção do NFR Framework: Analise/nfrAnalise.md
   - Pós-Rastreabilidade: Pos-Rastreabilidade/posRastreabilidade.md
