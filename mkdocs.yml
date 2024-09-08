@@ -36,7 +36,9 @@ nav:
     - Inspeção do Sprint Backlog: Analise/sprintAnalise.md
     - Inspeção dos Casos de Uso: Analise/useCasesAnalise.md
     - Inspeção do NFR Framework: Analise/nfrAnalise.md
-  - Pós-Rastreabilidade: Pos-Rastreabilidade/posRastreabilidade.md
+  - Pós-Rastreabilidade:
+    - Backward-From: Pos-Rastreabilidade/backward-from.md
+    - Forward-From: Pos-Rastreabilidade/forward-from.md
   - Atas: 
     - Dia 23/07: Atas/reuniao_23_07.md
     - Dia 25/07: Atas/reuniao_25_07.md

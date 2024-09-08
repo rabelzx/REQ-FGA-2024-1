@@ -77,3 +77,7 @@
 | RF62 | O sistema deve exibir todos os filmes e séries em que o ator trabalhou na página do ator. |[Análise de Protocolo](analise.md#APE) |
 | RF63 | O sistema deve permitir que o usuário filtre a filmografia do ator em "Séries", "Filmes" ou "Séries e Filmes". |[Análise de Protocolo](analise.md#APE) |
 | RF64 | O sistema deve permitir que o usuário acesse as redes sociais do ator, assim como o link para sua wikipédia. | [Análise de Protocolo](analise.md#APE)|
+
+## 2 - Requisitos Não Funcionais
+---
+Os requisitos não funcionais foram elicitados utilizando o NFR Framework que pode ser acessado [aqui](../Modelagem/NFR/nfr.md#RNFs).
