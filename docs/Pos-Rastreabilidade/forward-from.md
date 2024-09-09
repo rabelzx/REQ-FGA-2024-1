@@ -4,6 +4,7 @@
 |------------|---------------|------------------------------------|--------|
 | 08/09/2024 | Paulo Henrique Melo de Souza | Criação do documento Forward-From | 1.0     |
 | 08/09/2024 | Paulo Henrique Melo de Souza | Adição dos RF01 ao RF15 | 1.1     |
+| 09/09/2024 | Eric Rabelo Borges | Adição dos RF16 ao RF20 | 1.2     |
 
 <details>
   <summary> [Nome do Requisito]</summary>
@@ -476,6 +477,156 @@
       <tr>
         <td>Funcionalidade</td>
         <td><img src="../../images/forward-from/SCR13.png" alt="SCR13"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF16 - O sistema deve listar todos os comentários do usuário. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Gerência de perfil</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U16">US16</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR16-1.jpeg" alt="SCR16-1"><img src="../../images/forward-from/SCR16-2.jpeg" alt="SCR16-2"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF17 - O usuário deve ser capaz de seguir outros usuários. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Interações sociais</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U17">US17</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR17.jpeg" alt="SCR17"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF18 - O sistema deve permitir a filtragem baseada na ordem de relevância dos comentários do usuário. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Interação com shows</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U18">US18</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR18.jpeg" alt="SCR18"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF19 - O usuário poderá excluir um comentário. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Interação com shows</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U19">US19</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR19.jpeg" alt="SCR19"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF20 - O sistema deve permitir o compartilhamento de comentários para redes sociais vizinhas. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Interação com shows</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U20">US20</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR20.jpeg" alt="SCR20"></td>
       </tr>
     </tbody>
   </table>
