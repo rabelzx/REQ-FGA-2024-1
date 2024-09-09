@@ -3,8 +3,8 @@
 | Data       | Autor         | Descrição                         | Versão  |
 |------------|---------------|-----------------------------------|---------|
 | 20/08      |Danilo Naves   | Criação do documento referente a Especificações de  Casos de Uso | 1.0|
-| 21/08      |Wolfgang Stein  | Adicionando [UC01](#uc01---criação-de-conta) e [UC02](#uc02---adicionando-filmes) | 1.1|
-| 22/08      |Wolfgang Stein  | Adicionando [UC03](#uc03---adicionando-séries), [UC04](#uc04---avaliando-filmes), [UC05](#uc05---avaliando-séries), [UC06](#uc06---editando-perfil) [UC07](#uc07---pesquisar-usuários)| 1.1|
+| 21/08      |Wolfgang Stein  | Adicionando [UC01](espCasosUsos.md#UC01) e [UC02](espCasosUsos.md#UC02) | 1.1|
+| 22/08      |Wolfgang Stein  | Adicionando [UC03](espCasosUsos.md#UC03), [UC04](espCasosUsos.md#UC04), [UC05](espCasosUsos.md#UC05), [UC06](espCasosUsos.md#UC06) [UC07](espCasosUsos.md#UC07)| 1.1|
 
 ### Sumário
 
@@ -20,7 +20,7 @@ Objetivo é representar o comportamento de usuários do Tv time a fim de levanta
 
 ### Especificação de Casos de Uso
 ---
-UC01 - Criação de conta
+UC01 - Criação de conta {#UC01}
 ---
 
 |           |               |
@@ -33,7 +33,7 @@ UC01 - Criação de conta
 | Fluxo de Exceção | -- |
 | Pós-Condições | O usuário agora possui uma conta no aplicativo |
 
-UC02 - Adicionando Filmes
+UC02 - Adicionando Filmes {#UC02}
 ---
 
 |           |               |
@@ -50,7 +50,7 @@ UC02 - Adicionando Filmes
 | Pós-Condições | O usuário agora adicionou esse filme a sua lista de Filmes assistidos. |
 
 
-UC03 - Adicionando Séries
+UC03 - Adicionando Séries {#UC03}
 ---
 
 |           |               |
@@ -66,7 +66,7 @@ UC03 - Adicionando Séries
 | Fluxo de Exceção | -- |
 | Pós-Condições | O usuário agora adicionou essa série a sua lista de Filmes assistidos. |
 
-UC04 - Avaliando Filmes
+UC04 - Avaliando Filmes {#UC04}
 ---
 
 |           |               |
@@ -79,7 +79,7 @@ UC04 - Avaliando Filmes
 | Fluxo de Exceção | Caso não esteja como assistido, não é possivel avaliar|
 | Pós-Condições | O usuário agora avaliou o Filme |
 
-UC05 - Avaliando Séries
+UC05 - Avaliando Séries {#UC05}
 ---
 
 |           |               |
@@ -92,7 +92,7 @@ UC05 - Avaliando Séries
 | Fluxo de Exceção | Caso não esteja como assistido, não é possivel avaliar|
 | Pós-Condições | O usuário agora avaliou a série |
 
-UC06 - Editando Perfil
+UC06 - Editando Perfil {#UC06}
 ---
 
 |           |               |
@@ -105,7 +105,7 @@ UC06 - Editando Perfil
 | Pós-Condições | O usuário personalizou seu perfil |
 
 
-UC07 - Pesquisar usuários
+UC07 - Pesquisar usuários {#UC07}
 ---
 
 |           |               |
