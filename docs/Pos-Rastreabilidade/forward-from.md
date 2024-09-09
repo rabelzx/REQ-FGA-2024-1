@@ -59,7 +59,7 @@
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=https://github.com/rabelzx/REQ-FGA-2024-1/blob/main/docs/images/forward-from/SCR01.png></td>
+        <td><img src="../../images/forward-from/SCR01.png" alt="SCR01"></td>
       </tr>
     </tbody>
   </table>
@@ -119,7 +119,7 @@
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=https://github.com/rabelzx/REQ-FGA-2024-1/blob/main/docs/images/forward-from/SCR03.png></td>
+        <td><img src="../../images/forward-from/SCR03.png" alt="SCR03"></td>
       </tr>
     </tbody>
   </table>
@@ -149,7 +149,7 @@
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=https://github.com/rabelzx/REQ-FGA-2024-1/blob/main/docs/images/forward-from/SCR04.png></td>
+        <td><img src="../../images/forward-from/SCR04.png" alt="SCR04"></td>
       </tr>
     </tbody>
   </table>
@@ -179,7 +179,7 @@
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=https://github.com/rabelzx/REQ-FGA-2024-1/blob/main/docs/images/forward-from/SCR05.png></td>
+        <td><img src="../../images/forward-from/SCR05.png" alt="SCR05"></td>>
       </tr>
     </tbody>
   </table>
@@ -209,7 +209,7 @@
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=https://github.com/rabelzx/REQ-FGA-2024-1/blob/main/docs/images/forward-from/SCR06.png></td>
+        <td><img src="../../images/forward-from/SCR06.png" alt="SCR06"></td>
       </tr>
     </tbody>
   </table>
@@ -239,7 +239,7 @@
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=https://github.com/rabelzx/REQ-FGA-2024-1/blob/main/docs/images/forward-from/SCR07.png></td>
+        <td><img src="../../images/forward-from/SCR07.png" alt="SCR07"></td>
       </tr>
     </tbody>
   </table>
@@ -269,7 +269,7 @@
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=https://github.com/rabelzx/REQ-FGA-2024-1/blob/main/docs/images/forward-from/SCR08.png></td>
+        <td><img src="../../images/forward-from/SCR08.png" alt="SCR08"></td>
       </tr>
     </tbody>
   </table>
@@ -299,7 +299,7 @@
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=https://github.com/rabelzx/REQ-FGA-2024-1/blob/main/docs/images/forward-from/SCR07.png></td>
+        <td><img src="../../images/forward-from/SCR07.png" alt="SCR07"></td>
       </tr>
     </tbody>
   </table>
@@ -329,7 +329,7 @@
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=https://github.com/rabelzx/REQ-FGA-2024-1/blob/main/docs/images/forward-from/SCR09.png></td>
+        <td><img src="../../images/forward-from/SCR09.png" alt="SCR09"></td>
       </tr>
     </tbody>
   </table>
@@ -359,7 +359,7 @@
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=https://github.com/rabelzx/REQ-FGA-2024-1/blob/main/docs/images/forward-from/SCR10.png></td>
+        <td><img src="../../images/forward-from/SCR10.png" alt="SCR10"></td>
       </tr>
     </tbody>
   </table>
@@ -389,7 +389,7 @@
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=https://github.com/rabelzx/REQ-FGA-2024-1/blob/main/docs/images/forward-from/SCR11.png></td>
+        <td><img src="../../images/forward-from/SCR11.png" alt="SCR11"></td>
       </tr>
     </tbody>
   </table>
@@ -445,7 +445,7 @@
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=https://github.com/rabelzx/REQ-FGA-2024-1/blob/main/docs/images/forward-from/SCR12.png></td>
+        <td><img src="../../images/forward-from/SCR12.png" alt="SCR12"></td>
       </tr>
     </tbody>
   </table>
@@ -475,7 +475,7 @@
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=https://github.com/rabelzx/REQ-FGA-2024-1/blob/main/docs/images/forward-from/SCR13.png></td>
+        <td><img src="../../images/forward-from/SCR13.png" alt="SCR13"></td>
       </tr>
     </tbody>
   </table>
