@@ -471,7 +471,7 @@
       </tr>
       <tr>
         <td>Cenário</td>
-        <td>--</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen39">CEN39</a></td>
       </tr>
       <tr>
         <td>Funcionalidade</td>

@@ -7,6 +7,7 @@
 | 14/08/2024 |  Paulo Henrique  | Inserção do CEN15 ao CEN19 | 1.2 |
 | 14/08/2024 |  Sunamita Vitória  | Inserção do CEN20 ao CEN25 | 1.3 |
 | 19/08/2024 |  Paulo Henrique  | Linkando léxicos aos cenários | 1.5 |
+| 09/09/2024 |  Paulo Henrique  | Inserção do CEN26 ao CEN39 | 1.6 |
 
 ## Introdução
 --- 
@@ -47,6 +48,20 @@ O grupo se reuniu para produzir os cenários baseados nos requisitos até então
 - [CEN23 - Tema claro/escuro](#cen23)
 - [CEN24 - Limpar memória](#cen24)
 - [CEN25 - Filtrar emissoras](#cen25)
+- [CEN26 - Comparar tempo gasto](#cen26)
+- [CEN27 - Visualizar gráfico de tempo gasto vendo filmes/séries](#cen27)
+- [CEN28 - Visualizar principais emissoras de séries](#cen28)
+- [CEN29 - Visualizar principais gêneros de filmes/séries](#cen29)
+- [CEN30 - Acessar emblemas](#cen30)
+- [CEN31 - Compartilhar emblemas](#cen31)
+- [CEN32 - Visualizar total de séries adicionadas](#cen32)
+- [CEN33 - Visualizar total de avaliações feitas](#cen33)
+- [CEN34 - Visualizar informações sobre um ator](#cen34)
+- [CEN35 - Visualizar filmes e séries trabalhados por um ator](#cen35)
+- [CEN36 - Filtrar filmografia de um ator](#cen36)
+- [CEN37 - Acessar as redes sociais de um ator](#cen37)
+- [CEN38 - Visualizar total de seguidores e comentários](#cen38)
+- [CEN39 - Visualizar quem segue o usuário](#cen39)
 
 ---
 
@@ -302,4 +317,158 @@ O grupo se reuniu para produzir os cenários baseados nos requisitos até então
 |   **Atores**   | [Usuário](../Lexico/lexico.md#usuario).                             |
 |  **Recursos**  | Acesso à internet, smartphone.                             |
 | **Episódios**  | 1. O [usuário](../Lexico/lexico.md#usuario) navega até [perfil](../Lexico/lexico.md#perfil). <br> 2. O [usuário](../Lexico/lexico.md#usuario) clica no ícone de três pontos. <br> 3. O [usuário](../Lexico/lexico.md#usuario) clica em configurações. <br> 4. O [usuário](../Lexico/lexico.md#usuario) navega até em breve. <br> 5. O [usuário](../Lexico/lexico.md#usuario) clica em filtrar emissoras.                             |
+|  **Exceções**  | Perda de conexão com a internet. <br> O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução. <br> O [usuário](../Lexico/lexico.md#usuario) não está logado. |
+
+### Comparar tempo gasto {#cen26}
+
+|   **Titulo**   | Comparar tempo gasto                             |
+| :------------: | ---------------------------- |
+|  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) comparar o tempo gasto em [filmes](../Lexico/lexico.md#filme)/[séries](../Lexico/lexico.md#serie) com seus [seguidores](../Lexico/lexico.md#seguidores).                             |
+|  **Contexto**  | O [usuário](../Lexico/lexico.md#usuario) está logado.                             |
+|   **Atores**   | [Usuário](../Lexico/lexico.md#usuario).                             |
+|  **Recursos**  | Acesso à internet, smartphone.                             |
+| **Episódios**  | 1. O [usuário](../Lexico/lexico.md#usuario) navega até [perfil](../Lexico/lexico.md#perfil). <br> 2. O [usuário](../Lexico/lexico.md#usuario) clica em [Estatísticas](../Lexico/lexico.md#estatisticas). <br> 3. O [usuário](../Lexico/lexico.md#usuario) clica em "Compare com as pessoas que você [segue](../Lexico/lexico.md#seguidores)".                             |
+|  **Exceções**  | Perda de conexão com a internet. <br> O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução. <br> O [usuário](../Lexico/lexico.md#usuario) não está logado. |
+
+### Visualizar gráfico de tempo gasto vendo [filmes](../Lexico/lexico.md#filme)/[séries](../Lexico/lexico.md#serie) {#cen27}
+
+|   **Titulo**   | Visualizar gráfico de tempo gasto vendo [filmes](../Lexico/lexico.md#filme)/[séries](../Lexico/lexico.md#serie)                             |
+| :------------: | ---------------------------- |
+|  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) visualizar um gráfico com o tempo gasto vendo [filmes](../Lexico/lexico.md#filme)/[séries](../Lexico/lexico.md#serie).                             |
+|  **Contexto**  | O [usuário](../Lexico/lexico.md#usuario) está logado.                             |
+|   **Atores**   | [Usuário](../Lexico/lexico.md#usuario).                             |
+|  **Recursos**  | Acesso à internet, smartphone.                             |
+| **Episódios**  | 1. O [usuário](../Lexico/lexico.md#usuario) navega até [perfil](../Lexico/lexico.md#perfil). <br> 2. O [usuário](../Lexico/lexico.md#usuario) clica em [Estatísticas](../Lexico/lexico.md#estatisticas). <br> 3. O [usuário](../Lexico/lexico.md#usuario) clica na aba de [filmes](../Lexico/lexico.md#filme). <br> 4. O [usuário](../Lexico/lexico.md#usuario) visualiza o gráfico com o tempo total assistindo [filmes](../Lexico/lexico.md#filme).                         |
+|  **Exceções**  | Perda de conexão com a internet. <br> O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução. <br> O [usuário](../Lexico/lexico.md#usuario) não está logado. |
+
+### Visualizar principais [emissoras](../Lexico/lexico.md#plataforma) de [séries](../Lexico/lexico.md#serie) {#cen28}
+
+|   **Titulo**   | Visualizar principais [emissoras](../Lexico/lexico.md#plataforma) de [séries](../Lexico/lexico.md#serie)                             |
+| :------------: | ---------------------------- |
+|  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) visualizar as principais [emissoras](../Lexico/lexico.md#plataforma) de [séries](../Lexico/lexico.md#serie) que anda consomumindo ultimamente.                             |
+|  **Contexto**  | O [usuário](../Lexico/lexico.md#usuario) está logado.                             |
+|   **Atores**   | [Usuário](../Lexico/lexico.md#usuario).                             |
+|  **Recursos**  | Acesso à internet, smartphone.                             |
+| **Episódios**  | 1. O [usuário](../Lexico/lexico.md#usuario) navega até [perfil](../Lexico/lexico.md#perfil). <br> 2. O [usuário](../Lexico/lexico.md#usuario) clica em [Estatísticas](../Lexico/lexico.md#estatisticas). <br> 3. O [usuário](../Lexico/lexico.md#usuario) clica na aba de [séries](../Lexico/lexico.md#serie). <br> 4. O [usuário](../Lexico/lexico.md#usuario) visualiza as principais [emissoras](../Lexico/lexico.md#plataforma) de [séries](../Lexico/lexico.md#serie) que consome ultimamente.                             |
+|  **Exceções**  | Perda de conexão com a internet. <br> O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução. <br> O [usuário](../Lexico/lexico.md#usuario) não está logado. |
+
+### Visualizar principais [gêneros](../Lexico/lexico.md#genero) de [filmes](../Lexico/lexico.md#filme)/[séries](../Lexico/lexico.md#serie) {#cen29}
+
+|   **Titulo**   | Visualizar principais [gêneros](../Lexico/lexico.md#genero) de [filmes](../Lexico/lexico.md#filme)/[séries](../Lexico/lexico.md#serie)                             |
+| :------------: | ---------------------------- |
+|  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) visualizar os principais [gêneros](../Lexico/lexico.md#genero) de [filmes](../Lexico/lexico.md#filme)/[séries](../Lexico/lexico.md#serie) que vem assistindo ultimamente.                            |
+|  **Contexto**  | O [usuário](../Lexico/lexico.md#usuario) está logado.                             |
+|   **Atores**   | [Usuário](../Lexico/lexico.md#usuario).                             |
+|  **Recursos**  | Acesso à internet, smartphone.                             |
+| **Episódios**  | 1. O [usuário](../Lexico/lexico.md#usuario) navega até [perfil](../Lexico/lexico.md#perfil). <br> 2. O [usuário](../Lexico/lexico.md#usuario) clica em [Estatísticas](../Lexico/lexico.md#estatisticas). <br> 3. O [usuário](../Lexico/lexico.md#usuario) clica na aba de [filmes](../Lexico/lexico.md#filme). <br> 4. O [usuário](../Lexico/lexico.md#usuario) visualiza os principais [gêneros](../Lexico/lexico.md#genero) de [filmes](../Lexico/lexico.md#filme) vistos.                             |
+|  **Exceções**  | Perda de conexão com a internet. <br> O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução. <br> O [usuário](../Lexico/lexico.md#usuario) não está logado. |
+
+### Acessar [emblemas](../Lexico/lexico.md#emblema) {#cen30}
+
+|   **Titulo**   | Acessar [emblemas](../Lexico/lexico.md#emblema)                             |
+| :------------: | ---------------------------- |
+|  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) acessar os [emblemas](../Lexico/lexico.md#emblema) que conquistou.                             |
+|  **Contexto**  | O [usuário](../Lexico/lexico.md#usuario) está logado.                             |
+|   **Atores**   | [Usuário](../Lexico/lexico.md#usuario).                             |
+|  **Recursos**  | Acesso à internet, smartphone.                             |
+| **Episódios**  | 1. O [usuário](../Lexico/lexico.md#usuario) navega até [perfil](../Lexico/lexico.md#perfil). <br> 2. O [usuário](../Lexico/lexico.md#usuario) clica em [Estatísticas](../Lexico/lexico.md#estatisticas). <br> 3. O [usuário](../Lexico/lexico.md#usuario) clica em [séries](../Lexico/lexico.md#serie).  <br> 4. O [usuário](../Lexico/lexico.md#usuario) navega até "[Emblemas](../Lexico/lexico.md#emblema) relacionados ao app". <br> 5. O [usuário](../Lexico/lexico.md#usuario) visualiza [emblemas](../Lexico/lexico.md#emblema) relacionados a assistir, avaliações, [comentários](../Lexico/lexico.md#comentario) e [seguidores](../Lexico/lexico.md#seguidores). <br> 6. O [usuário](../Lexico/lexico.md#usuario) clica em um [emblema](../Lexico/lexico.md#emblema).                            |
+|  **Exceções**  | Perda de conexão com a internet. <br> O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução. <br> O [usuário](../Lexico/lexico.md#usuario) não está logado. <br> O [usuário](../Lexico/lexico.md#usuario) não possui emblemas. |
+
+### Compartilhar [emblemas](../Lexico/lexico.md#emblema) {#cen31}
+
+|   **Titulo**   | Compartilhar [emblemas](../Lexico/lexico.md#emblema)                             |
+| :------------: | ---------------------------- |
+|  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) compartilhar um [emblema](../Lexico/lexico.md#emblema) conquistado.                             |
+|  **Contexto**  | O [usuário](../Lexico/lexico.md#usuario) está logado.                             |
+|   **Atores**   | [Usuário](../Lexico/lexico.md#usuario).                             |
+|  **Recursos**  | Acesso à internet, smartphone.                             |
+| **Episódios**  | 1. O [usuário](../Lexico/lexico.md#usuario) navega até [perfil](../Lexico/lexico.md#perfil). <br> 2. O [usuário](../Lexico/lexico.md#usuario) clica em [Estatísticas](../Lexico/lexico.md#estatisticas). <br> 3. O [usuário](../Lexico/lexico.md#usuario) clica em [séries](../Lexico/lexico.md#serie).  <br> 4. O [usuário](../Lexico/lexico.md#usuario) navega até "[Emblemas](../Lexico/lexico.md#emblema) relacionados ao app". <br> 5. O [usuário](../Lexico/lexico.md#usuario) clica em um [emblema](../Lexico/lexico.md#emblema). <br> 6. O [usuário](../Lexico/lexico.md#usuario) clica em compartilhar.                            |
+|  **Exceções**  | Perda de conexão com a internet. <br> O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução. <br> O [usuário](../Lexico/lexico.md#usuario) não está logado. <br> O [usuário](../Lexico/lexico.md#usuario) não possui emblemas. |
+
+### Visualizar total de [séries](../Lexico/lexico.md#serie) adicionadas {#cen32}
+
+|   **Titulo**   | Visualizar total de [séries](../Lexico/lexico.md#serie) adicionadas                             |
+| :------------: | ---------------------------- |
+|  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) visualizar o total de [séries](../Lexico/lexico.md#serie) adicionadas.                             |
+|  **Contexto**  | O [usuário](../Lexico/lexico.md#usuario) está logado.                             |
+|   **Atores**   | [Usuário](../Lexico/lexico.md#usuario).                             |
+|  **Recursos**  | Acesso à internet, smartphone.                             |
+| **Episódios**  | 1. O [usuário](../Lexico/lexico.md#usuario) navega até [perfil](../Lexico/lexico.md#perfil). <br> 2. O [usuário](../Lexico/lexico.md#usuario) clica em [Estatísticas](../Lexico/lexico.md#estatisticas). <br> 3. O [usuário](../Lexico/lexico.md#usuario) clica na aba de [séries](../Lexico/lexico.md#serie). <br> 4. O [usuário](../Lexico/lexico.md#usuario) visualiza o total de [séries](../Lexico/lexico.md#serie) adicionadas.                             |
+|  **Exceções**  | Perda de conexão com a internet. <br> O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução. <br> O [usuário](../Lexico/lexico.md#usuario) não está logado. |
+
+### Visualizar total de [avaliações](../Lexico/lexico.md#avaliacao) feitas {#cen33}
+
+|   **Titulo**   | Visualizar total de avaliações feitas                             |
+| :------------: | ---------------------------- |
+|  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) visualizar o total de [avaliações](../Lexico/lexico.md#avaliacao) feitas.                             |
+|  **Contexto**  | O [usuário](../Lexico/lexico.md#usuario) está logado.                             |
+|   **Atores**   | [Usuário](../Lexico/lexico.md#usuario).                             |
+|  **Recursos**  | Acesso à internet, smartphone.                             |
+| **Episódios**  | 1. O [usuário](../Lexico/lexico.md#usuario) navega até [perfil](../Lexico/lexico.md#perfil). <br> 2. O [usuário](../Lexico/lexico.md#usuario) clica em [Estatísticas](../Lexico/lexico.md#estatisticas). <br> 3. O [usuário](../Lexico/lexico.md#usuario) navega até [avaliações](../Lexico/lexico.md#avaliacao) feitas. <br> 4. O [usuário](../Lexico/lexico.md#usuario) visualiza o total de [avaliações](../Lexico/lexico.md#avaliacao) feitas.                             |
+|  **Exceções**  | Perda de conexão com a internet. <br> O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução. <br> O [usuário](../Lexico/lexico.md#usuario) não está logado. |
+
+### Visualizar informações sobre um [ator](../Lexico/lexico.md#ator) {#cen34}
+
+|   **Titulo**   | Visualizar informações sobre um [Ator](../Lexico/lexico.md#ator)                             |
+| :------------: | ---------------------------- |
+|  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) visualizar informações sobre um [Ator](../Lexico/lexico.md#ator) específico.                             |
+|  **Contexto**  | O [usuário](../Lexico/lexico.md#usuario) está logado.                             |
+|   **Atores**   | [Usuário](../Lexico/lexico.md#usuario).                             |
+|  **Recursos**  | Acesso à internet, smartphone.                             |
+| **Episódios**  | 1. O [usuário](../Lexico/lexico.md#usuario) navega até a aba de [perfil](../Lexico/lexico.md#perfil). <br> 2. O [usuário](../Lexico/lexico.md#usuario) clica em uma [série](../Lexico/lexico.md#serie) ou [filme](../Lexico/lexico.md#filme). <br> 3. O [usuário](../Lexico/lexico.md#usuario) clica em um [ator](../Lexico/lexico.md#ator) presente no [elenco](../Lexico/lexico.md#elenco). <br> 4. O [usuário](../Lexico/lexico.md#usuario) visualiza informações sobre o [ator](../Lexico/lexico.md#ator) específico.                             |
+|  **Exceções**  | Perda de conexão com a internet. <br> O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução. <br> O [usuário](../Lexico/lexico.md#usuario) não está logado. |
+
+### Visualizar [filmes](../Lexico/lexico.md#filme) e [séries](../Lexico/lexico.md#serie) trabalhados por um [ator](../Lexico/lexico.md#ator) {#cen35}
+
+|   **Titulo**   | Visualizar [filmes](../Lexico/lexico.md#filme) e [séries](../Lexico/lexico.md#serie) trabalhados por um [ator](../Lexico/lexico.md#ator)                             |
+| :------------: | ---------------------------- |
+|  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) visualizar [filmes](../Lexico/lexico.md#filme) e [séries](../Lexico/lexico.md#serie) trabalhados por um [ator](../Lexico/lexico.md#ator) específico.                             |
+|  **Contexto**  | O [usuário](../Lexico/lexico.md#usuario) está logado.                             |
+|   **Atores**   | [Usuário](../Lexico/lexico.md#usuario).                             |
+|  **Recursos**  | Acesso à internet, smartphone.                             |
+| **Episódios**  | 1. O [usuário](../Lexico/lexico.md#usuario) navega até a aba de [perfil](../Lexico/lexico.md#perfil). <br> 2. O [usuário](../Lexico/lexico.md#usuario) clica em uma [série](../Lexico/lexico.md#serie) ou [filme](../Lexico/lexico.md#filme). <br> 3. O [usuário](../Lexico/lexico.md#usuario) clica em um [ator](../Lexico/lexico.md#ator) presente no [elenco](../Lexico/lexico.md#elenco). <br> 4. O [usuário](../Lexico/lexico.md#usuario) navega até a [filmografia](../Lexico/lexico.md#filmografia) do [ator](../Lexico/lexico.md#ator). <br> 5. O [usuário](../Lexico/lexico.md#usuario) visualiza [filmes](../Lexico/lexico.md#filme) e [séries](../Lexico/lexico.md#serie) trabalhados pelo [ator](../Lexico/lexico.md#ator) específico.                             |
+|  **Exceções**  | Perda de conexão com a internet. <br> O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução. <br> O [usuário](../Lexico/lexico.md#usuario) não está logado. |
+
+### Filtrar [filmografia](../Lexico/lexico.md#filmografia) de um [ator](../Lexico/lexico.md#ator) {#cen36}
+
+|   **Titulo**   | Filtrar [filmografia](../Lexico/lexico.md#filmografia) de um [ator](../Lexico/lexico.md#ator)                             |
+| :------------: | ---------------------------- |
+|  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) filtrar a [filmografia](../Lexico/lexico.md#filmografia) de um [ator](../Lexico/lexico.md#ator) específico.                             |
+|  **Contexto**  | O [usuário](../Lexico/lexico.md#usuario) está logado.                             |
+|   **Atores**   | [Usuário](../Lexico/lexico.md#usuario).                             |
+|  **Recursos**  | Acesso à internet, smartphone.                             |
+| **Episódios**  | 1. O [usuário](../Lexico/lexico.md#usuario) navega até a aba de [perfil](../Lexico/lexico.md#perfil). <br> 2. O [usuário](../Lexico/lexico.md#usuario) clica em uma [série](../Lexico/lexico.md#serie) ou [filme](../Lexico/lexico.md#filme). <br> 3. O [usuário](../Lexico/lexico.md#usuario) clica em um [ator](../Lexico/lexico.md#ator) presente no [elenco](../Lexico/lexico.md#elenco). <br> 4. O [usuário](../Lexico/lexico.md#usuario) navega até a [filmografia](../Lexico/lexico.md#filmografia) do [ator](../Lexico/lexico.md#ator). <br> 5. O [usuário](../Lexico/lexico.md#usuario) clica em "[Séries](../Lexico/lexico.md#series) e [filmes](../Lexico/lexico.md#filme)" ou "[Séries](../Lexico/lexico.md#series)" ou "[Filmes](../Lexico/lexico.md#filme)". <br> 6. O [usuário](../Lexico/lexico.md#usuario) visualiza a [filmografia](../Lexico/lexico.md#filmografia) filtrada.                             |
+|  **Exceções**  | Perda de conexão com a internet. <br> O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução. <br> O [usuário](../Lexico/lexico.md#usuario) não está logado. |
+
+## Acessar as redes sociais de um [ator](../Lexico/lexico.md#ator) {#cen37}
+
+|   **Titulo**   | Acessar as redes sociais de um [ator](../Lexico/lexico.md#ator)                             |
+| :------------: | ---------------------------- |
+|  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) acessar as redes sociais de um [ator](../Lexico/lexico.md#ator) específico.                             |
+|  **Contexto**  | O [usuário](../Lexico/lexico.md#usuario) está logado.                             |
+|   **Atores**   | [Usuário](../Lexico/lexico.md#usuario).                             |
+|  **Recursos**  | Acesso à internet, smartphone.                             |
+| **Episódios**  | 1. O [usuário](../Lexico/lexico.md#usuario) navega até a aba de [perfil](../Lexico/lexico.md#perfil). <br> 2. O [usuário](../Lexico/lexico.md#usuario) clica em uma [série](../Lexico/lexico.md#serie) ou [filme](../Lexico/lexico.md#filme). <br> 3. O [usuário](../Lexico/lexico.md#usuario) clica em um [ator](../Lexico/lexico.md#ator) presente no [elenco](../Lexico/lexico.md#elenco). <br> 4. O [usuário](../Lexico/lexico.md#usuario) clica em uma das redes sociais disponíveis do [ator](../Lexico/lexico.md#ator).                             |
+|  **Exceções**  | Perda de conexão com a internet. <br> O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução. <br> O [usuário](../Lexico/lexico.md#usuario) não está logado. |
+
+### Visualizar total de [seguidores](../Lexico/lexico.md#segudiores) e [comentários](../Lexico/lexico.md#comentario) {#cen38}
+
+|   **Titulo**   | Visualizar total de [seguidores](../Lexico/lexico.md#seguidores) e [comentários](../Lexico/lexico.md#comentario)                             |
+| :------------: | ---------------------------- |
+|  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) visualizar o total de [seguidores](../Lexico/lexico.md#seguidores) e [comentários](../Lexico/lexico.md#comentario) feitos em suas [avaliações](../Lexico/lexico.md#avaliacao).                             |
+|  **Contexto**  | O [usuário](../Lexico/lexico.md#usuario) está logado.                             |
+|   **Atores**   | [Usuário](../Lexico/lexico.md#usuario).                             |
+|  **Recursos**  | Acesso à internet, smartphone.                             |
+| **Episódios**  | 1. O [usuário](../Lexico/lexico.md#usuario) navega até a aba de [perfil](../Lexico/lexico.md#perfil). <br> 2. O [usuário](../Lexico/lexico.md#usuario) visualiza o total de [seguidores](../Lexico/lexico.md#seguidores) que o segue, total de [seguidores](../Lexico/lexico.md#seguidores) que segue e total de [comentários](../Lexico/lexico.md#comentarios).                             |
+|  **Exceções**  | Perda de conexão com a internet. <br> O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução. <br> O [usuário](../Lexico/lexico.md#usuario) não está logado. |
+
+### Visualizar quem segue o [usuário](../Lexico/lexico.md#usuario) {#cen39}
+
+|   **Titulo**   | Visualizar quem segue o [usuário](../Lexico/lexico.md#usuario)                             |
+| :------------: | ---------------------------- |
+|  **Objetivo**  | O [usuário](../Lexico/lexico.md#usuario) visualizar quem segue ele.                             |
+|  **Contexto**  | O [usuário](../Lexico/lexico.md#usuario) está logado.                             |
+|   **Atores**   | [Usuário](../Lexico/lexico.md#usuario).                             |
+|  **Recursos**  | Acesso à internet, smartphone.                             |
+| **Episódios**  | 1. O [usuário](../Lexico/lexico.md#usuario) navega até a aba de [perfil](../Lexico/lexico.md#perfil). <br> 2. O [usuário](../Lexico/lexico.md#usuario) clica em [seguidores](../Lexico/lexico.md#seguidores).                             |
 |  **Exceções**  | Perda de conexão com a internet. <br> O [usuário](../Lexico/lexico.md#usuario) interrompe o fluxo de execução. <br> O [usuário](../Lexico/lexico.md#usuario) não está logado. |

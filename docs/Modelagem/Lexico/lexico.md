@@ -135,6 +135,9 @@ A elaboração deste documento foi fundamentada na coleta e análise de requisit
 | **Noção** | Página pessoal do [usuário](#usuario) no TV Time, exibindo sua foto, capa, número de seguidores e seguidos, comentários feitos, tempo assistindo [séries](#serie) e [filmes](#filme), número de [episódios](#episodio) e [filmes](#filme) assistidos, [listas personalizadas](#lista-personalizada), [lista geral](#lista-geral), e [favoritos](#favorito). |
 | **Impacto** | - O [usuário](#usuario) pode visualizar e gerenciar suas atividades e preferências no [perfil](#perfil).<br>- O [perfil](#perfil) apresenta um resumo das interações do [usuário](#usuario) com o conteúdo, incluindo o tempo dedicado e os [favoritos](#favorito).<br>- Permite que outros [usuários](#usuario) vejam as preferências e atividades do [usuário](#usuario).<br>- O [perfil](#perfil) é o local onde os [comentários](#comentario) do [usuário](#usuario) são exibidos, possibilitando a interação com outros [usuários](#usuario).<br>- As estatísticas de visualização, como o tempo total assistido e o número de [episódios](#episodio) e [filmes](#filme) assistidos, são mostradas, fornecendo uma visão geral da atividade do [usuário](#usuario). |
 
+---
+
+### Avaliação
 
 ---
 | Nome     | Avaliação  |
