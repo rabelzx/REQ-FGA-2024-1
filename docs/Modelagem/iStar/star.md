@@ -24,7 +24,7 @@ Note que ambas as duplas se responsabilizaram pela montagem do SR da aplicação
 > Autores: Wolfgang e Paulo. [Referência](../../Atas/reuniao_29_08.md)
 
 
-# SR do TV time
+# SR do TV time - primeira dupla
 
 ![SR do TVtime](../../images/modelagem/iStar/SRTvTimeV1.png)
 
@@ -43,7 +43,7 @@ Note que ambas as duplas se responsabilizaram pela montagem do SR da aplicação
 
 > Autores: Danilo e Eric e Sunamita. [Referência](../../Atas/reuniao_29_08.md)
 
-# SR TV Time
+# SR TV Time - segunda dupla
 
 ![SR do TVtime](../../images/modelagem/iStar/SRTvtimev1_s.png)
 

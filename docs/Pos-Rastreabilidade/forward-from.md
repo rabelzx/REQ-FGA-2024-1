@@ -6,6 +6,15 @@
 | 08/09/2024 | Paulo Henrique Melo de Souza | Adição dos RF01 ao RF15 | 1.1     |
 | 09/09/2024 | Eric Rabelo Borges | Adição dos RF16 ao RF20 | 1.2     |
 | 09/09/2024 | Eric Rabelo Borges | Adição dos RF21 ao RF30 | 1.3     |
+| 09/09/2024 | Paulo Henrique Melo de Souza | Adicionando introdução e objetivo | 1.4     |
+
+## Introdução
+
+Semelhante ao [backward-from](backward-from.md), o forward-from é um documento que visa facilitar a navegação entre os requisitos funcionais e as histórias de usuário até sua implementação. rastreia os requisitos funcionais até as técnicas de elicitação e análise que os originaram, o forward-from faz o caminho inverso. Ele parte das histórias de usuário e chega nos requisitos funcionais, mostrando como cada história de usuário é implementada no sistema.
+
+## Objetivo
+
+O objetivo deste documento é fornecer um guia para a navegação entre as histórias de usuário e os requisitos funcionais do sistema, mostrando como cada história de usuário é implementada no sistema. Note que, para facilitar a visualização, cada requisito funcional é apresentado em um detalhamento, com a história de usuário, caso de uso, cenário e funcionalidade associados. Segue abaixo a lista de requisitos funcionais do sistema.
 
 <details>
   <summary> [Nome do Requisito]</summary>
