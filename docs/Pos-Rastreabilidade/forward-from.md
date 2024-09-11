@@ -18,36 +18,6 @@ Semelhante ao [backward-from](backward-from.md), o forward-from é um documento 
 O objetivo deste documento é fornecer um guia para a navegação entre as histórias de usuário e os requisitos funcionais do sistema, mostrando como cada história de usuário é implementada no sistema. Note que, para facilitar a visualização, cada requisito funcional é apresentado em um detalhamento, com a história de usuário, caso de uso, cenário e funcionalidade associados. Segue abaixo a lista de requisitos funcionais do sistema.
 
 <details>
-  <summary> [Nome do Requisito]</summary>
-  <table>
-    <thead>
-      <tr>
-        <td>Tema</td>
-        <td>[Nome do Épico]</td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>História de usuário</td>
-        <td><a href="">[História de Usuário]</a></td>
-      </tr>
-      <tr>
-        <td>Caso de Uso</td>
-        <td><a href="">[Caso de Uso]</a></td>
-      </tr>
-      <tr>
-        <td>Cenário</td>
-        <td><a href="">[Cenário]</a></td>
-      </tr>
-      <tr>
-        <td>Funcionalidade</td>
-        <td><img src=></td>
-      </tr>
-    </tbody>
-  </table>
-</details>
-
-<details>
   <summary> RF01 - 	O sistema deve permitir que o usuário marque episódios como assistidos </summary>
   <table>
     <thead>
