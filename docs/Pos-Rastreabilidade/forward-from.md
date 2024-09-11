@@ -5,6 +5,7 @@
 | 08/09/2024 | Paulo Henrique Melo de Souza | Criação do documento Forward-From | 1.0     |
 | 08/09/2024 | Paulo Henrique Melo de Souza | Adição dos RF01 ao RF15 | 1.1     |
 | 09/09/2024 | Eric Rabelo Borges | Adição dos RF16 ao RF20 | 1.2     |
+| 09/09/2024 | Eric Rabelo Borges | Adição dos RF21 ao RF30 | 1.3     |
 
 <details>
   <summary> [Nome do Requisito]</summary>
@@ -627,6 +628,306 @@
       <tr>
         <td>Funcionalidade</td>
         <td><img src="../../images/forward-from/SCR20.jpeg" alt="SCR20"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF21 - O sistema deve permitir que o usuário acesse um único comentário em específico. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Gerência de perfil</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U21">US21</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR21.jpeg" alt="SCR21"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF22 - O usuário deve ser capaz de adicionar uma foto de perfil. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Gerência de perfil</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U22">US22</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/CasosUsos/espCasosUsos/#UC06">UC06</a></td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen10">CEN10</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR22.png" alt="SCR22"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF23 - O usuário deve ser capaz de adicionar uma foto de capa ao perfil. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Gerência de perfil</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U23">US23</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/CasosUsos/espCasosUsos/#UC06">UC06</a></td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen10">CEN10</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR23.png" alt="SCR23"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF24 - O usuário poderá trocar seu nome de exibição para outros usuários. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Gerência de perfil</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U24">US24</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/CasosUsos/espCasosUsos/#UC06">UC06</a></td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR24.png" alt="SCR24"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF25 - O usuário deve ser capaz de editar suas informações pessoais. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Gerência de perfil</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U25">US25</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/CasosUsos/espCasosUsos/#UC06">UC06</a></td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR25.png" alt="SCR25"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF26 - O sistema deve computar o tempo gasto do usuário assistindo filmes ou séries. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Interação de perfil</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U26">US26</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen27">CEN27</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR26.jpeg" alt="SCR26"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF27 - O sistema deve computar a quantidade de episódios vistos pelo usuário. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Interação de perfil</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U27">US27</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen27">CEN27</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR27.jpeg" alt="SCR27"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF28 - O sistema deve computar a quantidade de filmes vistos pelo usuário. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Interação de perfil</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U28">US28</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen27">CEN27</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR28.jpeg" alt="SCR28"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF29 - O usuário deve ser capaz de criar novas listas. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Personalização de listas</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U29">US29</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen11">CEN11</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR29.jpeg" alt="SCR29"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF30 - O usuário deve conseguir adicionar um nome e descrição à nova lista. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Personalização de listas</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U30">US30</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen12">CEN12</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR30.jpeg" alt="SCR30"></td>
       </tr>
     </tbody>
   </table>
