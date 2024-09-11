@@ -1382,3 +1382,575 @@
     </tbody>
   </table>
 </details>
+
+<details>
+  <summary> RF46 - O sistema deve permitir que o usuário selecione o idioma preferencial para exibição dos comentários, exibindo primeiro os comentários no idioma escolhido.  </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Configuração de conta</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U45">US45</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen21">CEN21</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF47 - O usuário deve ser capaz de escolher entre tema claro ou escuro, com a possibilidade de alternar a qualquer momento. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Configuração de conta</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U45">US45</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen23">CEN23</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF48 - O usuário deve ser capaz de limpar o cache de uso de memória do sistema. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Configuração de conta</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U45">US45</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen24">CEN24</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF49 -  O sistema deve permitir a filtragem de emissoras.  </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Configuração de conta</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U45">US45</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen25">CEN25</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF50 - O usuário deve ser capaz de ocultar episódios já assistidos.</summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Configuração de conta</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U45">US45</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen15">CEN15</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+
+
+<details>
+  <summary> RF51 - O usuário deve ser capaz de comparar o tempo gasto vendo shows com outros usuários. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Configuração de conta</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U45">US45</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen26">CEN26</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF52 -O sistema deve mostrar um gráfico contendo o tempo gasto assistindo shows. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Configuração de conta</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U45">US45</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen27">CEN27</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF53 - O sistema deve computar as principais emissoras vistas pelo usuário.  </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Configuração de conta</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U45">US45</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen25">CEN25</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF54 - O sistema deve computar os gêneros de shows consumidos pelo usuário.</summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Configuração de conta</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U45">US45</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen29">CEN29</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF55 - O sistema deve listas as conquistas do usuário. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Configuração de conta</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U45">US45</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen30">CEN30</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF56 -  O usuário deve ser capaz de compartilhar suas conquistas para fora do sistema.   </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Configuração de conta</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U45">US45</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen31">CEN31</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF57 -  O sistema deve filtrar as conquistas relacionadas à conteúdo visto, avaliações, comentários e seguidores. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Configuração de conta</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U45">US45</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen30">CEN30</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF58 - O sistema só pode se conectar com redes sociais habilitadas no país em questão</summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Configuração de conta</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U45">US45</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen18">CEN18</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF59 - O sistema deve computar a quantidade de shows adicionados pelo usuário. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Configuração de conta</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U45">US45</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen32">CEN32</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF60 - O sistema deve computar as avaliações do usuário. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Configuração de conta</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U45">US45</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen33">CEN33</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF61 - O sistema deve permitir que o usuário visualize informações detalhadas sobre um ator ao clicar em seu nome na seção de elenco. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Configuração de conta</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U45">US45</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen34">CEN34</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF62 - O sistema deve exibir todos os filmes e séries em que o ator trabalhou na página do ator. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Configuração de conta</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U45">US45</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen35">CEN35</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF63 - O sistema deve permitir que o usuário filtre a filmografia do ator em "Séries", "Filmes" ou "Séries e Filmes". </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Configuração de conta</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U45">US45</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen36">CEN36</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF64 - O sistema deve permitir que o usuário acesse as redes sociais do ator, assim como o link para sua wikipédia. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Configuração de conta</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U45">US45</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen37">CEN37</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
