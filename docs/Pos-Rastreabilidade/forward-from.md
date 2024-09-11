@@ -1407,7 +1407,7 @@
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+        <td><img src="../../images/forward-from/SCR46.png" alt="SCR45"></td>
       </tr>
     </tbody>
   </table>
