@@ -1446,7 +1446,7 @@ O objetivo deste documento é fornecer um guia para a navegação entre as hist�
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+        <td><img src="../../images/forward-from/SCR47.png" alt="SCR45"></td>
       </tr>
     </tbody>
   </table>
@@ -1476,7 +1476,7 @@ O objetivo deste documento é fornecer um guia para a navegação entre as hist�
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+        <td><img src="../../images/forward-from/SCR48.png" alt="SCR45"></td>
       </tr>
     </tbody>
   </table>
@@ -1506,7 +1506,7 @@ O objetivo deste documento é fornecer um guia para a navegação entre as hist�
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+        <td><img src="../../images/forward-from/SCR49.png" alt="SCR45"></td>
       </tr>
     </tbody>
   </table>
@@ -1536,7 +1536,7 @@ O objetivo deste documento é fornecer um guia para a navegação entre as hist�
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+        <td><img src="../../images/forward-from/SCR50.png" alt="SCR45"></td>
       </tr>
     </tbody>
   </table>
@@ -1568,7 +1568,7 @@ O objetivo deste documento é fornecer um guia para a navegação entre as hist�
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+        <td><img src="../../images/forward-from/SCR51.png" alt="SCR45"></td>
       </tr>
     </tbody>
   </table>
@@ -1598,7 +1598,7 @@ O objetivo deste documento é fornecer um guia para a navegação entre as hist�
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+        <td><img src="../../images/forward-from/SCR52.png" alt="SCR45"></td>
       </tr>
     </tbody>
   </table>
@@ -1628,7 +1628,7 @@ O objetivo deste documento é fornecer um guia para a navegação entre as hist�
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+        <td><img src="../../images/forward-from/SCR53.png" alt="SCR45"></td>
       </tr>
     </tbody>
   </table>
@@ -1658,7 +1658,7 @@ O objetivo deste documento é fornecer um guia para a navegação entre as hist�
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+        <td><img src="../../images/forward-from/SCR54.png" alt="SCR45"></td>
       </tr>
     </tbody>
   </table>
@@ -1688,7 +1688,7 @@ O objetivo deste documento é fornecer um guia para a navegação entre as hist�
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+        <td><img src="../../images/forward-from/SCR55.png" alt="SCR45"></td>
       </tr>
     </tbody>
   </table>
@@ -1718,7 +1718,7 @@ O objetivo deste documento é fornecer um guia para a navegação entre as hist�
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+        <td><img src="../../images/forward-from/SCR56.png" alt="SCR45"></td>
       </tr>
     </tbody>
   </table>
@@ -1748,7 +1748,7 @@ O objetivo deste documento é fornecer um guia para a navegação entre as hist�
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+        <td><img src="../../images/forward-from/SCR57.png" alt="SCR45"></td>
       </tr>
     </tbody>
   </table>
@@ -1778,7 +1778,7 @@ O objetivo deste documento é fornecer um guia para a navegação entre as hist�
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+        <td><img src="../../images/forward-from/SCR58.png" alt="SCR45"></td>
       </tr>
     </tbody>
   </table>
@@ -1808,7 +1808,7 @@ O objetivo deste documento é fornecer um guia para a navegação entre as hist�
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+        <td><img src="../../images/forward-from/SCR59.png" alt="SCR45"></td>
       </tr>
     </tbody>
   </table>
@@ -1838,7 +1838,7 @@ O objetivo deste documento é fornecer um guia para a navegação entre as hist�
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+        <td><img src="../../images/forward-from/SCR60.png" alt="SCR45"></td>
       </tr>
     </tbody>
   </table>
@@ -1868,7 +1868,7 @@ O objetivo deste documento é fornecer um guia para a navegação entre as hist�
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+        <td><img src="../../images/forward-from/SCR61.png" alt="SCR45"></td>
       </tr>
     </tbody>
   </table>
@@ -1898,7 +1898,7 @@ O objetivo deste documento é fornecer um guia para a navegação entre as hist�
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+        <td><img src="../../images/forward-from/SCR62.png" alt="SCR45"></td>
       </tr>
     </tbody>
   </table>
@@ -1928,7 +1928,7 @@ O objetivo deste documento é fornecer um guia para a navegação entre as hist�
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+        <td><img src="../../images/forward-from/SCR63.png" alt="SCR45"></td>
       </tr>
     </tbody>
   </table>
@@ -1958,7 +1958,7 @@ O objetivo deste documento é fornecer um guia para a navegação entre as hist�
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+        <td><img src="../../images/forward-from/SCR64.png" alt="SCR45"></td>
       </tr>
     </tbody>
   </table>
