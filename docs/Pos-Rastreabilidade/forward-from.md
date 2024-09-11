@@ -932,3 +932,453 @@
     </tbody>
   </table>
 </details>
+
+<details>
+  <summary> RF31 - O sistema deve permitir que o usuário deixe a lista oculta para outros usuários. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Personalização de listas</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#US31">US31</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen19">CEN19</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR31.svg" alt="SCR31"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF32 - O sistema deve permitir que o usuário adicione filmes ou séries à lista existente. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Personalização de listas</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#US32">US32</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen12">CEN12</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR32.svg" alt="SCR32"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF33 - O sistema deve permitir que o usuário acesse suas listas existentes. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Personalização de listas</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#US33">US33</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR33.svg" alt="SCR33"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF34 - O sistema deve permitir que o usuário atualize uma lista existente. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Personalização de listas</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#US34">US34</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen12">CEN12</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR34.svg" alt="SCR34"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF35 - O sistema deve permitir que o usuário exclua uma lista. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Personalização de listas</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U35">US35</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen13">CEN13</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR35.svg" alt="SCR35"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF36 - O usuário deve ser capaz de acessar suas séries/filmes selecionadas. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Gestão de shows</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U36">US36</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen16">CEN16</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR36.svg" alt="SCR36"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF37 - O sistema deve permitir que o usuário separe entre séries/filmes vistas e não vistas. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Gestão de shows</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U37">US37</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen15">CEN15</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR37.svg" alt="SCR37"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF38 - O usuário deve ser capaz de localizar filmes/séries por meio de um filtro. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Gestão de shows</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U38">US38</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen16">CEN16</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR38.svg" alt="SCR38"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF39 - O sistema deve permitir o compartilhamento da lista de séries/filmes favoritos para redes sociais vizinhas. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Gestão de shows 	</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#US39">US39</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen14">CEN14</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR39.svg" alt="SCR39"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF40 - O sistema deve permitir o usuário alterar sua senha de acesso. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Configuração de conta</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#US40">US40</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen17">CEN17</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR40.svg" alt="SCR40"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF41 - O usuário poderá vincular/desvincular sua conta a outras redes sociais. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Configuração de conta</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#US41">US41</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen18">CEN18</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR41.svg" alt="SCR41"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF42 - O sistema deve permitir que o usuário torne sua conta privada. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Configuração de conta</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U42">US42</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen19">CEN19</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR42.svg" alt="SCR42"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF43 - O sistema deve permitir que o usuário exclua permanentemente sua conta. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Configuração de conta</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#US43">US43</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR43.svg" alt="SCR43"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF44 - O usuário deve ser capaz de sair de sua conta. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Configuração de conta</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U44">US44</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen19">CEN19</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR44.svg" alt="SCR44"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary> RF45 - O sistema deve permitir que o usuário escolha o idioma da exibição dos títulos do filmes/séries. </summary>
+  <table>
+    <thead>
+      <tr>
+        <td>Tema</td>
+        <td>Configuração de conta</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Agil/Backlog/#U45">US45</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://rabelzx.github.io/REQ-FGA-2024-1/Modelagem/Cenarios/cenarios/#cen21">CEN21</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td><img src="../../images/forward-from/SCR45.svg" alt="SCR45"></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
