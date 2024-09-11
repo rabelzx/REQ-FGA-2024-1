@@ -7,6 +7,7 @@
 | 09/09/2024 | Eric Rabelo Borges | Adição dos RF16 ao RF20 | 1.2     |
 | 09/09/2024 | Eric Rabelo Borges | Adição dos RF21 ao RF30 | 1.3     |
 | 09/09/2024 | Paulo Henrique Melo de Souza | Adicionando introdução e objetivo | 1.4     |
+| 09/09/2024 | Wolfgang Friedrich Stein | Adicionando RF 46 ao RF64 | 1.5     |
 
 ## Introdução
 
