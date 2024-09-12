@@ -5,9 +5,10 @@
 | 08/09/2024 | Paulo Henrique Melo de Souza | Criação do documento Forward-From | 1.0     |
 | 08/09/2024 | Paulo Henrique Melo de Souza | Adição dos RF01 ao RF15 | 1.1     |
 | 09/09/2024 | Eric Rabelo Borges | Adição dos RF16 ao RF20 | 1.2     |
-| 09/09/2024 | Eric Rabelo Borges | Adição dos RF21 ao RF30 | 1.3     |
-| 09/09/2024 | Paulo Henrique Melo de Souza | Adicionando introdução e objetivo | 1.4     |
-| 09/09/2024 | Wolfgang Friedrich Stein | Adicionando RF 46 ao RF64 | 1.5     |
+| 11/09/2024 | Eric Rabelo Borges | Adição dos RF21 ao RF30 | 1.3     |
+| 11/09/2024 | Paulo Henrique Melo de Souza | Adicionando introdução e objetivo | 1.4     |
+| 11/09/2024 | Danilo Naves Do Nascimento | Adicionando RF31 ao RF45 | 1.5 |
+| 11/09/2024 | Wolfgang Friedrich Stein | Adicionando RF 46 ao RF64 | 1.6  |
 
 ## Introdução
 
