@@ -1,0 +1,2705 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../../Cenarios/cenarios/">
+      
+      
+        <link rel="next" href="../../CasosUsos/casosUsos/">
+      
+      
+      <link rel="icon" href="../../../images/app_logo.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.34">
+    
+    
+      
+        <title>Léxico - TV Time - Docs</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.35f28582.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7Csans-serif:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"sans-serif"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="yellow" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#historico-de-revisao" class="md-skip">
+          Ir para o conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabeçalho">
+    <a href="../../.." title="TV Time - Docs" class="md-header__button md-logo" aria-label="TV Time - Docs" data-md-component="logo">
+      
+  <img src="../../../images/app_logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            TV Time - Docs
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Léxico
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="yellow" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="yellow" data-md-color-accent="indigo"  aria-label=""  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Pesquisar">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpar" aria-label="Limpar" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando a pesquisa
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/rabelzx/REQ-FGA-2024-1" title="Ir ao repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    TV Time
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Abas" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../.." class="md-tabs__link">
+        
+  
+    
+  
+  Início
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../Pre-rastreabilidade/richpicture/" class="md-tabs__link">
+          
+  
+  Pré-rastreabilidade
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../Elicitacao/elicitacao/" class="md-tabs__link">
+          
+  
+  Elicitação
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../../VisaoProduto/visao_produto/" class="md-tabs__link">
+          
+  
+  Modelagem
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../Analise/analise/" class="md-tabs__link">
+          
+  
+  Análise
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../Pos-Rastreabilidade/backward-from/" class="md-tabs__link">
+          
+  
+  Pós-Rastreabilidade
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../Atas/reuniao_23_07/" class="md-tabs__link">
+          
+  
+  Atas
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../Entregas/entregas/" class="md-tabs__link">
+        
+  
+    
+  
+  Entregas
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navegação" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="TV Time - Docs" class="md-nav__button md-logo" aria-label="TV Time - Docs" data-md-component="logo">
+      
+  <img src="../../../images/app_logo.png" alt="logo">
+
+    </a>
+    TV Time - Docs
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/rabelzx/REQ-FGA-2024-1" title="Ir ao repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    TV Time
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Início
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Pré-rastreabilidade
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Pré-rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Pre-rastreabilidade/richpicture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    RichPicture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Elicitação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Elicitação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicitacao/elicitacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sobre
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicitacao/brainstorm/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Brainstorming
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicitacao/observacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Observação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicitacao/analise/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Análise de Protocolo
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicitacao/requisitos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Requisitos Elicitados
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicitacao/priorizacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Priorização
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Modelagem
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Modelagem
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../VisaoProduto/visao_produto/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Visão do Produto
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Cenarios/cenarios/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cenários
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Léxico
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Léxico
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-revisao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Histórico de Revisão
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introdução
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#objetivo" class="md-nav__link">
+    <span class="md-ellipsis">
+      Objetivo
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Metodologia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lexicos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Léxicos
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Léxicos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#usuario" class="md-nav__link">
+    <span class="md-ellipsis">
+      Usuário
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lista-geral" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lista Geral
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lista-personalizada" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lista Personalizada
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lista-de-favoritos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lista de Favoritos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#favorito" class="md-nav__link">
+    <span class="md-ellipsis">
+      Favorito
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#filme" class="md-nav__link">
+    <span class="md-ellipsis">
+      Filme
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#serie" class="md-nav__link">
+    <span class="md-ellipsis">
+      Série
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#perfil" class="md-nav__link">
+    <span class="md-ellipsis">
+      Perfil
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#avaliacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Avaliação
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#episodio" class="md-nav__link">
+    <span class="md-ellipsis">
+      Episódio
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#reacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Reação
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#comentario" class="md-nav__link">
+    <span class="md-ellipsis">
+      Comentário
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#recomendacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Recomendação
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tv-time-score" class="md-nav__link">
+    <span class="md-ellipsis">
+      TV Time Score
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#favoritar" class="md-nav__link">
+    <span class="md-ellipsis">
+      Favoritar
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#estatisticas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Estatísticas
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#seguidores" class="md-nav__link">
+    <span class="md-ellipsis">
+      Seguidores
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#plataforma" class="md-nav__link">
+    <span class="md-ellipsis">
+      Plataforma
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#notificacoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Notificações
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#emblema" class="md-nav__link">
+    <span class="md-ellipsis">
+      Emblema
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#atividade-da-comunidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      Atividade da Comunidade
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ator" class="md-nav__link">
+    <span class="md-ellipsis">
+      Ator
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#elenco" class="md-nav__link">
+    <span class="md-ellipsis">
+      Elenco
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#filmografia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Filmografia
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../CasosUsos/casosUsos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Diagrama de Casos de Uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../CasosUsos/espCasosUsos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Especificação de Casos de Uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../EspecificacaoSuplementar/EspecificacaoSuplementar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Especificação Suplementar
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Agil/Backlog/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backlog do Produto
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Agil/SprintBacklog/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sprint Backlog
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../NFR/nfr/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    NFR Framework
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../iStar/star/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    iStar
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Análise
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Análise
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Analise/analise/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sobre
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Analise/cenariosAnalise/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Inspeção dos Cenários
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Analise/lexicosAnalises/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Inspeção dos Léxicos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Analise/visaoprodAnalise/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Inspeção Visão do Produto
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Analise/especifsupAnalise/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Inspeção Especificação Suplementar
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Analise/backlogAnalise/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Inspeção do Backlog do Produto
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Analise/sprintAnalise/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Inspeção do Sprint Backlog
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Analise/useCasesAnalise/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Inspeção dos Casos de Uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Analise/nfrAnalise/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Inspeção do NFR Framework
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Pós-Rastreabilidade
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Pós-Rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Pos-Rastreabilidade/backward-from/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backward-From
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Pos-Rastreabilidade/forward-from/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Forward-From
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Atas
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Atas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/reuniao_23_07/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dia 23/07
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/reuniao_25_07/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dia 25/07
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/reuniao_29_07/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dia 29/07
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/reuniao_30_07/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dia 30/07
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/reuniao_31_07/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dia 31/07
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/reuniao_06_08/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dia 06/08
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/reuniao_13_08/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dia 13/08
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/reuniao_15_08/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dia 15/08
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/reuniao_20_08/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dia 20/08
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/reuniao_29_08/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dia 29/08
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/reuniao_03_09/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dia 03/09
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/reuniao_11_09/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dia 11/09
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Entregas/entregas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entregas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+  <h1>Léxico</h1>
+
+<h2 id="historico-de-revisao">Histórico de Revisão</h2>
+<hr />
+<table>
+<thead>
+<tr>
+<th>Data</th>
+<th>Autor</th>
+<th>Descrição</th>
+<th>Versão</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>13/08/2024</td>
+<td>Eric Rabelo</td>
+<td>Criação do documento e do léxico "Usuário"</td>
+<td>1.0</td>
+</tr>
+<tr>
+<td>14/08/2024</td>
+<td>Eric Rabelo</td>
+<td>Inserção do léxico LEX02 até o léxico LEX10</td>
+<td>1.1</td>
+</tr>
+<tr>
+<td>15/08/2024</td>
+<td>Eric Rabelo</td>
+<td>Remoção dos léxicos: "Adicionar conteúdo" e "Marcar como assistido"; Inserção dos léxicos: Avaliação, Episódio, Reação, Comentário, Recomendação, TV Time Score, Favoritar, <a href="#estatisticas">estatísticas</a>, Seguidores e Plataforma; Adição de introdução, objetivo e metodoloia no documento</td>
+<td>2.0</td>
+</tr>
+<tr>
+<td>19/08/2027</td>
+<td>Eric Rabelo</td>
+<td>Inserção dos léxicos: 'Notificações', 'Emblema', 'Atividade da comunidade' e 'Lista de Favoritos'</td>
+<td>2.1</td>
+</tr>
+<tr>
+<td>19/08/2024</td>
+<td>Paulo Henrique</td>
+<td>Revisão do documento e correção de erros de formatação</td>
+<td>2.2</td>
+</tr>
+</tbody>
+</table>
+<h2 id="introducao">Introdução</h2>
+<hr />
+<p>A técnica de léxicos é empregada para garantir que todos os termos e conceitos críticos sejam claramente definidos e compreendidos, promovendo consistência e clareza no desenvolvimento e manutenção do sistema.</p>
+<h2 id="objetivo">Objetivo</h2>
+<hr />
+<p>O objetivo deste documento é estruturar e definir de forma clara e concisa os termos e conceitos fundamentais do TV Time, facilitando a comunicação e o entendimento entre todos os envolvidos no desenvolvimento e utilização da plataforma. Este léxico serve como uma referência para padronizar o uso dos termos, garantindo consistência e clareza nas funcionalidades do aplicativo, além de auxiliar na documentação e futuras implementações.</p>
+<h2 id="metodologia">Metodologia</h2>
+<hr />
+<p>A elaboração deste documento foi fundamentada na coleta e análise de requisitos por meio de técnicas de observação e análise de protocolos. Essas técnicas permitiram a identificação detalhada das necessidades e funcionalidades do sistema, possibilitando a definição precisa dos termos e conceitos essenciais.</p>
+<h2 id="lexicos">Léxicos</h2>
+<ul>
+<li><a href="#usuario">LEX01 - Usuário</a> </li>
+<li><a href="#lista-geral">LEX02 - Lista Geral</a></li>
+<li><a href="#lista-personalizada">LEX03 - Lista Personalizada</a></li>
+<li><a href="#lista-de-favoritos">LEX04 - Lista de Favoritos</a></li>
+<li><a href="#favorito">LEX05 - Favorito</a>   </li>
+<li><a href="#filme">LEX06 - Filme</a></li>
+<li><a href="#serie">LEX07 - Série</a></li>
+<li><a href="#perfil">LEX08 - Perfil</a></li>
+<li><a href="#avaliacao">LEX09 - Avaliação</a></li>
+<li><a href="#episodio">LEX10 - Episódio</a></li>
+<li><a href="#reacao">LEX11 - Reação</a></li>
+<li><a href="#comentario">LEX12 - Comentário</a></li>
+<li><a href="#recomendacao">LEX13 - Recomendação</a></li>
+<li><a href="#tv-time-score">LEX14 - TV Time Score</a></li>
+<li><a href="#favoritar">LEX15 - Favoritar</a></li>
+<li><a href="#estatisticas">LEX16 - Etatísticas</a></li>
+<li><a href="#seguidores">LEX17 - Seguidores</a></li>
+<li><a href="#plataforma">LEX18 - Plataforma</a></li>
+<li><a href="#notificacoes">LEX19 - Notificações</a></li>
+<li><a href="#emblema">LEX20 - Emblema</a></li>
+<li><a href="#atividade-da-comunidade">LEX21 - Atividade da Comunidade</a></li>
+<li><a href="#ator">LEX22 - Ator</a></li>
+<li><a href="#elenco">LEX23 - Elenco</a></li>
+<li><a href="#filmografia">LEX24 - Filmografia</a></li>
+</ul>
+<hr />
+<h3 id="usuario">Usuário</h3>
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Usuário</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Sujeito</td>
+</tr>
+<tr>
+<td><strong>Sinônimo</strong></td>
+<td><a href="#usuario">usuários</a>, espectadores</td>
+</tr>
+<tr>
+<td><strong>Noção</strong></td>
+<td>O <a href="#usuario">usuário</a> possui uma conta e utiliza o TV Time para rastrear, avaliar, discutir, e organizar conteúdos audiovisuais, como <a href="#serie">séries</a> e <a href="#filme">filmes</a>.</td>
+</tr>
+<tr>
+<td><strong>Impacto</strong></td>
+<td>- O <a href="#usuario">usuário</a> rastreia seus programas de TV e <a href="#filme">filmes</a> assistidos, podendo marcá-los como assistidos em sua <a href="#lista-geral">lista geral</a> ou <a href="#lista-personalizada">listas personalizadas</a>.<br>- O <a href="#usuario">usuário</a> avalia e classifica os <a href="#episodio">episódios</a> e <a href="#filme">filmes</a> que assistiu, atribuindo uma <a href="#nota-do-conteúdo">nota</a> com base em uma escala de 1 a 5 estrelas, o que contribui para o cálculo da nota do conteúdo.<br>- O <a href="#usuario">usuário</a> pode adicionar uma <a href="#reacao">reação</a> aos <a href="#episodio">episódios</a> e <a href="#filme">filmes</a>, escolhendo entre emojis que representam como ele se sentiu durante o conteúdo, como triste ou chocado.<br>- O <a href="#usuario">usuário</a> participa ativamente das discussões, podendo comentar em <a href="#filme">filmes</a>, <a href="#serie">séries</a> ou <a href="#episodio">episódios</a>, com textos, imagens e GIFs. Esses <a href="#comentario">comentários</a> podem ser curtidos e comentados por outros <a href="#usuario">usuário</a>s, sendo a quantidade e os comentários feitos visíveis em seu <a href="#perfil">perfil</a>.<br>- O <a href="#usuario">usuário</a> pode personalizar seu <a href="#perfil">perfil</a> e organizar seus conteúdos em <a href="#favorito">favoritos</a> e listas personalizadas, que são exibidos em seu <a href="#perfil">perfil</a>.<br>- O <a href="#usuario">usuário</a> tem acesso a <a href="#recomendacao">recomendações</a> de conteúdos baseadas em seus gostos, visualizadas na aba "Descobrir". Ele também pode ver o <a href="#tv-time-score">TV Time Score</a>, que indica a probabilidade de gostar de uma <a href="#serie">série</a> ou <a href="#filme">filme</a>.<br>- As <a href="#estatisticas">estatísticas</a> do <a href="#usuario">usuário</a> são exibidas em seu <a href="#perfil">perfil</a>, mostrando dados como tempo total assistido de <a href="#serie">séries</a> e <a href="#filme">filmes</a>, <a href="#episodio">episódios</a> assistidos e comparações em um ranking com as pessoas que ele segue.<br>- O <a href="#usuario">usuário</a> pode seguir outros <a href="#usuario">usuário</a>s e visualizar um ranking de seguidores, baseado no tempo total de conteúdos assistidos.<br>- Ao acessar uma <a href="#serie">série</a> ou <a href="#filme">filme</a>, o <a href="#usuario">usuário</a> pode ver onde o conteúdo está disponível para assistir, em plataformas de streaming ou canais de TV, contribuindo para a monetização do TV Time por meio de comissões de redirecionamento.<br>- A seção de <a href="#atividade-da-comunidade">atividade da comunidade</a> permite que o <a href="#usuario">usuário</a> veja o que os <a href="#usuario">usuários</a> que segue estão assistindo, promovendo uma maior interação e engajamento social.<br>- O <a href="#usuario">usuário</a> tem a possibilidade de desbloquear <a href="#emblema">emblemas</a> ao atingir metas, incentivando a utilização contínua e o engajamento com o app.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="lista-geral">Lista Geral</h3>
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Lista geral</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Substantivo</td>
+</tr>
+<tr>
+<td><strong>Sinônimo</strong></td>
+<td>Lista default, lista padrão</td>
+</tr>
+<tr>
+<td><strong>Noção</strong></td>
+<td>Uma lista automática que armazena todos os <a href="#filme">filmes</a> e <a href="#serie">séries</a> que o <a href="#usuario">usuário</a> marcar para adicionar. Existem duas listas padrão: uma para <a href="#serie">séries</a> e outra para  <a href="#filme">filmes</a>.</td>
+</tr>
+<tr>
+<td><strong>Impacto</strong></td>
+<td>- Todos os conteúdos adicionados pelo <a href="#usuario">usuário</a> são organizados na lista geral conforme seu status.<br>- A lista geral permite que o <a href="#usuario">usuário</a> filtre conteúdos por status para melhor gerenciamento do que está assistindo ou planeja assistir.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="lista-personalizada">Lista Personalizada</h3>
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Lista personalizada</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Substantivo</td>
+</tr>
+<tr>
+<td><strong>Sinônimo</strong></td>
+<td>Lista customizada, lista particular</td>
+</tr>
+<tr>
+<td><strong>Noção</strong></td>
+<td>Lista criada pelo <a href="#usuario">usuário</a> para organizar <a href="#filme">[filmes](#filme)</a> e <a href="#serie">séries</a> de acordo com suas preferências pessoais, como gêneros ou temas específicos.</td>
+</tr>
+<tr>
+<td><strong>Impacto</strong></td>
+<td>- O <a href="#usuario">usuário</a> pode criar, editar e deletar listas personalizadas para organizar seus conteúdos de forma específica.<br>- As listas personalizadas permitem que o <a href="#usuario">usuário</a> categorize seus conteúdos além da <a href="#lista-geral">lista geral</a>, proporcionando uma experiência de organização mais flexível.<br>- As listas personalizadas podem ser visualizadas no <a href="#perfil">perfil</a> do <a href="#usuario">usuário</a>.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="lista-de-favoritos">Lista de Favoritos</h3>
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Lista de Favoritos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Substantivo</td>
+</tr>
+<tr>
+<td><strong>Sinônimo</strong></td>
+<td>Lista de preferidos, favoritos</td>
+</tr>
+<tr>
+<td><strong>Noção</strong></td>
+<td>Seção dentro do perfil do <a href="#usuario">usuário</a> que exibe conteúdos (<a href="#serie">série</a> ou <a href="#filme">filme</a>) que foram marcados como <a href="#favorito">favoritos</a>. Existem duas listas separadas: uma para <a href="#serie">séries</a> e outra para <a href="#filme">filmes</a>. A lista é indicada por um ícone de coração.</td>
+</tr>
+<tr>
+<td><strong>Impacto</strong></td>
+<td>- A Lista de Favoritos permite ao <a href="#usuario">usuário</a> visualizar e acessar rapidamente suas séries e filmes preferidos.<br>- Os conteúdos marcados como <a href="#favorito">favoritos</a> são destacados no perfil do <a href="#usuario">usuário</a> e podem ser facilmente gerenciados e acessados.<br>- As listas de favoritos são separadas em duas categorias: uma para séries e outra para filmes, proporcionando uma organização clara e específica das preferências do <a href="#usuario">usuário</a>.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="favorito">Favorito</h3>
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Favorito</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Substantivo</td>
+</tr>
+<tr>
+<td><strong>Sinônimo</strong></td>
+<td>Favorito, preferido</td>
+</tr>
+<tr>
+<td><strong>Noção</strong></td>
+<td>Conteúdo (<a href="#serie">série</a> ou <a href="#filme">filme</a>) marcado como favorito pelo <a href="#usuario">usuário</a> no TV Time, armazenado na aba de <a href="#lista-de-favoritos">favoritos</a> em seu <a href="#perfil">perfil</a>.</td>
+</tr>
+<tr>
+<td><strong>Impacto</strong></td>
+<td>- Um conteúdo marcado como favorito é destacado na aba de <a href="#lista-de-favoritos">favoritos</a> no <a href="#perfil">perfil</a> do <a href="#usuario">usuário</a>.<br>- Os <a href="#favorito">favoritos</a> permitem que o <a href="#usuario">usuário</a> organize e acesse rapidamente seus <a href="#filme">filmes</a> e <a href="#serie">séries</a> preferidos.<br>- A inclusão de um conteúdo na lista de favoritos pode influenciar as <a href="#recomendacao">recomendações</a> personalizadas para o <a href="#usuario">usuário</a>, com base nas suas preferências.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="filme">Filme</h3>
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Filme</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Objeto</td>
+</tr>
+<tr>
+<td><strong>Sinônimo</strong></td>
+<td>Longa-metragem</td>
+</tr>
+<tr>
+<td><strong>Noção</strong></td>
+<td>Produção audiovisual de longa-metragem que o <a href="#usuario">usuário</a> pode adicionar, assistir e avaliar no TV Time.</td>
+</tr>
+<tr>
+<td><strong>Impacto</strong></td>
+<td>- O <a href="#usuario">usuário</a> pode adicionar o <a href="#filme">filme</a> à sua <a href="#lista-geral">lista geral</a> ou <a href="#lista-personalizada">listas personalizadas</a>.<br>- O <a href="#filme">filme</a> adicionado à <a href="#lista-geral">lista geral</a> pode ter os status: não assistido e assistido.<br>- O <a href="#filme">filme</a> pode ser marcado como favorito, adicionando-o à aba de <a href="#lista-de-favoritos">favoritos</a> no <a href="#perfil">perfil</a> do <a href="#usuario">usuário</a>.<br>- O tempo dedicado a assistir <a href="#filme">filmes</a> é exibido no <a href="#perfil">perfil</a> do <a href="#usuario">usuário</a>, junto com o número de <a href="#filme">filmes</a> assistidos.<br>- O <a href="#filme">filme</a> influencia as <a href="#recomendacao">recomendações</a> personalizadas baseadas nas preferências de visualização do <a href="#usuario">usuário</a>.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="serie">Série</h3>
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Série</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Objeto</td>
+</tr>
+<tr>
+<td><strong>Sinônimo</strong></td>
+<td><a href="#serie">Programa de TV</a>, show</td>
+</tr>
+<tr>
+<td><strong>Noção</strong></td>
+<td>Produção audiovisual em formato de <a href="#episodio">episódios</a> que o <a href="#usuario">usuário</a> pode adicionar, assistir e avaliar no TV Time.</td>
+</tr>
+<tr>
+<td><strong>Impacto</strong></td>
+<td>- O <a href="#usuario">usuário</a> pode adicionar a <a href="#serie">série</a> à sua <a href="#lista-geral">lista geral</a> ou <a href="#lista-personalizada">listas personalizadas</a>.<br>- A <a href="#serie">série</a> adicionada à <a href="#lista-geral">lista geral</a> pode ter status como assistindo, não iniciada, assistir depois, assistida, ou interrompida.<br>- A <a href="#serie">série</a> pode ser marcada como favorita, adicionando-a à aba de <a href="#lista-de-favoritos">favoritos</a> no <a href="#perfil">perfil</a> do <a href="#usuario">usuário</a>.<br>- O tempo dedicado a assistir <a href="#serie">séries</a>, assim como o número de <a href="#episodio">episódios</a> assistidos, é exibido no <a href="#perfil">perfil</a> do <a href="#usuario">usuário</a>.<br>- A <a href="#serie">série</a> influencia as <a href="#recomendacao">recomendações</a> personalizadas baseadas nas preferências de visualização do <a href="#usuario">usuário</a>.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="perfil">Perfil</h3>
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Perfil</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Substantivo</td>
+</tr>
+<tr>
+<td><strong>Sinônimo</strong></td>
+<td>Conta do <a href="#usuario">usuário</a>, página do <a href="#usuario">usuário</a></td>
+</tr>
+<tr>
+<td><strong>Noção</strong></td>
+<td>Página pessoal do <a href="#usuario">usuário</a> no TV Time, exibindo sua foto, capa, número de seguidores e seguidos, comentários feitos, tempo assistindo <a href="#serie">séries</a> e <a href="#filme">filmes</a>, número de <a href="#episodio">episódios</a> e <a href="#filme">filmes</a> assistidos, <a href="#lista-personalizada">listas personalizadas</a>, <a href="#lista-geral">lista geral</a>, e <a href="#favorito">favoritos</a>.</td>
+</tr>
+<tr>
+<td><strong>Impacto</strong></td>
+<td>- O <a href="#usuario">usuário</a> pode visualizar e gerenciar suas atividades e preferências no <a href="#perfil">perfil</a>.<br>- O <a href="#perfil">perfil</a> apresenta um resumo das interações do <a href="#usuario">usuário</a> com o conteúdo, incluindo o tempo dedicado e os <a href="#favorito">favoritos</a>.<br>- Permite que outros <a href="#usuario">usuários</a> vejam as preferências e atividades do <a href="#usuario">usuário</a>.<br>- O <a href="#perfil">perfil</a> é o local onde os <a href="#comentario">comentários</a> do <a href="#usuario">usuário</a> são exibidos, possibilitando a interação com outros <a href="#usuario">usuários</a>.<br>- As estatísticas de visualização, como o tempo total assistido e o número de <a href="#episodio">episódios</a> e <a href="#filme">filmes</a> assistidos, são mostradas, fornecendo uma visão geral da atividade do <a href="#usuario">usuário</a>.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="avaliacao">Avaliação</h3>
+<hr />
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Avaliação</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Substantivo</td>
+</tr>
+<tr>
+<td><strong>Sinônimo</strong></td>
+<td>Rating, Classificação</td>
+</tr>
+<tr>
+<td><strong>Noção</strong></td>
+<td>A pontuação atribuída pelo <a href="#usuario">usuário</a> a um <a href="#filme">filme</a> ou <a href="#episodio">episódio</a> de <a href="#serie">série</a> que assistiu, utilizando uma escala de 1 a 5 estrelas.</td>
+</tr>
+<tr>
+<td><strong>Impacto</strong></td>
+<td>- A nota do conteúdo reflete a opinião do <a href="#usuario">usuário</a> sobre o <a href="#episodio">episódio</a> ou <a href="#filme">filme</a> assistido.<br>- A nota é usada para calcular uma média geral, que pode ser exibida no <a href="#perfil">perfil</a> do conteúdo no TV Time.<br>- A avaliação influencia as recomendações e o algoritmo de popularidade do TV Time, ajudando outros <a href="#usuario">usuários</a> a descobrirem novos conteúdos.<br>- As avaliações contribuem para o cálculo do <a href="#tv-time-score">TV Time Score</a> e podem impactar a visibilidade do conteúdo nas listas de <a href="#recomendacao">recomendações</a>.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="episodio">Episódio</h3>
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Episódio</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Substantivo</td>
+</tr>
+<tr>
+<td><strong>Sinônimo</strong></td>
+<td>Capítulo, parte</td>
+</tr>
+<tr>
+<td><strong>Noção</strong></td>
+<td>Unidade de conteúdo pertencente exclusivamente a <a href="#serie">séries</a>. Cada episódio contém uma sinopse, nota, resumo e comentários.</td>
+</tr>
+<tr>
+<td><strong>Impacto</strong></td>
+<td>- O <a href="#usuario">usuário</a> pode avaliar e classificar cada episódio individualmente, contribuindo para a nota geral da <a href="#serie">série</a>.<br>- <a href="#episodio">Episódios</a> assistidos podem ser marcados como tal, com a opção de marcar automaticamente todos os anteriores ao último episódio assistido.<br>- Os <a href="#episodio">episódios</a> assistidos são contabilizados nas <a href="#estatisticas">estatísticas</a> de tempo assistido e número de <a href="#episodio">episódios</a> visualizados no <a href="#perfil">perfil</a> do <a href="#usuario">usuário</a>.<br>- A nota sobre o <a href="#episodio">episódio</a> influencia a avaliação da <a href="#serie">série</a> e pode impactar recomendações e visibilidade dentro da plataforma.<br>- A visualização e interações com <a href="#episodio">episódios</a> também afetam a representação das preferências e engajamento do <a href="#usuario">usuário</a> no <a href="#perfil">perfil</a>.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="reacao">Reação</h3>
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Reação</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Substantivo</td>
+</tr>
+<tr>
+<td><strong>Sinônimo</strong></td>
+<td>Emoção, sentimento</td>
+</tr>
+<tr>
+<td><strong>Noção</strong></td>
+<td>Expressão emocional do <a href="#usuario">usuário</a> sobre um <a href="#episodio">episódio</a> ou <a href="#filme">filme</a> assistido, utilizando emojis que representam diferentes estados emocionais, como triste, chocado, feliz, entre outros.</td>
+</tr>
+<tr>
+<td><strong>Impacto</strong></td>
+<td>- O <a href="#usuario">usuário</a> pode selecionar um emoji que melhor representa sua reação ao conteúdo assistido, permitindo uma forma rápida e visual de compartilhar como se sentiu.<br>- As reações contribuem para a análise e discussão sobre o impacto emocional dos <a href="#episodio">episódios</a> e <a href="#filme">filmes</a> entre os <a href="#usuario">usuários</a>.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="comentario">Comentário</h3>
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Comentário</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Substantivo</td>
+</tr>
+<tr>
+<td><strong>Sinônimo</strong></td>
+<td>Post, observação</td>
+</tr>
+<tr>
+<td><strong>Noção</strong></td>
+<td>Texto, imagem, ou GIF postado pelo <a href="#usuario">usuário</a> sobre um <a href="#filme">filme</a>, <a href="#serie">série</a>, ou <a href="#episodio">episódio</a> assistido, expressando opiniões, reações, ou reflexões sobre o conteúdo.</td>
+</tr>
+<tr>
+<td><strong>Impacto</strong></td>
+<td>- O <a href="#usuario">usuário</a> pode compartilhar seus pensamentos e opiniões em comentários, enriquecendo a discussão sobre o conteúdo assistido.<br>- Comentários podem incluir textos, imagens e GIFs, proporcionando uma maneira diversificada de expressão.<br>- Outros <a href="#usuario">usuários</a> podem curtir e responder aos comentários, fomentando a interação e o engajamento na comunidade.<br>- A quantidade de comentários feitos por um <a href="#usuario">usuário</a> e os comentários específicos podem ser visualizados no <a href="#perfil">perfil</a> do <a href="#usuario">usuário</a>.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="recomendacao">Recomendação</h3>
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Recomendação</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Substantivo</td>
+</tr>
+<tr>
+<td><strong>Sinônimo</strong></td>
+<td>Sugestão, indicação</td>
+</tr>
+<tr>
+<td><strong>Noção</strong></td>
+<td>Sugestões de <a href="#serie">séries</a> e <a href="#filme">filmes</a> oferecidas ao <a href="#usuario">usuário</a> com base em seu histórico de visualizações e preferências, exibidas na aba "Descobrir". As recomendações incluem as categorias: "Principais <a href="#serie">séries</a> para você", "<a href="#filme">filmes</a> em alta", e "Séries em alta".</td>
+</tr>
+<tr>
+<td><strong>Impacto</strong></td>
+<td>- As recomendações ajudam o <a href="#usuario">usuário</a> a descobrir novos conteúdos que se alinham com seus gostos e preferências.<br>- O <a href="#tv-time-score">TV Time Score</a>, um indicador que vai de 0 a 100%, é exibido quando o <a href="#usuario">usuário</a> acessa uma <a href="#serie">série</a> ou <a href="#filme">filme</a> não visto anteriormente, indicando a probabilidade de o <a href="#usuario">usuário</a> gostar daquele conteúdo.<br>- A aba "Descobrir" oferece uma variedade de recomendações para facilitar a exploração de novos conteúdos.<br>- As recomendações também podem influenciar a popularidade de séries e filmes, promovendo maior engajamento e interação na plataforma.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="tv-time-score">TV Time Score</h3>
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>TV Time Score</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Substantivo</td>
+</tr>
+<tr>
+<td><strong>Sinônimo</strong></td>
+<td>Score de recomendação</td>
+</tr>
+<tr>
+<td><strong>Noção</strong></td>
+<td>Um indicador que varia de 0 a 100%, exibido quando o <a href="#usuario">usuário</a> acessa uma <a href="#serie">série</a> ou <a href="#filme">filme</a> ainda não visto. Esse indicador estima a probabilidade de o <a href="#usuario">usuário</a> gostar daquele conteúdo, com base em seu histórico de visualizações e preferências.</td>
+</tr>
+<tr>
+<td><strong>Impacto</strong></td>
+<td>- O TV Time Score oferece ao <a href="#usuario">usuário</a> uma indicação rápida sobre o quão compatível aquele conteúdo é com seus gostos pessoais.<br>- Quanto maior a pontuação, maior a chance de o <a href="#usuario">usuário</a> gostar do conteúdo, auxiliando na decisão de assistir ou não à <a href="#serie">série</a> ou ao <a href="#filme">filme</a>.<br>- O TV Time Score é uma ferramenta importante para personalizar a experiência do <a href="#usuario">usuário</a> na plataforma, fornecendo recomendações mais precisas.<br>- A exibição do TV Time Score pode influenciar as escolhas de conteúdo do usuário, aumentando o engajamento e a satisfação com as recomendações oferecidas.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="favoritar">Favoritar</h3>
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Favoritar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Verbo</td>
+</tr>
+<tr>
+<td><strong>Sinônimo</strong></td>
+<td>Curtir</td>
+</tr>
+<tr>
+<td><strong>Noção</strong></td>
+<td>Ação de marcar uma <a href="#serie">série</a> ou <a href="#filme">filme</a> como <a href="#favorito">favorito</a> no TV Time, adicionando-o na aba respectiva de <a href="#favorito">favoritos</a> em seu <a href="#perfil">perfil</a>.</td>
+</tr>
+<tr>
+<td><strong>Impacto</strong></td>
+<td>- Ao favoritar um conteúdo, ele é adicionado à aba de <a href="#favorito">favoritos</a> no <a href="#perfil">perfil</a> do <a href="#usuario">usuário</a>.<br>- O <a href="#usuario">usuário</a> pode acessar facilmente seus <a href="#favorito">favoritos</a> através da aba específica em seu <a href="#perfil">perfil</a>.<br>- O processo de favoritar permite que o usuário organize e destaque seus conteúdos preferidos, tornando mais fácil a localização e o acesso a eles posteriormente.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="estatisticas">Estatísticas</h3>
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Estatísticas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Substantivo</td>
+</tr>
+<tr>
+<td><strong>Sinônimo</strong></td>
+<td>Métricas, Dados de visualização</td>
+</tr>
+<tr>
+<td><strong>Noção</strong></td>
+<td>Informações que mostram o tempo total assistido em <a href="#serie">séries</a> e <a href="#filme">filmes</a>, o número de <a href="#episodio">episódios</a> e <a href="#filme">filmes</a> assistidos, exibidos no <a href="#perfil">perfil</a> do <a href="#usuario">usuário</a>.</td>
+</tr>
+<tr>
+<td><strong>Impacto</strong></td>
+<td>- Exibe dados detalhados sobre o tempo total assistido, separados por <a href="#serie">séries</a> e <a href="#filme">filmes</a>, assim como o número de <a href="#episodio">episódios</a> e <a href="#filme">filmes</a> assistidos.<br>- O <a href="#usuario">usuário</a> pode acessar uma página dedicada de <a href="#estatisticas">estatísticas</a> para ver dados adicionais, como <a href="#serie">séries</a> e <a href="#filme">filmes</a> assistidos por mês.<br>- O app permite comparar o tempo de visualização com outras pessoas que o <a href="#usuario">usuário</a> segue, através de um ranking.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="seguidores">Seguidores</h3>
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Seguidores</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Substantivo</td>
+</tr>
+<tr>
+<td><strong>Sinônimo</strong></td>
+<td>Amigos</td>
+</tr>
+<tr>
+<td><strong>Noção</strong></td>
+<td><a href="#usuario">Usuários</a> que seguem o <a href="#perfil">perfil</a> de outro <a href="#usuario">usuário</a> no TV Time, permitindo acompanhar suas atividades e interações no app.</td>
+</tr>
+<tr>
+<td><strong>Impacto</strong></td>
+<td>- Os seguidores podem ver as atividades, listas, <a href="#favorito">favoritos</a> e <a href="#estatisticas">estatísticas</a> do <a href="#usuario">usuário</a> que seguem.<br>- O número de seguidores é exibido no <a href="#perfil">perfil</a> do <a href="#usuario">usuário</a>, junto com a lista de pessoas que o <a href="#usuario">usuário</a> segue.<br>- O TV Time permite comparar o tempo que um <a href="#usuario">usuário</a> assistiu <a href="#serie">séries</a> e <a href="#filme">filmes</a> com o tempo de seus seguidores, apresentando esses dados em um ranking, incentivando uma competição saudável entre eles.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="plataforma">Plataforma</h3>
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Plataforma</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Substantivo</td>
+</tr>
+<tr>
+<td><strong>Sinônimo</strong></td>
+<td>Onde assisir, canais disponíveis</td>
+</tr>
+<tr>
+<td><strong>Noção</strong></td>
+<td>Indica onde uma <a href="#serie">série</a> ou <a href="#filme">filme</a> pode ser assistido, mostrando as plataformas de streaming ou canais de TV disponíveis.</td>
+</tr>
+<tr>
+<td><strong>Impacto</strong></td>
+<td>- Quando o <a href="#usuario">usuário</a> acessa a página de uma <a href="#serie">série</a> ou <a href="#filme">filme</a>, ele pode ver onde o conteúdo está disponível para assistir.<br>- A lista inclui tanto plataformas de streaming quanto canais de TV tradicionais.<br>- Ao clicar em uma dessas opções, o <a href="#usuario">usuário</a> é redirecionado para a plataforma correspondente, permitindo assistir ao conteúdo diretamente.<br>- Essa funcionalidade é uma fonte de monetização para o TV Time, pois a plataforma recebe uma comissão pelas redirecionamentos feitos através do app.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="notificacoes">Notificações</h3>
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Notificações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Substantivo</td>
+</tr>
+<tr>
+<td><strong>Sinônimo</strong></td>
+<td>Alertas, Avisos</td>
+</tr>
+<tr>
+<td><strong>Noção</strong></td>
+<td>Mensagens enviadas ao <a href="#usuario">usuário</a> para informar sobre eventos relevantes no aplicativo, como lançamento de novos episódios, interações sociais, e conquistas.</td>
+</tr>
+<tr>
+<td><strong>Impacto</strong></td>
+<td>- As notificações alertam o <a href="#usuario">usuário</a> sobre novos episódios de <a href="#serie">séries</a> que estejam adicionadas à sua lista.<br>- Notificações informam o <a href="#usuario">usuário</a> sobre novos seguidores, curtidas, e comentários em suas postagem em séries ou filmes.<br>- As notificações também comunicam quando o <a href="#usuario">usuário</a> desbloqueia um <a href="#emblema">emblema</a> após atingir uma meta estabelecida no aplicativo.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="emblema">Emblema</h3>
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Emblema</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Substantivo</td>
+</tr>
+<tr>
+<td><strong>Sinônimo</strong></td>
+<td>Badge, Condecoração</td>
+</tr>
+<tr>
+<td><strong>Noção</strong></td>
+<td>Recompensa visual desbloqueada pelo <a href="#usuario">usuário</a> ao atingir certas metas no aplicativo, exibida no <a href="#perfil">perfil</a> do <a href="#usuario">usuário</a>.</td>
+</tr>
+<tr>
+<td><strong>Impacto</strong></td>
+<td>- <a href="#emblema">Emblemas</a> incentivam o engajamento do <a href="#usuario">usuário</a> ao proporem metas a serem atingidas.<br>- Cada <a href="#emblema">emblema</a> tem três níveis: bronze, prata e ouro, com dificuldade crescente.<br>- Os <a href="#emblema">emblemas</a> são exibidos nas <a href="#estatisticas">estatísticas</a> do <a href="#usuario">usuário</a> e podem ser visualizados por outros <a href="#usuario">usuários</a>.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="atividade-da-comunidade">Atividade da Comunidade</h3>
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Atividade da Comunidade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Substantivo</td>
+</tr>
+<tr>
+<td><strong>Sinônimo</strong></td>
+<td>Atividade Social, Interações da Comunidade</td>
+</tr>
+<tr>
+<td><strong>Noção</strong></td>
+<td>Seção localizada dentro da aba de recomendações do TV Time que exibe a atividade recente dos <a href="#usuario">usuários</a> que o <a href="#usuario">usuário</a> segue. Esta seção mostra filmes e <a href="#serie">séries</a> que foram marcados como assistidos pelos <a href="#usuario">usuários</a> seguidos.</td>
+</tr>
+<tr>
+<td><strong>Impacto</strong></td>
+<td>- Permite que o <a href="#usuario">usuário</a> veja o que os <a href="#usuario">usuários</a> que segue estão assistindo recentemente, oferecendo uma visão das preferências e atividades de sua rede social.<br>- A <a href="#atividade-da-comunidade">atividade da comunidade</a> ajuda a descobrir novos conteúdos através das escolhas de seus seguidores.<br>- Facilita a interação social e engajamento, permitindo ao <a href="#usuario">usuário</a> acompanhar e comentar sobre as atividades de seus amigos e seguidores.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="ator">Ator</h3>
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Ator</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Substantivo</td>
+</tr>
+<tr>
+<td><strong>Sinônimo</strong></td>
+<td>Atriz, Artista</td>
+</tr>
+<tr>
+<td><strong>Noção</strong></td>
+<td>Um indivíduo que interpreta personagens em <a href="#filme">filmes</a> e <a href="#serie">séries</a>. Na plataforma, os detalhes sobre o ator incluem nome, foto data e local de nascimento, filmografia e links para redes sociais e Wikipédia.</td>
+</tr>
+<tr>
+<td><strong>Impacto</strong></td>
+<td>- Oferece informações detalhadas sobre a carreira e a vida dos atores.<br>- Permite ao <a href="#usuario">usuário</a> explorar a filmografia completa do ator e acessar suas redes sociais e páginas externas.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="elenco">Elenco</h3>
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Elenco</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Substantivo</td>
+</tr>
+<tr>
+<td><strong>Sinônimo</strong></td>
+<td>Atores, Cast</td>
+</tr>
+<tr>
+<td><strong>Noção</strong></td>
+<td>O conjunto de atores que participam de um <a href="#filme">filme</a> ou <a href="#serie">série</a>. Na plataforma, o elenco é exibido nas páginas dos filmes e séries na seção "sobre", permitindo que o <a href="#usuario">usuário</a> veja quem participou das produções e que personagem o mesmo interpretou.</td>
+</tr>
+<tr>
+<td><strong>Impacto</strong></td>
+<td>- Permite ao <a href="#usuario">usuário</a> explorar mais sobre os atores envolvidos nas produções.<br>- Facilita a navegação para informações detalhadas sobre cada ator e sua participação nas produções.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="filmografia">Filmografia</h3>
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Filmografia</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Classificação</strong></td>
+<td>Substantivo</td>
+</tr>
+<tr>
+<td><strong>Sinônimo</strong></td>
+<td>Carreira, Trabalho</td>
+</tr>
+<tr>
+<td><strong>Noção</strong></td>
+<td>A lista completa de <a href="#filme">filmes</a> e <a href="#serie">séries</a> nas quais um <a href="#ator">ator</a> participou. Inclui todas as produções relevantes, permitindo ao <a href="#usuario">usuário</a> visualizar o histórico de trabalho do ator.</td>
+</tr>
+<tr>
+<td><strong>Impacto</strong></td>
+<td>- Facilita a visualização das contribuições de um ator para diferentes produções.<br>- Oferece opções de filtragem para explorar trabalhos específicos em "Séries", "Filmes" ou ambos.</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Voltar ao topo
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.tabs", "navigation.sections", "toc.integrate", "navigation.top", "search.suggest", "search.highlight", "content.tabs.link", "content.code.annotation", "content.code.copy"], "search": "../../../assets/javascripts/workers/search.07f07601.min.js", "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.result.more.one": "Mais 1 nesta p\u00e1gina", "search.result.more.other": "Mais # nesta p\u00e1gina", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version": "Selecione a vers\u00e3o"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.56dfad97.min.js"></script>
+      
+    
+  </body>
+</html>
